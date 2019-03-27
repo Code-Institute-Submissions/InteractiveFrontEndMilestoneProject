@@ -1,0 +1,56 @@
+/*-------------------------------Navbar-------------------------------*/
+
+.navbar-brand {
+    border-right: none;
+}
+
+
+/*-------------------------------Header-------------------------------*/
+
+header {
+    border-bottom: 1px solid rgba(230, 230, 230, 0.24);
+    margin-bottom: 20px;
+}
+
+#profile {
+    padding-top: 15px;
+}
+
+#profile img {
+    width: 150px;
+    height: 150px;
+}
+
+
+#social {
+    padding-right: 0px;
+}
+
+#social ul {
+    padding-top: 5px;
+    padding-left: 0px;
+    margin-left: 8px;
+}
+
+#social li {
+    padding-left: 5px;
+    padding-right: 10px;
+    font-size: 22px;
+    display: inline;
+}
+
+#sector {
+    padding-top: 24px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#sector-header {
+    padding-bottom: 15px;
+}
+
+.btn-primary {
+    margin-right: 8px;
+}
+
+/*-------------------------------Main-------------------------------*/
