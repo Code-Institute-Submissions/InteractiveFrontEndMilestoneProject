@@ -9,7 +9,7 @@
 
 header {
     border-bottom: 1px solid rgba(230, 230, 230, 0.24);
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 #profile {
@@ -19,6 +19,7 @@ header {
 #profile img {
     width: 150px;
     height: 150px;
+    border-radius: 4px;
 }
 
 
@@ -54,3 +55,25 @@ header {
 }
 
 /*-------------------------------Main-------------------------------*/
+
+/*------Charts------*/
+
+#price-per-share {
+    fill: #fafafa;
+    background: #aaa;
+}
+
+#price-per-share .bar {
+    fill: #282b2f;
+}
+
+#price-per-share .bar text {
+    text-anchor: end !important;
+    transform: rotate(-45deg)!important;
+}
+
+g .x.axis text {
+    text-anchor: end !important;
+    transform: rotate(-45deg);
+}
+>
