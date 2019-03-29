@@ -1,0 +1,3338 @@
+Id,country,points,price,province,region,variety
+1,Argentina,88,15,Mendoza Province,Agrelo,Cabernet Sauvignon
+2,Argentina,94,50,Mendoza Province,Mendoza,Cabernet Sauvignon
+3,Argentina,86,10,Other,San Juan,Sauvignon Blanc
+4,Argentina,86,23,Mendoza Province,Mendoza,Malbec
+5,Argentina,86,15,Mendoza Province,Mendoza,Malbec
+6,Argentina,86,14,Mendoza Province,Mendoza,Torrontas
+7,Argentina,88,25,Mendoza Province,Tupungato,Malbec
+8,Argentina,86,26,Mendoza Province,Mendoza,Torrontas
+9,Argentina,86,39,Other,Argentina,Malbec
+10,Argentina,85,14,Mendoza Province,Mendoza,Malbec
+11,Argentina,85,13,Mendoza Province,Mendoza,White Blend
+12,Argentina,85,30,Mendoza Province,Tupungato,Bordeaux-style Red Blend
+13,Argentina,85,15,Mendoza Province,Valle de Uco,Sparkling Blend
+14,Argentina,93,40,Mendoza Province,Valle de Uco,Malbec
+15,Argentina,85,11,Mendoza Province,Mendoza,Malbec
+16,Argentina,85,12,Mendoza Province,Mendoza,Malbec
+17,Argentina,88,18,Other,Cafayate,Torrontas
+18,Argentina,88,29,Other,Alto Valle del Ra?o Negro,Cabernet Franc
+19,Argentina,88,12,Other,Cafayate,Torrontas
+20,Argentina,93,38,Mendoza Province,Mendoza,Cabernet Blend
+21,Argentina,85,35,Mendoza Province,Mendoza,Malbec
+22,Argentina,85,13,Mendoza Province,Mendoza,Malbec
+23,Argentina,87,11,Mendoza Province,Mendoza,Malbec
+24,Argentina,87,38,Mendoza Province,Mendoza,Malbec
+25,Argentina,87,18,Mendoza Province,Mendoza,Pinot Noir
+26,Argentina,88,21,Mendoza Province,Mendoza,Cabernet Sauvignon
+27,Argentina,88,28,Mendoza Province,Uco Valley,Malbec
+28,Argentina,90,30,Mendoza Province,Uco Valley,Malbec
+29,Argentina,90,24,Mendoza Province,Mendoza,Malbec
+30,Argentina,85,16,Other,La Rioja,Torrontas
+31,Argentina,84,12,Mendoza Province,Mendoza,Malbec
+32,Argentina,84,12,Mendoza Province,Mendoza,Bordeaux-style Red Blend
+33,Argentina,84,17,Mendoza Province,Tupungato,Chenin Blanc
+34,Argentina,84,17,Mendoza Province,Vista Flores,Malbec
+35,Argentina,87,18,Mendoza Province,Mendoza,Malbec
+36,Argentina,87,12,Mendoza Province,Mendoza,Torrontas
+37,Argentina,88,15,Other,Calchaqua? Valley,Torrontas
+38,Argentina,92,50,Mendoza Province,Mendoza,Cabernet Sauvignon
+39,Argentina,84,11,Mendoza Province,Mendoza,Cabernet Sauvignon
+40,Argentina,84,11,Other,San Juan,Syrah
+41,Argentina,83,,Mendoza Province,Mendoza,Champagne Blend
+42,Argentina,83,15,Mendoza Province,Mendoza,Sauvignon Blanc
+43,Argentina,83,12,Mendoza Province,Mendoza,Cabernet Sauvignon
+44,Argentina,87,20,Mendoza Province,Mendoza,Cabernet Sauvignon
+45,Argentina,87,19,Mendoza Province,Mendoza,Bordeaux-style Red Blend
+46,Argentina,88,18,Mendoza Province,Mendoza,Red Blend
+47,Argentina,88,25,Mendoza Province,Mendoza,Red Blend
+48,Argentina,83,23,Mendoza Province,Mendoza,Sparkling Blend
+49,Argentina,82,8,Other,Argentina,Malbec
+50,Argentina,81,12,Mendoza Province,Mendoza,Torrontas
+51,Argentina,81,18,Mendoza Province,Mendoza,Red Blend
+52,Argentina,86,19,Mendoza Province,Mendoza,Cabernet Sauvignon
+53,Argentina,87,32,Mendoza Province,Mendoza,Malbec
+54,Argentina,92,40,Mendoza Province,LujaÁn de Cuyo,Malbec
+55,Argentina,92,40,Mendoza Province,Mendoza,Cabernet Sauvignon
+56,Argentina,86,21,Mendoza Province,Mendoza,Malbec
+57,Argentina,92,38,Mendoza Province,Mendoza,Malbec
+58,Argentina,90,20,Mendoza Province,Mendoza,Malbec
+59,Argentina,87,15,Mendoza Province,Mendoza,White Blend
+60,Argentina,87,39,Mendoza Province,Uco Valley,Malbec
+61,Argentina,87,12,Mendoza Province,Mendoza,Torrontas
+62,Argentina,87,28,Mendoza Province,Uco Valley,Cabernet Sauvignon
+63,Argentina,89,22,Mendoza Province,LujaÁn de Cuyo,Malbec
+64,Argentina,86,13,Mendoza Province,Mendoza,Cabernet Sauvignon
+65,Argentina,86,11,Mendoza Province,Mendoza,Chenin Blanc
+66,Argentina,86,16,Mendoza Province,LujaÁn de Cuyo,Cabernet Sauvignon
+67,Argentina,89,25,Mendoza Province,Uco Valley,Red Blend
+68,Argentina,89,35,Mendoza Province,Mendoza,Red Blend
+69,Argentina,86,14,Mendoza Province,Mendoza,Torrontas
+70,Argentina,86,15,Mendoza Province,Mendoza,Petit Verdot
+71,Argentina,87,17,Mendoza Province,Tupungato,Cabernet Sauvignon
+72,Argentina,87,14,Mendoza Province,Mendoza,Malbec
+73,Argentina,87,19,Mendoza Province,Mendoza,Cabernet Sauvignon
+74,Argentina,91,30,Mendoza Province,Mendoza,Malbec
+75,Argentina,89,20,Mendoza Province,Mendoza,Cabernet Sauvignon
+76,Argentina,89,15,Mendoza Province,Mendoza,Malbec
+77,Argentina,87,23,Other,Cafayate,Cabernet Sauvignon
+78,Argentina,86,12,Other,Salta,Torrontas
+79,Argentina,91,45,Mendoza Province,Uco Valley,Malbec
+80,Argentina,85,15,Mendoza Province,Mendoza,Syrah
+81,Argentina,85,14,Mendoza Province,Mendoza,Pinot Grigio
+82,Argentina,85,22,Mendoza Province,Mendoza,Malbec
+83,Argentina,85,13,Other,Patagonia,Cabernet Sauvignon
+84,Argentina,86,11,Mendoza Province,Uco Valley,Cabernet Sauvignon
+85,Argentina,91,30,Mendoza Province,Mendoza,Malbec
+86,Argentina,85,13,Other,Patagonia,Cabernet Sauvignon
+87,Argentina,85,15,Mendoza Province,Mendoza,Red Blend
+88,Argentina,86,13,Other,Patagonia,Malbec
+89,Argentina,88,13,Mendoza Province,LujaÁn de Cuyo,Cabernet Sauvignon
+90,Argentina,88,21,Mendoza Province,Mendoza,Cabernet Sauvignon
+91,Argentina,88,15,Mendoza Province,Valle de Uco,Malbec
+92,Argentina,88,25,Other,Cafayate,Torrontas
+93,Argentina,85,22,Mendoza Province,Mendoza,Pinot Noir
+94,Argentina,84,14,Mendoza Province,Maipa¼,Cabernet Sauvignon
+95,Argentina,84,13,Mendoza Province,Mendoza,Malbec
+96,Argentina,86,13,Other,Patagonia,Malbec
+97,Argentina,86,10,Mendoza Province,Mendoza,Cabernet Sauvignon
+98,Argentina,86,16,Other,Salta,Torrontas
+99,Argentina,90,30,Mendoza Province,Uco Valley,Cabernet Sauvignon
+100,Argentina,88,25,Other,Cafayate,Torrontas
+101,Argentina,88,50,Mendoza Province,Valle de Uco,Malbec
+102,Argentina,84,13,Mendoza Province,Mendoza,Malbec
+103,Argentina,84,13,Mendoza Province,Mendoza,Malbec
+104,Argentina,84,12,Mendoza Province,Tupungato,Sauvignon Blanc
+105,Australia,90,20,South Australia,Adelaide Hills,Pinot Noir
+106,Australia,88,42,Victoria,Yarra Valley,Pinot Noir
+107,Australia,90,65,South Australia,McLaren Vale,Syrah
+108,Australia,90,65,Tasmania,Tasmania,Pinot Noir
+109,Australia,88,25,South Australia,Eden Valley,Chardonnay
+110,Australia,90,25,South Australia,Barossa Valley,Syrah
+111,Australia,90,33,Victoria,Nagambie Lakes,Marsanne
+112,Australia,98,125,South Australia,Barossa Valley,Syrah
+113,Australia,90,17,South Australia,Adelaide Hills,Pinot Noir
+114,Australia,90,25,South Australia,McLaren Vale,Rosa
+115,Australia,89,34,Victoria,Nagambie Lakes,Marsanne
+116,Australia,87,42,Victoria,Yarra Valley,Pinot Noir
+117,Australia,89,34,Victoria,Nagambie Lakes,Marsanne
+118,Australia,89,20,South Australia,Adelaide Hills,Pinot Noir
+119,Australia,89,20,Victoria,Victoria,Pinot Noir
+120,Australia,95,500,South Australia,South Australia,Cabernet Sauvignon
+121,Australia,95,200,South Australia,Eden Valley,Syrah
+122,Australia,95,95,South Australia,Langhorne Creek,Red Blend
+123,Australia,95,185,South Australia,Barossa Valley,Grenache
+124,Australia,89,35,Victoria,Victoria,Riesling
+125,Australia,89,16,South Australia,Barossa Valley,Syrah
+126,Australia,94,90,South Australia,Barossa Valley,Grenache
+127,Australia,89,13,Australia Other,Australia,Sparkling Blend
+128,Australia,94,65,South Australia,Barossa,Red Blend
+129,Australia,94,50,South Australia,Barossa,Syrah
+130,Australia,93,120,South Australia,Barossa,Syrah
+131,Australia,93,120,South Australia,Barossa,Syrah
+132,Australia,93,54,South Australia,Barossa,Grenache
+133,Australia,93,100,South Australia,Wrattonbully,Cabernet Sauvignon
+134,Australia,93,185,South Australia,McLaren Vale,Syrah
+135,Austria,93,21,Thermenregion,,St. Laurent
+136,Austria,93,19,Burgenland,,Blauburgunder
+137,Austria,93,25,Carnuntum,,Blaufraunkisch
+138,Austria,93,,Burgenland,,Pinot Noir
+139,Austria,93,,Burgenland,,Blaufraunkisch
+140,Austria,93,27,Niederasterreich,,Pinot Noir
+141,Austria,93,,Niederasterreich,,Graaner Veltliner
+142,Austria,93,19,Thermenregion,,Pinot Noir
+143,Austria,92,17,Wagram,,Graaner Veltliner
+144,Austria,92,18,Kamptal,,Graaner Veltliner
+145,Austria,92,17,Wagram,,Graaner Veltliner
+146,Austria,92,18,Kamptal,,Graaner Veltliner
+147,Austria,92,22,Niederasterreich,,Graaner Veltliner
+148,Austria,92,15,Wagram,,Graaner Veltliner
+149,Austria,92,15,Niederasterreich,Niederasterreich,Red Blend
+150,Austria,92,25,Carnuntum,,Zweigelt
+151,Austria,92,,Burgenland,,Graaner Veltliner
+152,Austria,92,24,Eisenberg,,Blaufraunkisch
+153,Austria,92,17,Kamptal,,Riesling
+154,Austria,92,14,Carnuntum,,Pinot Noir
+155,Austria,92,22,Burgenland,,Blaufraunkisch
+156,Austria,92,20,Burgenland,,St. Laurent
+157,Austria,92,20,Wachau,,Riesling
+158,Austria,92,28,Burgenland,Burgenland,Red Blend
+159,Austria,92,20,Wagram,,Graaner Veltliner
+160,Austria,92,25,Kremstal,,Graaner Veltliner
+161,Austria,92,43,Kamptal,,Graaner Veltliner
+162,Austria,92,15,Burgenland,,Blaufraunkisch
+163,Austria,92,18,Vienna,,Graaner Veltliner
+164,Austria,91,22,Niederasterreich,,Gelber Muskateller
+165,Austria,91,15,Kremstal,,Graaner Veltliner
+166,Austria,91,18,Burgenland,,Blaufraunkisch
+167,Austria,91,13,Burgenland,,Graaner Veltliner
+168,Austria,91,17,Niederasterreich,,Gelber Muskateller
+169,Austria,91,17,Burgenland,,Blaufraunkisch
+170,Austria,91,21,Thermenregion,,Pinot Noir
+171,Austria,91,20,Niederasterreich,,Graaner Veltliner
+172,Austria,91,20,Weinviertel,,Graaner Veltliner
+173,Austria,91,28,Burgenland,,St. Laurent
+174,Austria,91,20,Kremstal,,Graaner Veltliner
+175,Austria,91,,Wiener Gemischter Satz,,White Blend
+176,Austria,91,18,Wiener Gemischter Satz,,White Blend
+177,Austria,91,20,Weinviertel,,Graaner Veltliner
+178,Austria,91,21,Burgenland,,Zweigelt
+179,Austria,91,16,Carnuntum,,Zweigelt
+180,Austria,91,24,Niederasterreich,,Gelber Muskateller
+181,Austria,91,20,Weinviertel,,Graaner Veltliner
+182,Austria,91,21,Burgenland,,Zweigelt
+183,Austria,91,16,Carnuntum,,Zweigelt
+184,Austria,91,24,Niederasterreich,,Gelber Muskateller
+185,Austria,91,,Burgenland,,Zweigelt
+186,Austria,91,23,Kremstal,,Graaner Veltliner
+187,Austria,91,23,Kremstal,,Riesling
+188,Austria,91,14,Niederasterreich,,St. Laurent
+189,Austria,91,23,Niederasterreich,,Graaner Veltliner
+190,Austria,91,16,Burgenland,,Blaufraunkisch
+191,Austria,91,25,Wachau,,Graaner Veltliner
+192,Austria,91,,Kamptal,,Graaner Veltliner
+193,Austria,91,19,Burgenland,,Blaufraunkisch
+194,Austria,91,32,Carnuntum,,Zweigelt
+195,Austria,91,15,Burgenland,,Graaner Veltliner
+196,Austria,91,,Kamptal,,Graaner Veltliner
+197,Austria,91,17,Carnuntum,Carnuntum,Red Blend
+198,Austria,91,17,Carnuntum,Carnuntum,Red Blend
+199,Austria,90,14,Carnuntum,,Zweigelt
+200,Austria,90,43,Kamptal,,Riesling
+201,Austria,90,15,Kamptal,,Graaner Veltliner
+202,Austria,90,15,Burgenland,,Chardonnay
+203,Austria,90,18,Weinland aÐsterreich,,Rosa
+204,Canada,90,70,British Columbia,Okanagan Valley,Bordeaux-style Red Blend
+205,Canada,92,17,Ontario,Beamsville Bench,Riesling
+206,Canada,90,24,British Columbia,Okanagan Valley,Riesling
+207,Canada,90,19,British Columbia,Okanagan Valley,Pinot Gris
+208,Canada,90,38,British Columbia,Okanagan Valley,Syrah
+209,Canada,91,30,Ontario,Niagara Peninsula,Riesling
+210,Canada,89,32,British Columbia,Okanagan Valley,Merlot
+211,Canada,89,40,British Columbia,Okanagan Valley,Pinot Noir
+212,Canada,89,18,British Columbia,Okanagan Valley,Chardonnay
+213,Canada,89,40,British Columbia,Okanagan Valley,Pinot Noir
+214,Canada,89,40,British Columbia,Okanagan Valley,Pinot Noir
+215,Canada,90,15,Ontario,Niagara Peninsula,Riesling
+216,Canada,88,24,British Columbia,Okanagan Valley,Chardonnay
+217,Canada,90,30,British Columbia,Okanagan Valley,Chardonnay
+218,Canada,88,18,British Columbia,Okanagan Valley,Rosa
+219,Chile,89,19,Colchagua Valley,Colchagua Valley,Red Blend
+220,Chile,92,30,Colchagua Valley,,Bordeaux-style Red Blend
+221,Chile,89,20,Maipo Valley,,Cabernet Sauvignon
+222,Chile,89,20,Casablanca Valley,,Pinot Noir
+223,Chile,89,20,Cachapoal Valley,,Syrah
+224,Chile,89,25,Colchagua Valley,,Cabernet Sauvignon
+225,Chile,89,17,Leyda Valley,,Sauvignon Blanc
+226,Chile,90,24,Peumo,Peumo,Red Blend
+227,Chile,92,30,Colchagua Valley,,Bordeaux-style Red Blend
+228,Chile,92,100,Colchagua Valley,Colchagua Valley,Red Blend
+229,Chile,89,17,Leyda Valley,,Sauvignon Blanc
+230,Chile,89,22,Leyda Valley,,Sauvignon Blanc
+231,Chile,89,20,Colchagua Valley,,Cabernet Sauvignon
+232,Chile,91,100,Colchagua Valley,Colchagua Valley,Red Blend
+233,Chile,91,30,Colchagua Valley,Colchagua Valley,Red Blend
+234,Chile,91,100,Aconcagua Valley,,Petit Verdot
+235,Chile,90,27,Cachapoal Valley,,Syrah
+236,Chile,92,85,Colchagua Valley,,Carmenare
+237,Chile,88,13,Casablanca Valley,,Sauvignon Blanc
+238,Chile,91,23,Marchigue,,Syrah
+239,Chile,91,20,Aconcagua Valley,,Syrah
+240,Chile,91,22,Rapel Valley,Rapel Valley,Red Blend
+241,Chile,88,20,Casablanca Valley,,Pinot Noir
+242,Chile,88,12,Maipo Valley,,Merlot
+243,Chile,88,20,Casablanca Valley,,Pinot Noir
+244,Chile,88,35,Cachapoal Valley,,Cabernet Franc
+245,Chile,90,15,Colchagua Valley,,Carmenare
+246,Chile,90,22,Aconcagua Costa,,Sauvignon Blanc
+247,Chile,91,85,Maipo Valley,Maipo Valley,Red Blend
+248,Chile,90,60,Elqui Valley,,Syrah
+249,Chile,90,25,Colchagua Valley,,Syrah
+250,Chile,90,25,Maipo Valley,,Cabernet Franc
+251,Chile,88,28,San Antonio,,Syrah
+252,Chile,88,15,San Antonio,,Sauvignon Blanc
+253,Chile,91,71,Maule Valley,Maule Valley,Red Blend
+254,Chile,91,45,Cachapoal Valley,Cachapoal Valley,Red Blend
+255,Chile,91,19,Colchagua Valley,Colchagua Valley,Red Blend
+256,Chile,91,75,Maipo Valley,Maipo Valley,Red Blend
+257,Chile,91,30,Colchagua Valley,Colchagua Valley,Red Blend
+258,Chile,90,30,Maipo Valley,,Cabernet Sauvignon
+259,Chile,88,15,Elqui Valley,,Sauvignon Blanc
+260,Chile,88,18,San Antonio,,Sauvignon Blanc
+261,Chile,88,20,Colchagua Valley,,Syrah
+262,Chile,88,20,Maule Valley,,Carmenare
+263,Chile,91,40,Maipo Valley,Maipo Valley,Red Blend
+264,Chile,89,17,Colchagua Valley,,Sauvignon Blanc
+265,Chile,89,20,Aconcagua Valley,,Cabernet Sauvignon
+266,Chile,88,20,Colchagua Valley,,Cabernet Sauvignon
+267,Chile,89,24,Casablanca Valley,,Chardonnay
+268,Chile,89,20,Ba?o Ba?o Valley,,Riesling
+269,Chile,90,49,Cachapoal Valley,Cachapoal Valley,Red Blend
+270,Chile,89,25,Cachapoal Valley,Cachapoal Valley,Red Blend
+271,Chile,89,235,Aconcagua Valley,,Carmenare
+272,Chile,89,95,Aconcagua Costa,,Chardonnay
+273,Chile,87,14,Marchigue,,Syrah
+274,Chile,87,20,Leyda Valley,,Sauvignon Blanc
+275,Chile,87,24,Leyda Valley,,Pinot Noir
+276,Chile,89,28,Maipo Valley,Maipo Valley,Red Blend
+277,Chile,89,22,Leyda Valley,,Sauvignon Blanc
+278,Chile,89,24,Colchagua Valley,,Sauvignon Blanc
+279,Chile,89,22,Leyda Valley,,Riesling
+280,Chile,89,17,Casablanca Valley,,Sauvignon Blanc
+281,Chile,87,10,Maule Valley,,Sauvignon Blanc
+282,Chile,87,25,Maipo Valley,,Cabernet Sauvignon
+283,Chile,89,40,Maipo Valley,,Petit Verdot
+284,Chile,90,25,Leyda Valley,,Pinot Noir
+285,Chile,90,50,Maipo Valley,Maipo Valley,Red Blend
+286,Chile,87,25,Maipo Valley,,Cabernet Sauvignon
+287,Chile,87,15,Casablanca Valley,,Pinot Noir
+288,Chile,87,12,Maule Valley,,Carmenare
+289,Chile,87,19,Cachapoal Valley,,Carmenare
+290,Chile,89,20,Aconcagua Costa,,Chardonnay
+291,Chile,90,30,Colchagua Valley,,Carmenare
+292,Chile,87,12,Elqui Valley,,Sauvignon Blanc
+293,Chile,88,50,Elqui Valley,,Syrah
+294,Chile,90,30,Colchagua Valley,Colchagua Valley,Red Blend
+295,Chile,90,24,Peumo,Peumo,Red Blend
+296,Chile,87,20,Maule Valley,,Cabernet Sauvignon
+297,Chile,87,13,Colchagua Valley,,Carmenare
+298,Chile,87,12,Maule Valley,,Pinot Noir
+301,France,88,,Loire Valley,Cramant de Loire,Chenin Blanc
+302,France,88,23,Loire Valley,Sancerre,Sauvignon Blanc
+303,France,92,92,Burgundy,Beaune,Pinot Noir
+304,France,92,94,Burgundy,Chassagne-Montrachet,Chardonnay
+305,France,92,,Southwest France,Cahors,Malbec
+306,France,92,30,Bordeaux,Graves,Bordeaux-style Red Blend
+307,France,91,60,Burgundy,Santenay,Chardonnay
+308,France,91,16,Southwest France,Cates du Tarn,Bordeaux-style Red Blend
+309,France,91,40,Burgundy,Pouilly-Fuissa,Chardonnay
+310,France,91,100,Burgundy,Clos de Vougeot,Pinot Noir
+311,France,91,,Southwest France,Jurana¤on Sec,Gros and Petit Manseng
+312,France,94,35,Southwest France,Madiran,Tannat
+313,France,94,44,Provence,Bandol,Provence red blend
+314,France,94,20,Provence,Coteaux d'Aix-en-Provence,Rosa
+315,France,94,44,Provence,Bandol,Provence red blend
+316,France,94,100,Provence,Cates de Provence,Rosa
+317,France,94,70,Southwest France,Cahors,Malbec
+318,France,91,54,Champagne,Champagne,Chardonnay
+319,France,90,33,Alsace,Alsace,Pinot Noir
+320,France,90,70,Burgundy,Gevrey-Chambertin,Pinot Noir
+321,France,90,27,Alsace,Alsace,Sylvaner
+322,France,90,30,Alsace,Alsace,Alsace white blend
+323,France,90,80,Burgundy,Pommard,Pinot Noir
+324,France,90,,Loire Valley,Sancerre,Pinot Noir
+325,France,90,27,Rhane Valley,Cates du Rhane Villages,Rhane-style Red Blend
+326,France,90,20,Rhane Valley,Chateauneuf-du-Pape,Rhane-style Red Blend
+327,France,87,,Bordeaux,Madoc,Bordeaux-style Red Blend
+328,France,87,,Bordeaux,Graves,Bordeaux-style White Blend
+329,France,86,10,Southwest France,Cates de Gascogne,White Blend
+330,France,89,11,Rhane Valley,Cates du Rhane,Grenache
+331,France,89,19,Southwest France,Gaillac,Red Blend
+332,France,89,28,Southwest France,Gaillac,White Blend
+333,France,89,,Southwest France,Fronton,Negrette
+334,France,89,15,Rhane Valley,Cates du Rhane,Grenache
+335,France,92,,Alsace,Alsace,Riesling
+336,France,92,29,Alsace,Alsace,Riesling
+337,France,92,63,Alsace,Alsace,Riesling
+338,France,92,18,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+339,France,92,,Alsace,Alsace,Riesling
+340,France,90,50,Burgundy,Beaune,Pinot Noir
+341,France,90,45,Burgundy,Morey-Saint-Denis,Pinot Noir
+342,France,90,59,Burgundy,Beaune,Chardonnay
+343,France,90,24,Alsace,Alsace,Sylvaner
+344,France,90,,Burgundy,Marsannay,Pinot Noir
+345,France,90,20,Alsace,Alsace,White Blend
+346,France,90,20,Alsace,Alsace,Pinot Blanc
+347,France,94,25,Southwest France,Madiran,Red Blend
+348,France,94,40,Southwest France,Madiran,Tannat
+349,France,93,25,Southwest France,Cahors,Malbec-Merlot
+350,France,93,36,Provence,Bandol,Provence red blend
+351,France,91,,Burgundy,Corton,Pinot Noir
+352,France,91,25,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+353,France,91,60,Burgundy,Cates de Nuits Villages,Chardonnay
+354,France,90,13,Southwest France,Cates de Gascogne,Red Blend
+355,France,90,45,Burgundy,Chablis,Chardonnay
+356,France,88,27,Loire Valley,Sancerre,Sauvignon Blanc
+357,France,88,35,Loire Valley,Sancerre,Sauvignon Blanc
+358,France,88,26,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+359,France,88,25,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+360,France,88,28,Loire Valley,Sancerre,Sauvignon Blanc
+361,France,88,25,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+362,France,88,,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+363,France,88,,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+364,France,88,18,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+365,France,88,,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+366,France,88,20,Loire Valley,Menetou-Salon,Pinot Noir
+367,France,90,24,Rhane Valley,Tavel,Rosa
+368,France,85,9,Southwest France,Bergerac Rosa,Rosa
+369,France,85,18,Burgundy,Coteaux Bourguignons,Pinot Noir
+370,France,85,12,Southwest France,Cates du Lot,Rosa
+371,France,85,14,Southwest France,Cahors,Malbec
+372,France,85,11,Rhane Valley,Cates du Rhane,Rhane-style Red Blend
+373,France,89,,Southwest France,Cahors,Malbec
+374,France,89,20,Southwest France,Cates du Lot,White Blend
+375,France,87,,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+376,France,87,,Bordeaux,Graves,Bordeaux-style White Blend
+377,France,87,35,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+378,France,87,,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+379,France,87,30,Bordeaux,Bordeaux Suparieur,Bordeaux-style Red Blend
+380,France,87,,Bordeaux,Madoc,Bordeaux-style Red Blend
+381,France,87,10,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+382,France,90,59,Burgundy,Beaune,Chardonnay
+383,France,90,24,Alsace,Alsace,Sylvaner
+384,France,90,,Burgundy,Marsannay,Pinot Noir
+385,France,90,20,Alsace,Alsace,White Blend
+386,France,90,20,Alsace,Alsace,Pinot Blanc
+387,France,90,45,Burgundy,Chassagne-Montrachet,Chardonnay
+388,France,90,,Loire Valley,Sancerre,Sauvignon Blanc
+389,France,90,80,Burgundy,Aloxe-Corton,Pinot Noir
+390,France,90,19,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+391,France,90,24,Rhane Valley,Tavel,Rosa
+392,France,92,30,Alsace,Alsace,Riesling
+393,France,92,24,Alsace,Alsace,Riesling
+394,France,92,55,Alsace,Alsace,Gewaarztraminer
+395,France,93,65,Southwest France,Madiran,Tannat
+396,France,93,50,Provence,Cates de Provence Sainte-Victoire,Rosa
+397,France,93,34,Provence,Cates de Provence,Rosa
+398,France,93,50,Southwest France,Cahors,Malbec
+399,France,93,30,Provence,Cates de Provence La Londe,Rosa
+400,France,93,40,Provence,Cates de Provence,Rosa
+401,France,93,25,Southwest France,Cates de Gascogne,Tannat
+402,France,89,20,Southwest France,Cates du Lot,White Blend
+403,France,85,15,Southwest France,Cates de Gascogne,Sauvignon Blanc
+404,France,85,9,Southwest France,Cates de Gascogne,White Blend
+405,France,85,16,Rhane Valley,Cates du Rhane,Rhane-style White Blend
+406,France,85,16,Southwest France,Cates du Tarn,Rosa
+407,France,85,12,Southwest France,Cates de Bergerac,Bordeaux-style White Blend
+408,France,85,15,Southwest France,Cates de Gascogne,Chardonnay
+409,France,85,12,Burgundy,Coteaux Bourguignons,White Blend
+410,France,91,24,Beaujolais,Morgon,Gamay
+411,France,91,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+412,France,91,,Beaujolais,Morgon,Gamay
+413,France,88,15,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+414,France,88,37,Loire Valley,Sancerre,Sauvignon Blanc
+415,France,88,,Loire Valley,Sancerre,Sauvignon Blanc
+416,France,87,20,Bordeaux,Madoc,Bordeaux-style Red Blend
+417,France,87,,Bordeaux,Madoc,Bordeaux-style Red Blend
+418,France,87,35,Bordeaux,Moulis-en-Madoc,Bordeaux-style Red Blend
+419,France,87,,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+420,France,87,20,Bordeaux,Bordeaux Suparieur,Bordeaux-style Red Blend
+421,France,87,27,Bordeaux,Listrac-Madoc,Bordeaux-style Red Blend
+422,France,90,,Burgundy,Marsannay,Chardonnay
+423,France,90,56,Burgundy,Mercurey,Pinot Noir
+424,France,90,,Burgundy,Marsannay,Pinot Noir
+425,France,90,35,Alsace,Alsace,Pinot Noir
+426,France,90,70,Burgundy,Beaune,Pinot Noir
+427,France,90,15,Alsace,Alsace,Pinot Blanc
+428,France,90,21,Alsace,Alsace,Pinot Blanc
+429,France,90,35,Loire Valley,Sancerre,Pinot Noir
+430,France,90,43,Burgundy,Saint-Aubin,Chardonnay
+431,France,93,40,Southwest France,Cahors,Malbec
+432,France,93,20,Southwest France,Madiran,Tannat
+433,France,93,52,Provence,Bandol,Rosa
+434,France,90,141,Burgundy,Puligny-Montrachet,Chardonnay
+435,France,90,74,Burgundy,Meursault,Chardonnay
+436,France,90,65,Champagne,Champagne,Champagne Blend
+437,France,92,34,Alsace,Alsace,Riesling
+438,France,92,25,Alsace,Alsace,Riesling
+439,France,92,30,Alsace,Alsace,Riesling
+440,France,92,47,Alsace,Alsace,Riesling
+441,France,92,49,Alsace,Alsace,Riesling
+442,France,92,26,Alsace,Alsace,Riesling
+443,France,92,65,Bordeaux,Lalande de Pomerol,Bordeaux-style Red Blend
+444,France,92,40,Bordeaux,Margaux,Bordeaux-style Red Blend
+445,France,85,63,Rhane Valley,Chateauneuf-du-Pape,Rhane-style White Blend
+446,France,85,,Burgundy,Macon-Villages,Chardonnay
+447,France,85,9,Southwest France,,Malbec-Merlot
+448,France,85,12,Southwest France,Cahors,Malbec
+449,France,85,13,Rhane Valley,Collines Rhadaniennes,Marsanne
+450,France,85,17,Southwest France,Cahors,Malbec
+451,France,85,9,Southwest France,,White Blend
+452,France,87,35,Bordeaux,Moulis-en-Madoc,Bordeaux-style Red Blend
+453,France,87,,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+454,France,87,20,Bordeaux,Bordeaux Suparieur,Bordeaux-style Red Blend
+455,France,87,30,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+456,France,87,,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+457,France,87,40,Bordeaux,Saint-Estaphe,Bordeaux-style Red Blend
+458,France,87,13,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+459,France,87,19,Bordeaux,Madoc,Bordeaux-style Red Blend
+460,France,87,25,Bordeaux,Listrac-Madoc,Bordeaux-style Red Blend
+461,France,89,22,Southwest France,Cates du Marmandais,Red Blend
+462,France,89,26,Southwest France,Cahors,Malbec
+463,France,89,13,Southwest France,Fronton,Red Blend
+464,France,88,,Southwest France,Jurana¤on,Gros and Petit Manseng
+465,France,88,18,Southwest France,Cahors,Malbec
+466,France,91,,Southwest France,Madiran,Tannat
+467,France,91,78,Burgundy,Chassagne-Montrachet,Chardonnay
+468,France,91,65,Burgundy,Gevrey-Chambertin,Pinot Noir
+469,France,91,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+470,France,91,30,Southwest France,Cates du Lot,Viognier
+471,France,91,,Bordeaux,Madoc,Bordeaux-style Red Blend
+472,France,91,22,Bordeaux,Moulis-en-Madoc,Bordeaux-style Red Blend
+473,France,91,60,Burgundy,Savigny-las-Beaune,Chardonnay
+474,France,91,40,Southwest France,Cates du Tarn,Bordeaux-style Red Blend
+475,France,91,74,Burgundy,Volnay,Pinot Noir
+476,France,88,15,Bordeaux,Bordeaux Blanc,Sauvignon Blanc
+477,France,88,22,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+478,France,88,12,Loire Valley,Muscadet Savre et Maine,Melon
+479,France,90,17,Alsace,Alsace,Sylvaner
+480,France,90,15,Alsace,Alsace,Sylvaner
+481,France,90,50,Burgundy,Bourgogne Hautes Cates de Beaune,Chardonnay
+482,France,90,20,Loire Valley,Menetou-Salon,Sauvignon Blanc
+483,France,90,32,France Other,Vin de France,White Blend
+484,France,90,19,Rhane Valley,Cates du Rhane,Rosa
+485,France,90,17,Rhane Valley,Tavel,Rosa
+486,France,90,13,Southwest France,Monbazillac,Bordeaux-style White Blend
+487,France,90,16,Loire Valley,Muscadet Savre et Maine,Melon
+488,France,90,50,Southwest France,Cahors,Malbec-Merlot
+489,France,90,19,Southwest France,Montravel,Bordeaux-style Red Blend
+490,France,90,13,Southwest France,Madiran,Tannat
+491,France,92,45,Provence,Cates de Provence,Rosa
+492,France,92,,Provence,Bandol,Rosa
+493,France,92,25,Southwest France,Madiran,Tannat
+494,France,92,59,Provence,Cates de Provence,Rosa
+495,France,92,28,Southwest France,Fronton,Red Blend
+496,France,85,9,Southwest France,,Malbec
+497,France,84,14,Rhane Valley,Cates du Rhane,Rhane-style White Blend
+498,France,84,12,Southwest France,Cates de Bergerac,Bordeaux-style White Blend
+499,France,91,14,Alsace,Alsace,Riesling
+500,France,91,27,Alsace,Alsace,Pinot Blanc
+501,France,91,38,Alsace,Alsace,Gewaarztraminer
+502,France,91,35,Bordeaux,Sauternes,Bordeaux-style White Blend
+503,France,91,36,Alsace,Alsace,Riesling
+504,France,87,19,Bordeaux,Madoc,Bordeaux-style Red Blend
+505,France,91,66,Champagne,Champagne,Champagne Blend
+506,France,91,45,Southwest France,Cahors,Malbec
+507,France,91,75,Champagne,Champagne,Champagne Blend
+508,France,90,50,Champagne,Champagne,Champagne Blend
+509,France,90,55,Bordeaux,Fronsac,Bordeaux-style Red Blend
+510,France,90,20,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+511,France,90,45,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+512,France,88,15,Southwest France,Buzet,Bordeaux-style Red Blend
+513,France,88,12,Southwest France,Gaillac,Red Blend
+514,France,88,16,Southwest France,Bergerac Sec,Bordeaux-style White Blend
+515,France,88,45,Southwest France,Cates du Marmandais,Red Blend
+516,France,88,,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+517,France,88,25,Loire Valley,Quincy,Sauvignon Blanc
+518,France,88,,Loire Valley,Vouvray,Chenin Blanc
+519,France,88,21,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+520,France,88,28,Loire Valley,Sancerre,Rosa
+521,France,90,35,Burgundy,Pouilly-Fuissa,Chardonnay
+522,France,90,55,Alsace,Alsace,Pinot Noir
+523,France,90,117,Burgundy,Beaune,Chardonnay
+524,France,90,15,Bordeaux,Bordeaux Rosa,Rosa
+525,France,90,68,Burgundy,Savigny-las-Beaune,Pinot Noir
+526,France,90,60,Burgundy,Savigny-las-Beaune,Pinot Noir
+527,France,90,20,Alsace,Alsace,Pinot Noir
+528,France,90,19,Alsace,Alsace,Pinot Blanc
+529,France,90,20,Loire Valley,Sancerre,Sauvignon Blanc
+530,France,90,26,Loire Valley,Sancerre,Sauvignon Blanc
+531,France,90,30,Loire Valley,Sancerre,Sauvignon Blanc
+532,France,90,26,Loire Valley,Sancerre,Sauvignon Blanc
+533,France,90,50,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+534,France,90,,Loire Valley,Sancerre,Sauvignon Blanc
+535,France,92,45,Provence,Cates de Provence Sainte-Victoire,Rosa
+536,France,92,20,Provence,Coteaux d'Aix-en-Provence,Rosa
+537,France,92,26,Provence,Cates de Provence La Londe,Rosa
+538,France,92,28,Southwest France,Gaillac,Red Blend
+539,France,84,12,Southwest France,Cates de Gascogne,Rosa
+540,France,84,12,Burgundy,Coteaux Bourguignons,Pinot Noir
+541,France,84,19,Burgundy,Bourgogne,Chardonnay
+542,France,84,12,Southwest France,Bergerac Rosa,Rosa
+543,France,84,11,Southwest France,Cates du Lot,Rosa
+544,France,84,19,Burgundy,Bourgogne,Pinot Noir
+545,France,91,53,Alsace,Alsace,Riesling
+546,France,91,17,Alsace,Alsace,Riesling
+547,France,91,19,Bordeaux,Madoc,Bordeaux-style Red Blend
+548,France,91,,Bordeaux,Castillon Cates de Bordeaux,Bordeaux-style Red Blend
+549,France,91,35,Bordeaux,Cadillac Cates de Bordeaux,Bordeaux-style Red Blend
+550,France,91,50,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+551,France,91,16,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+552,France,91,15,Bordeaux,Castillon Cates de Bordeaux,Bordeaux-style Red Blend
+553,France,87,25,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+554,France,87,14,Bordeaux,Madoc,Bordeaux-style Red Blend
+555,France,87,18,Bordeaux,Madoc,Bordeaux-style Red Blend
+556,France,87,,Bordeaux,Pomerol,Bordeaux-style Red Blend
+557,France,87,28,Bordeaux,Madoc,Bordeaux-style Red Blend
+558,France,90,,Bordeaux,Moulis-en-Madoc,Bordeaux-style Red Blend
+559,France,90,44,Southwest France,Cahors,Malbec
+560,France,90,30,Beaujolais,Brouilly,Gamay
+561,France,88,,Rhane Valley,Costiares de Na¨mes,Rosa
+562,France,88,19,Southwest France,Fronton,Negrette
+563,France,88,12,Southwest France,Cates de Gascogne,Red Blend
+564,France,88,23,Loire Valley,Sancerre,Sauvignon Blanc
+565,France,88,25,Loire Valley,Sancerre,Rosa
+566,France,88,,Loire Valley,Chinon,Cabernet Franc
+567,France,88,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+568,France,88,15,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+569,France,88,22,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+570,France,88,35,Bordeaux,Madoc,Bordeaux-style Red Blend
+571,France,88,15,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+572,France,87,20,Loire Valley,Quincy,Sauvignon Blanc
+573,France,90,25,Alsace,Alsace,Pinot Noir
+574,France,90,,Burgundy,Marsannay,Pinot Noir
+575,France,90,,Burgundy,Beaune,Pinot Noir
+576,France,90,23,Alsace,Alsace,Pinot Blanc
+577,France,92,99,Southwest France,Saint-Mont,Red Blend
+578,France,92,17,Provence,Cates de Provence,Rosa
+579,France,92,48,Provence,Cates de Provence La Londe,Rosa
+580,France,92,,Southwest France,Cahors,Malbec
+581,France,92,52,Provence,Cates de Provence,Rosa
+582,France,92,34,Provence,Cates de Provence,Rosa
+583,France,92,38,Provence,Bandol,Provence red blend
+584,France,92,35,Provence,Cates de Provence,Rosa
+585,France,89,39,Rhane Valley,Chateauneuf-du-Pape,Rhane-style White Blend
+586,France,89,16,Rhane Valley,Cates du Rhane Villages,Rhane-style Red Blend
+587,France,89,25,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+588,France,90,16,Southwest France,Cahors,Malbec-Merlot
+589,France,90,21,Southwest France,Cahors,Malbec-Merlot
+590,France,90,25,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+591,France,90,55,Burgundy,Pouilly-Fuissa,Chardonnay
+592,France,100,848,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+593,France,97,130,Bordeaux,Pomerol,Bordeaux-style Red Blend
+594,France,97,150,Bordeaux,Saint-Julien,Bordeaux-style Red Blend
+595,France,97,,Bordeaux,Margaux,Bordeaux-style Red Blend
+596,France,97,,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+597,France,97,450,Bordeaux,Margaux,Bordeaux-style Red Blend
+598,France,97,,Bordeaux,Saint-Estaphe,Bordeaux-style Red Blend
+599,France,97,,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+600,France,97,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+601,France,97,330,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+602,France,87,,Bordeaux,Bordeaux Suparieur,Bordeaux-style Red Blend
+603,France,86,27,Bordeaux,Graves,Bordeaux-style Red Blend
+604,France,88,16,Rhane Valley,Cates du Rhane Villages,Rhane-style White Blend
+605,France,88,10,Rhane Valley,Cates du Rhane,Rhane-style Red Blend
+606,France,88,16,Rhane Valley,Cates du Rhane,Rhane-style Red Blend
+607,France,90,89,Champagne,Champagne,Champagne Blend
+608,France,90,,Burgundy,Beaune,Pinot Noir
+609,France,90,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+610,France,90,65,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+611,France,90,25,Bordeaux,Bordeaux Suparieur,Merlot
+612,France,90,82,Burgundy,Savigny-las-Beaune,Pinot Noir
+613,France,90,23,Beaujolais,Morgon,Gamay
+614,France,90,22,Beaujolais,Moulin-aÊ-Vent,Gamay
+615,France,87,25,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+616,France,87,20,Loire Valley,Chateaumeillant,Pinot Noir
+617,France,87,14,Loire Valley,Touraine,Sauvignon Blanc
+618,France,87,,Loire Valley,Saumur,Chenin Blanc
+619,France,87,17,Loire Valley,Muscadet Savre et Maine,Melon
+620,France,87,16,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+621,France,87,,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+622,France,87,16,Bordeaux,Cates de Bourg,Sauvignon Blanc
+623,France,91,,Alsace,Alsace,Riesling
+624,France,90,55,Burgundy,Pouilly-Fuissa,Chardonnay
+625,France,90,16,Southwest France,Cahors,Malbec-Merlot
+626,France,90,,Southwest France,Pacherenc du Vic Bilh,Gros and Petit Manseng
+627,France,92,38,Provence,Bandol,Provence red blend
+628,France,92,38,Provence,Cates de Provence,Provence red blend
+629,France,92,34,Southwest France,Cahors,Malbec-Merlot
+630,France,92,48,Provence,Cates de Provence La Londe,Rosa
+631,France,90,16,Alsace,Alsace,Sylvaner
+632,France,90,26,Burgundy,Cramant de Bourgogne,Chardonnay
+633,France,90,16,France Other,Mediterranae,Rosa
+634,France,89,35,Loire Valley,Sancerre,Sauvignon Blanc
+635,France,89,25,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+636,France,89,25,Loire Valley,Sancerre,Sauvignon Blanc
+637,France,97,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+638,France,97,145,Bordeaux,Saint-Estaphe,Bordeaux-style Red Blend
+639,France,97,90,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+640,France,97,698,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+641,France,97,,Bordeaux,Pauillac,Bordeaux-style Red Blend
+642,France,96,160,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+643,France,96,,Bordeaux,Pauillac,Bordeaux-style Red Blend
+644,France,96,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+645,France,96,,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+646,France,96,120,Alsace,Alsace,Riesling
+647,France,96,,Bordeaux,Saint-Julien,Bordeaux-style Red Blend
+648,France,96,200,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+649,France,96,64,Alsace,Alsace,Riesling
+650,France,96,175,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+651,France,96,,Bordeaux,Pauillac,Bordeaux-style Red Blend
+652,France,96,80,Alsace,Alsace,Pinot Gris
+653,France,96,50,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+654,France,86,15,Bordeaux,Montagne-Saint-Emilion,Bordeaux-style Red Blend
+655,France,86,20,Bordeaux,Madoc,Bordeaux-style Red Blend
+656,France,86,36,Bordeaux,Pomerol,Bordeaux-style Red Blend
+657,France,86,20,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+658,France,86,13,Bordeaux,Graves,Bordeaux-style White Blend
+659,France,86,20,Bordeaux,Moulis-en-Madoc,Bordeaux-style Red Blend
+660,France,86,,Bordeaux,Madoc,Bordeaux-style Red Blend
+661,France,86,10,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+662,France,88,15,Southwest France,Cates du Marmandais,Red Blend
+663,France,88,16,Southwest France,Cahors,Malbec-Merlot
+664,France,88,12,Rhane Valley,Cates du Rhane,Rhane-style Red Blend
+665,France,91,24,Alsace,Alsace,Riesling
+666,France,91,,Alsace,Alsace,Pinot Gris
+667,France,91,28,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+668,France,91,27,Alsace,Alsace,Riesling
+669,France,90,,Southwest France,Madiran,Tannat
+670,France,90,42,Beaujolais,Morgon,Gamay
+671,France,90,64,Burgundy,Volnay,Pinot Noir
+672,France,90,22,Beaujolais,Fleurie,Gamay
+673,France,92,65,Provence,Cates de Provence,Rosa
+674,France,87,28,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+675,France,87,12,Loire Valley,Muscadet Savre et Maine,Melon
+676,France,87,15,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+677,France,87,16,Loire Valley,Chinon,Cabernet Franc
+678,France,87,,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+679,France,87,14,Loire Valley,Vouvray,Chenin Blanc
+680,France,87,12,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+681,France,89,25,Loire Valley,Sancerre,Pinot Noir
+682,France,89,22,Rhane Valley,Tavel,Rosa
+683,France,90,238,Burgundy,Corton-Charlemagne,Chardonnay
+684,France,90,65,Burgundy,Mercurey,Chardonnay
+685,France,89,12,Bordeaux,Bordeaux Rosa,Rosa
+686,France,89,10,Bordeaux,Bordeaux Rosa,Rosa
+687,France,89,13,Languedoc-Roussillon,Languedoc,Rosa
+688,France,89,30,Alsace,Alsace,Pinot Noir
+689,France,89,14,Alsace,Alsace,Pinot Blanc
+690,France,89,28,Alsace,Alsace,Pinot Noir
+691,France,89,24,Alsace,Alsace,Sylvaner
+692,France,89,17,Alsace,Alsace,White Blend
+693,France,96,,Bordeaux,Pomerol,Bordeaux-style Red Blend
+694,France,95,202,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+695,France,95,66,Alsace,Alsace,Alsace white blend
+696,France,95,38,Alsace,Alsace,Riesling
+697,France,95,50,Alsace,Alsace,Alsace white blend
+698,France,95,60,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+699,France,95,50,Alsace,Alsace,Riesling
+700,France,95,250,Bordeaux,Pomerol,Bordeaux-style Red Blend
+701,France,95,45,Alsace,Alsace,Riesling
+702,France,95,90,Alsace,Alsace,Gewaarztraminer
+703,France,95,44,Alsace,Alsace,Riesling
+704,France,95,,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+705,France,95,165,Bordeaux,Pomerol,Bordeaux-style Red Blend
+706,France,95,35,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+707,France,95,83,Alsace,Alsace,Pinot Gris
+708,France,95,90,Alsace,Alsace,Pinot Gris
+709,France,86,18,Bordeaux,Madoc,Bordeaux-style Red Blend
+710,France,86,30,Bordeaux,Madoc,Bordeaux-style Red Blend
+711,France,86,10,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+712,France,86,20,Bordeaux,Madoc,Bordeaux-style Red Blend
+713,France,86,,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+714,France,86,15,Bordeaux,Bordeaux Blanc,Sauvignon Blanc
+715,France,92,65,Provence,Cates de Provence,Rosa
+716,France,92,32,Provence,Coteaux Varois en Provence,Rosa
+717,France,92,40,Provence,Cates de Provence,Rosa
+718,France,88,,Southwest France,Cahors,Malbec-Merlot
+719,France,88,14,Rhane Valley,Costiares de Na¨mes,Rosa
+720,France,88,11,Southwest France,Madiran,Red Blend
+721,France,88,17,Southwest France,Jurana¤on Sec,White Blend
+722,France,88,20,Rhane Valley,Cates du Rhane,Rhane-style White Blend
+723,France,91,,Alsace,Alsace,Riesling
+724,France,91,25,Alsace,Alsace,Riesling
+725,France,91,48,Alsace,Alsace,Gewaarztraminer
+726,France,91,29,Alsace,Alsace,Riesling
+727,France,91,,Alsace,Alsace,Gewaarztraminer
+728,France,91,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+729,France,91,24,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+730,France,91,50,Bordeaux,Cates de Bordeaux,Bordeaux-style Red Blend
+731,France,90,,Southwest France,Jurana¤on Sec,Gros and Petit Manseng
+732,France,90,46,Burgundy,Saint-Aubin,Chardonnay
+733,France,90,60,Bordeaux,Graves,Bordeaux-style Red Blend
+734,France,90,23,Bordeaux,Graves,Bordeaux-style Red Blend
+735,France,87,,Bordeaux,Madoc,Bordeaux-style Red Blend
+736,France,87,17,Bordeaux,Cadillac Cates de Bordeaux,Bordeaux-style Red Blend
+737,France,87,20,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+738,France,87,13,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+739,France,87,26,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+740,France,89,12,Southwest France,Monbazillac,Bordeaux-style White Blend
+741,France,89,29,Loire Valley,Sancerre,Sauvignon Blanc
+742,France,89,12,Alsace,Alsace,Pinot Blanc
+743,France,89,14,Alsace,Alsace,Pinot Blanc
+744,France,89,13,Alsace,Alsace,Sylvaner
+745,France,89,37,Burgundy,Rully,Pinot Noir
+746,France,89,38,Alsace,Alsace,Pinot Noir
+747,France,95,41,Alsace,Alsace,Riesling
+748,France,95,65,Alsace,Alsace,Gewaarztraminer
+749,France,95,85,Bordeaux,Saint-Estaphe,Bordeaux-style Red Blend
+750,France,95,75,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+751,France,95,30,Alsace,Alsace,Riesling
+752,France,95,35,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+753,France,95,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+754,France,95,150,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+755,France,95,100,Alsace,Alsace,Riesling
+756,France,95,,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+757,France,95,98,Alsace,Alsace,Alsace white blend
+758,France,95,43,Alsace,Alsace,Riesling
+759,France,94,,Bordeaux,Pauillac,Bordeaux-style Red Blend
+760,France,94,120,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+761,France,86,20,Bordeaux,Madoc,Bordeaux-style Red Blend
+762,France,86,20,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+763,France,86,25,Bordeaux,Madoc,Bordeaux-style Red Blend
+764,France,86,28,Bordeaux,Madoc,Bordeaux-style Red Blend
+765,France,86,39,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+766,France,86,15,Bordeaux,Bordeaux Suparieur,Bordeaux-style Red Blend
+767,France,91,60,Provence,Cates de Provence,Provence red blend
+768,France,91,24,Provence,Cates de Provence,Rosa
+769,France,91,25,Provence,Cates de Provence,Rosa
+770,France,91,90,Southwest France,Cates du Lot,Viognier
+771,France,91,24,Provence,Cates de Provence,Rosa
+772,France,91,20,Provence,Cates de Provence Sainte-Victoire,Rosa
+773,France,91,17,Provence,Cates de Provence Sainte-Victoire,Rosa
+774,France,91,20,Provence,Cates de Provence,Rosa
+775,France,89,50,Burgundy,Bourgogne Hautes Cates de Beaune,Chardonnay
+776,France,89,40,Loire Valley,Sancerre,Sauvignon Blanc
+777,France,89,79,Burgundy,Nuits-St.-Georges,Pinot Noir
+778,France,90,29,Alsace,Alsace,Riesling
+779,France,90,21,Alsace,Alsace,White Blend
+780,France,90,38,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+781,France,90,30,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+782,France,90,24,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+783,France,88,19,Southwest France,Cahors,Malbec
+784,France,88,30,Southwest France,Cahors,Malbec
+785,France,88,16,Southwest France,Gaillac,White Blend
+786,France,88,16,Rhane Valley,Luberon,Rosa
+787,France,90,45,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+788,France,90,25,Southwest France,Cahors,Malbec
+789,France,89,50,Burgundy,Saint-Romain,Chardonnay
+790,France,89,40,Southwest France,Cates du Lot,Syrah
+791,France,89,,Bordeaux,Bordeaux Suparieur,Bordeaux-style Red Blend
+792,France,89,25,Bordeaux,Bordeaux Suparieur,Bordeaux-style Red Blend
+793,France,89,22,Beaujolais,Julianas,Gamay
+794,France,89,25,Beaujolais,Saint-Amour,Gamay
+795,France,89,16,Southwest France,Cahors,Malbec
+796,France,89,43,Burgundy,Pernand-Vergelesses,Chardonnay
+797,France,87,26,Loire Valley,Sancerre,Pinot Noir
+798,France,89,48,Burgundy,Mercurey,Pinot Noir
+799,France,89,35,Burgundy,Mercurey,Chardonnay
+800,France,89,23,Alsace,Alsace,Alsace white blend
+801,France,89,15,Alsace,Alsace,Pinot Blanc
+802,France,89,15,Alsace,Alsace,Pinot Blanc
+803,France,89,15,Alsace,Alsace,Alsace white blend
+804,France,94,26,Alsace,Alsace,Riesling
+805,France,94,45,Alsace,Alsace,Riesling
+806,France,94,32,Alsace,Alsace,Riesling
+807,France,94,27,Alsace,Alsace,Riesling
+808,France,94,45,Alsace,Alsace,Riesling
+809,France,94,37,Alsace,Alsace,Pinot Gris
+810,France,94,44,Alsace,Alsace,Riesling
+811,France,94,50,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+812,France,94,130,Bordeaux,Margaux,Bordeaux-style Red Blend
+813,France,94,50,Alsace,Alsace,Pinot Gris
+814,France,94,24,Alsace,Alsace,Pinot Gris
+815,France,94,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+816,France,94,50,Bordeaux,Sauternes,Bordeaux-style White Blend
+817,France,86,10,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+818,France,86,35,Bordeaux,Pessac-Laognan,Sauvignon Blanc
+819,France,86,20,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+820,France,86,19,Bordeaux,Moulis-en-Madoc,Bordeaux-style Red Blend
+821,France,86,11,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+822,France,88,19,Southwest France,Cahors,Malbec
+823,France,88,30,Southwest France,Cahors,Malbec
+824,France,87,14,Rhane Valley,Costiares de Na¨mes,Rosa
+825,France,87,15,Rhane Valley,Costiares de Na¨mes,Rosa
+826,France,87,12,Southwest France,Cates de Gascogne,White Blend
+827,France,87,11,Southwest France,Cates de Gascogne,Gros and Petit Manseng
+828,France,91,35,Provence,Cates de Provence,Rosa
+829,France,91,,Southwest France,Gaillac,Red Blend
+830,France,91,52,Provence,Cates de Provence,Rosa
+831,France,91,22,Provence,Cates de Provence,Rosa
+832,France,89,43,Burgundy,Saint-Aubin,Chardonnay
+833,France,89,40,Burgundy,Mercurey,Chardonnay
+834,France,89,,Burgundy,Chablis,Chardonnay
+835,France,90,,Alsace,Alsace,Gewaarztraminer
+836,France,90,18,Alsace,Alsace,Gewaarztraminer
+837,France,90,17,Alsace,Alsace,Riesling
+838,France,90,15,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+839,France,89,55,Bordeaux,Fronsac,Bordeaux-style Red Blend
+840,France,89,35,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+841,France,89,60,Champagne,Champagne,Champagne Blend
+842,France,89,46,Burgundy,Chablis,Chardonnay
+843,France,89,55,Burgundy,Marsannay,Pinot Noir
+844,France,89,117,Burgundy,Meursault,Chardonnay
+845,France,89,30,Alsace,Alsace,Pinot Noir
+846,France,89,,Burgundy,Marsannay,Chardonnay
+847,France,89,70,Burgundy,Gevrey-Chambertin,Pinot Noir
+848,France,89,90,Burgundy,Nuits-St.-Georges,Chardonnay
+849,France,89,13,Bordeaux,Bordeaux Rosa,Rosa
+850,France,87,30,Loire Valley,Sancerre,Pinot Noir
+851,France,87,19,Bordeaux,Castillon Cates de Bordeaux,Bordeaux-style Red Blend
+852,France,87,17,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+853,France,87,17,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+854,France,87,,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+855,France,87,20,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+856,France,87,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+857,France,87,,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+858,France,87,,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+859,France,87,22,Loire Valley,Menetou-Salon,Sauvignon Blanc
+860,France,94,50,Bordeaux,Sauternes,Bordeaux-style White Blend
+861,France,94,44,Alsace,Alsace,Gewaarztraminer
+862,France,94,37,Alsace,Alsace,Pinot Gris
+863,France,94,45,Alsace,Alsace,Riesling
+864,France,94,150,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+865,France,94,50,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+866,France,94,130,Bordeaux,Pomerol,Bordeaux-style Red Blend
+867,France,94,53,Alsace,Alsace,Riesling
+868,France,94,33,Alsace,Alsace,Riesling
+869,France,94,,Bordeaux,Pomerol,Bordeaux-style Red Blend
+870,France,94,35,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+871,France,94,91,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+872,France,94,48,Alsace,Alsace,Gewaarztraminer
+873,France,94,55,Alsace,Alsace,Pinot Noir
+874,France,94,54,Alsace,Alsace,Riesling
+875,France,94,,Bordeaux,Saint-Julien,Bordeaux-style Red Blend
+876,France,89,28,Loire Valley,Sancerre,Pinot Noir
+877,France,89,11,Rhane Valley,Cates du Rhane,Rosa
+878,France,89,,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+879,France,89,,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+880,France,89,,Loire Valley,Sancerre,Sauvignon Blanc
+881,France,86,10,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+882,France,85,30,Bordeaux,Madoc,Bordeaux-style Red Blend
+883,France,85,30,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+884,France,85,17,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+885,France,85,,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+886,France,85,20,Bordeaux,Madoc,Bordeaux-style Red Blend
+887,France,85,7,Bordeaux,Bordeaux Suparieur,Bordeaux-style Red Blend
+888,France,85,12,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+889,France,87,11,Southwest France,Cates de Gascogne,Gros and Petit Manseng
+890,France,87,16,Southwest France,Cahors,Malbec-Merlot
+891,France,87,15,Southwest France,Cates du Marmandais,Bordeaux-style White Blend
+892,France,87,12,Rhane Valley,Cates du Rhane,Rhane-style Red Blend
+893,France,87,10,Southwest France,Cates de Gascogne,Tannat
+894,France,91,27,Provence,Cates de Provence La Londe,Rosa
+895,France,91,,Provence,Bandol,Rosa
+896,France,91,15,Southwest France,Madiran,Tannat
+897,France,91,43,Southwest France,Cates du Tarn,Bordeaux-style Red Blend
+898,France,91,20,Provence,Coteaux d'Aix-en-Provence,Rosa
+899,France,91,24,Provence,Cates de Provence Sainte-Victoire,Rosa
+900,France,91,35,Provence,Cates de Provence,Rosa
+901,France,91,40,Provence,Cates de Provence,Rosa
+902,France,91,20,Provence,Cates de Provence,Rosa
+903,France,91,19,Provence,Coteaux d'Aix-en-Provence,Rosa
+904,France,89,,Burgundy,Rully,Chardonnay
+905,France,89,35,Southwest France,Cahors,Malbec
+906,France,89,19,Bordeaux,Graves,Bordeaux-style Red Blend
+907,France,89,20,Bordeaux,Castillon Cates de Bordeaux,Bordeaux-style Red Blend
+908,France,89,,Burgundy,Pouilly-Fuissa,Chardonnay
+909,France,89,26,Burgundy,Pouilly-Fuissa,Chardonnay
+910,France,89,32,Burgundy,Savigny-las-Beaune,Pinot Noir
+911,France,89,31,Burgundy,Pouilly-Fuissa,Chardonnay
+912,France,89,70,Burgundy,Gevrey-Chambertin,Pinot Noir
+913,France,89,90,Burgundy,Nuits-St.-Georges,Chardonnay
+914,France,89,17,Alsace,Alsace,Pinot Blanc
+915,France,90,45,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+916,France,90,22,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+917,France,90,26,Alsace,Alsace,Riesling
+918,France,90,65,Bordeaux,Castillon Cates de Bordeaux,Bordeaux-style Red Blend
+919,France,90,40,Bordeaux,Cadillac Cates de Bordeaux,Bordeaux-style Red Blend
+920,France,90,27,Alsace,Alsace,Pinot Gris
+921,France,90,,Alsace,Alsace,Sylvaner
+922,France,89,14,Loire Valley,Muscadet Savre et Maine,Melon
+923,France,87,17,Loire Valley,Sancerre,Sauvignon Blanc
+924,France,87,25,Loire Valley,Sancerre,Pinot Noir
+925,France,87,14,Loire Valley,Muscadet,Melon
+926,France,87,,Loire Valley,Touraine,Sauvignon Blanc
+927,France,87,,Loire Valley,Sancerre,Sauvignon Blanc
+928,France,87,,Loire Valley,Vouvray,Chenin Blanc
+929,France,86,20,Loire Valley,Reuilly,Sauvignon Blanc
+930,France,94,45,Alsace,Alsace,Riesling
+931,France,94,22,Alsace,Alsace,Riesling
+932,France,94,45,Bordeaux,Saint-Julien,Bordeaux-style Red Blend
+933,France,94,72,Alsace,Alsace,Gewaarztraminer
+934,France,94,64,Alsace,Alsace,Gewaarztraminer
+935,France,94,34,Alsace,Alsace,Alsace white blend
+936,France,94,120,Bordeaux,Pomerol,Bordeaux-style Red Blend
+937,France,88,40,Loire Valley,Sancerre,Sauvignon Blanc
+938,France,88,19,Loire Valley,Reuilly,Sauvignon Blanc
+939,France,88,37,Burgundy,Santenay,Chardonnay
+940,France,88,24,Loire Valley,Pouilly-Fuma,Sauvignon Blanc
+941,France,88,26,Loire Valley,Menetou-Salon,Sauvignon Blanc
+942,France,88,19,Loire Valley,Menetou-Salon,Sauvignon Blanc
+943,France,88,25,Burgundy,Pouilly-Fuissa,Chardonnay
+944,France,88,26,Loire Valley,Sancerre,Sauvignon Blanc
+945,France,88,18,Loire Valley,Quincy,Sauvignon Blanc
+946,France,88,22,Loire Valley,Menetou-Salon,Sauvignon Blanc
+947,France,88,25,Loire Valley,Sancerre,Sauvignon Blanc
+948,France,91,24,Provence,Cates de Provence Sainte-Victoire,Rosa
+949,France,91,20,Provence,Cates de Provence Sainte-Victoire,Rosa
+950,France,85,30,Bordeaux,Saint-Estaphe,Bordeaux-style Red Blend
+951,France,85,15,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+952,France,85,12,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+953,France,85,25,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+954,France,87,16,Southwest France,Gaillac,Red Blend
+955,France,87,13,Southwest France,Cates de Gascogne,Chenin Blanc
+956,France,87,13,Rhane Valley,Cates du Rhane,Rhane-style Red Blend
+957,France,87,16,Rhane Valley,Cates du Rhane Villages,Rhane-style White Blend
+958,France,89,32,Champagne,Champagne,Champagne Blend
+959,France,89,20,Loire Valley,Vouvray,Chenin Blanc
+960,France,89,82,Champagne,Champagne,Champagne Blend
+961,France,89,62,Burgundy,Pommard,Pinot Noir
+962,France,89,,Bordeaux,Pauillac,Bordeaux-style Red Blend
+963,France,89,,Bordeaux,Margaux,Bordeaux-style Red Blend
+964,France,89,100,Burgundy,Nuits-St.-Georges,Pinot Noir
+965,France,89,31,Burgundy,Santenay,Pinot Noir
+966,France,89,26,Alsace,Alsace,Pinot Blanc
+967,France,89,,Burgundy,Marsannay,Pinot Noir
+968,France,89,27,Alsace,Alsace,Pinot Blanc
+969,France,89,36,Burgundy,Montagny,Chardonnay
+970,France,89,36,Burgundy,Mercurey,Chardonnay
+971,France,89,14,Alsace,Alsace,Pinot Blanc
+972,France,90,32,Alsace,Alsace,Riesling
+973,France,90,,Alsace,Alsace,Sylvaner
+974,France,90,35,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+975,France,86,13,Loire Valley,Muscadet Savre et Maine,Melon
+976,France,86,,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+977,France,86,36,Bordeaux,Lussac Saint-Emilion,Merlot
+978,France,93,28,Alsace,Alsace,Pinot Noir
+979,France,93,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+980,France,93,20,Bordeaux,Saint-Estaphe,Bordeaux-style Red Blend
+981,France,93,22,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+982,France,93,65,Bordeaux,Saint-Estaphe,Bordeaux-style Red Blend
+983,France,93,35,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+984,France,93,110,Bordeaux,Pomerol,Bordeaux-style Red Blend
+985,France,93,35,Alsace,Alsace,Riesling
+986,France,93,36,Alsace,Alsace,Red Blend
+987,France,93,24,Alsace,Alsace,Alsace white blend
+988,France,93,72,Alsace,Alsace,Pinot Gris
+989,France,88,40,Burgundy,Saint-Aubin,Pinot Noir
+990,France,89,20,Loire Valley,Vouvray,Chenin Blanc
+991,France,89,50,Champagne,Champagne,Chardonnay
+992,France,91,21,Provence,Bandol,Rosa
+993,France,85,12,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+994,France,85,17,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+995,France,85,17,Bordeaux,Fronsac,Bordeaux-style Red Blend
+996,France,85,15,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+997,France,85,18,Bordeaux,Madoc,Bordeaux-style Red Blend
+998,France,85,20,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+999,France,85,,Bordeaux,Madoc,Bordeaux-style Red Blend
+1000,France,85,18,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style White Blend
+1001,France,87,13,Rhane Valley,Cates du Rhane,Rhane-style Red Blend
+1002,France,87,16,Rhane Valley,Cates du Rhane Villages,Rhane-style White Blend
+1003,France,87,17,Rhane Valley,Cates du Rhane,Rhane-style Red Blend
+1004,France,87,11,Southwest France,Cates de Gascogne,White Blend
+1005,France,87,17,Rhane Valley,Cates du Rhane,Rhane-style White Blend
+1006,France,87,14,Southwest France,Cahors,Malbec
+1007,France,87,16,Rhane Valley,Cates du Rhane,Rhane-style Red Blend
+1008,France,87,19,Southwest France,Fronton,Negrette
+1009,France,87,16,Southwest France,Madiran,Red Blend
+1010,France,87,14,Southwest France,Fronton,Rosa
+1011,France,89,65,Burgundy,Meursault-Blagny,Chardonnay
+1012,France,89,55,Burgundy,Saint-Aubin,Chardonnay
+1013,France,89,39,Southwest France,Cahors,Malbec
+1014,France,89,20,Bordeaux,Puisseguin Saint-Emilion,Bordeaux-style Red Blend
+1015,France,89,15,Bordeaux,Fronsac,Bordeaux-style Red Blend
+1016,France,88,,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+1017,France,89,15,Languedoc-Roussillon,Minervois,Rosa
+1018,France,89,10,Bordeaux,Bordeaux Rosa,Rosa
+1019,France,89,17,Alsace,Alsace,Sylvaner
+1020,France,89,40,Burgundy,Marsannay,Chardonnay
+1021,France,89,27,Alsace,Alsace,Sylvaner
+1022,France,89,18,Alsace,Alsace,Alsace white blend
+1023,France,93,28,Alsace,Alsace,Pinot Noir
+1024,France,93,30,Bordeaux,Margaux,Bordeaux-style Red Blend
+1025,France,93,,Bordeaux,Pauillac,Bordeaux-style Red Blend
+1026,France,93,91,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+1027,France,93,25,Bordeaux,Saint-Estaphe,Bordeaux-style Red Blend
+1028,France,93,45,Alsace,Alsace,Gewaarztraminer
+1029,France,93,,Bordeaux,Margaux,Bordeaux-style Red Blend
+1030,France,93,37,Alsace,Alsace,Riesling
+1031,France,93,32,Alsace,Alsace,Gewaarztraminer
+1032,France,93,34,Alsace,Alsace,Gewaarztraminer
+1033,France,90,75,Alsace,Alsace,Pinot Noir
+1034,France,90,13,Bordeaux,Bordeaux Suparieur,Bordeaux-style Red Blend
+1035,France,90,25,Alsace,Alsace,Riesling
+1036,France,87,27,Southwest France,Buzet,Cabernet Sauvignon
+1037,France,87,14,Southwest France,Fronton,Rosa
+1038,France,87,19,Southwest France,Fronton,Negrette
+1039,France,87,16,Southwest France,Madiran,Red Blend
+1040,France,87,14,Southwest France,Cahors,Malbec
+1041,France,87,11,Rhane Valley,Cates du Rhane,Rhane-style Red Blend
+1042,France,86,20,Bordeaux,Madoc,Bordeaux-style Red Blend
+1043,France,86,,Loire Valley,Anjou,Cabernet Franc
+1044,France,86,15,Loire Valley,Touraine,Sauvignon Blanc
+1045,France,86,16,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+1046,France,86,18,Bordeaux,Bordeaux Blanc,Sauvignon Blanc
+1047,France,86,15,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+1048,France,86,26,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+1049,France,86,,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+1050,France,86,17,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+1051,France,86,14,Bordeaux,Bordeaux Rosa,Rosa
+1052,France,91,23,Provence,Bandol,Rosa
+1053,France,91,29,Provence,Cates de Provence,Rosa
+1054,France,91,35,Southwest France,Cates du Marmandais,Red Blend
+1055,France,91,25,Provence,Coteaux Varois en Provence,Rosa
+1056,France,91,40,Provence,Cates de Provence,Rosa
+1057,France,91,15,Provence,Coteaux d'Aix-en-Provence,Rosa
+1058,France,88,35,Burgundy,Mercurey,Pinot Noir
+1059,France,88,17,Loire Valley,Quincy,Sauvignon Blanc
+1060,France,88,30,Loire Valley,Sancerre,Sauvignon Blanc
+1061,France,88,30,Loire Valley,Sancerre,Sauvignon Blanc
+1062,France,88,22,Loire Valley,Sancerre,Pinot Noir
+1063,France,88,30,Loire Valley,Sancerre,Sauvignon Blanc
+1064,France,88,60,Champagne,Champagne,Champagne Blend
+1065,France,88,55,Champagne,Champagne,Chardonnay
+1066,France,85,14,Bordeaux,Madoc,Bordeaux-style Red Blend
+1067,France,85,17,Bordeaux,Madoc,Bordeaux-style Red Blend
+1068,France,85,10,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+1069,France,84,15,Bordeaux,Madoc,Bordeaux-style Red Blend
+1070,France,84,18,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+1071,France,84,30,Bordeaux,Madoc,Bordeaux-style Red Blend
+1072,France,84,13,Bordeaux,Bordeaux Rosa,Rosa
+1073,France,84,40,Bordeaux,Margaux,Bordeaux-style Red Blend
+1074,France,84,18,Bordeaux,Madoc,Bordeaux-style Red Blend
+1075,France,88,14,Bordeaux,Bordeaux Rosa,Rosa
+1076,France,88,14,Bordeaux,Bordeaux Rosa,Rosa
+1077,France,88,26,Burgundy,Chablis,Chardonnay
+1078,France,88,70,Burgundy,Nuits-St.-Georges,Pinot Noir
+1079,France,93,21,Bordeaux,Margaux,Bordeaux-style Red Blend
+1080,France,93,30,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+1081,France,93,34,Bordeaux,Saint-Estaphe,Bordeaux-style Red Blend
+1082,France,93,150,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+1083,France,93,,Bordeaux,Saint-Estaphe,Bordeaux-style Red Blend
+1084,France,93,,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+1085,France,93,50,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+1086,France,93,27,Alsace,Alsace,Alsace white blend
+1087,France,93,25,Alsace,Alsace,Gewaarztraminer
+1088,France,93,53,Alsace,Alsace,Riesling
+1089,France,93,38,Alsace,Alsace,Riesling
+1090,France,93,35,Alsace,Alsace,Riesling
+1091,France,86,18,Bordeaux,Bordeaux Blanc,Sauvignon Blanc
+1092,France,86,15,Bordeaux,Bordeaux Blanc,Bordeaux-style White Blend
+1093,France,86,26,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+1094,France,86,,Bordeaux,Pessac-Laognan,Bordeaux-style White Blend
+1095,France,86,17,Bordeaux,Cates de Bourg,Bordeaux-style Red Blend
+1096,France,86,14,Bordeaux,Bordeaux Rosa,Rosa
+1097,France,86,,Loire Valley,Menetou-Salon,Sauvignon Blanc
+1098,France,86,20,Loire Valley,Coteaux du Giennois,Sauvignon Blanc
+1099,France,86,20,Loire Valley,Sancerre,Rosa
+1100,France,88,25,Bordeaux,Pessac-Laognan,Bordeaux-style Red Blend
+1101,France,88,,Bordeaux,Madoc,Bordeaux-style Red Blend
+1102,France,88,75,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+1103,France,88,17,Bordeaux,Graves,Bordeaux-style Red Blend
+1104,France,88,45,Southwest France,Cates de Bergerac,Bordeaux-style Red Blend
+1105,France,88,25,Bordeaux,Listrac-Madoc,Bordeaux-style Red Blend
+1106,France,88,,Burgundy,Pouilly-Fuissa,Chardonnay
+1107,France,88,,Burgundy,Mercurey,Pinot Noir
+1108,France,90,18,Bordeaux,Castillon Cates de Bordeaux,Bordeaux-style Red Blend
+1109,France,90,16,Bordeaux,Cadillac Cates de Bordeaux,Bordeaux-style Red Blend
+1110,France,90,35,Bordeaux,Blaye Cates de Bordeaux,Bordeaux-style Red Blend
+1111,France,90,26,Alsace,Alsace,Pinot Blanc
+1112,France,90,22,Alsace,Alsace,Riesling
+1113,France,90,20,Alsace,Alsace,Riesling
+1114,France,90,,Alsace,Alsace,Riesling
+1115,France,90,65,Bordeaux,Saint-Emilion,Bordeaux-style Red Blend
+1116,France,88,19,Loire Valley,Quincy,Sauvignon Blanc
+1117,France,88,22,Loire Valley,Sancerre,Rosa
+1118,France,88,49,Burgundy,Savigny-las-Beaune,Pinot Noir
+1119,France,90,,Provence,Bandol,Provence red blend
+1120,France,90,20,Provence,Cates de Provence,Rosa
+1121,France,90,22,Provence,Cates de Provence Sainte-Victoire,Rosa
+1122,France,87,15,Southwest France,Cates du Marmandais,Bordeaux-style Red Blend
+1123,France,88,55,Champagne,Champagne,Champagne Blend
+1124,France,88,13,Southwest France,Bergerac Sec,Bordeaux-style White Blend
+1125,France,88,19,Burgundy,Bourgogne Cates d‰Auxerre,Chardonnay
+1126,France,88,30,Burgundy,Chablis,Chardonnay
+1127,France,84,15,Bordeaux,Haut-Madoc,Bordeaux-style Red Blend
+1128,France,84,16,Bordeaux,Bordeaux,Bordeaux-style Red Blend
+1129,France,84,18,Bordeaux,Madoc,Bordeaux-style Red Blend
+1130,France,84,28,Bordeaux,Listrac-Madoc,Bordeaux-style Red Blend
+1131,France,84,,Bordeaux,Madoc,Bordeaux-style Red Blend
+1132,Germany,91,23,Mosel,,Riesling
+1133,Germany,91,39,Rheinhessen,,Silvaner
+1134,Germany,90,31,Mosel,,Riesling
+1135,Germany,89,26,Mosel,,Riesling
+1136,Germany,90,22,Mosel,,Riesling
+1137,Germany,90,17,Mosel,,Riesling
+1138,Germany,90,31,Mosel,,Riesling
+1139,Germany,91,36,Rheingau,,Riesling
+1140,Germany,91,23,Mosel,,Riesling
+1141,Germany,91,25,Rheingau,,Riesling
+1142,Germany,91,28,Mosel,,Riesling
+1143,Germany,91,25,Mosel,,Riesling
+1144,Germany,91,38,Mosel,,Riesling
+1145,Germany,91,22,Mosel,,Riesling
+1146,Germany,91,26,Mosel,,Riesling
+1147,Germany,91,23,Mosel,,Riesling
+1148,Germany,91,23,Mosel,,Riesling
+1149,Germany,90,30,Mosel,,Riesling
+1150,Germany,90,30,Mosel,,Riesling
+1151,Germany,89,25,Baden,,Pinot Gris
+1152,Germany,90,60,Mosel,,Riesling
+1153,Germany,91,17,Rheinhessen,,Riesling
+1154,Germany,91,20,Mosel,,Riesling
+1155,Germany,90,30,Rheingau,,Riesling
+1156,Germany,90,23,Mosel,,Riesling
+1157,Germany,90,22,Mosel,,Riesling
+1158,Germany,89,45,Mosel,,Riesling
+1159,Germany,91,18,Mosel,,Riesling
+1160,Germany,90,22,Franken,,Silvaner
+1161,Germany,90,23,Mosel,,Riesling
+1162,Germany,90,25,Baden,,Pinot Blanc
+1163,Germany,90,31,Mosel,,Riesling
+1164,Germany,90,35,Rheingau,,Riesling
+1165,Germany,90,18,Mosel,,Riesling
+1166,Germany,90,60,Rheinhessen,,Spautburgunder
+1167,Germany,88,12,Pfalz,,Pinot Gris
+1168,Germany,90,20,Rheingau,,Riesling
+1169,Germany,90,34,Rheinhessen,,Spautburgunder
+1170,Germany,90,36,Mosel,,Riesling
+1171,Germany,90,22,Mosel,,Riesling
+1172,Germany,90,18,Rheinhessen,,Riesling
+1173,Germany,90,26,Waarttemberg,,Spautburgunder
+1174,Germany,90,18,Mosel,,Riesling
+1175,Germany,90,16,Mosel,,Riesling
+1176,Germany,90,30,Rheinhessen,,Riesling
+1177,Germany,90,30,Mosel,,Riesling
+1178,Germany,90,40,Rheingau,,Riesling
+1179,Germany,90,25,Rheingau,,Riesling
+1180,Germany,90,25,Rheingau,,Riesling
+1181,Germany,90,33,Mosel,,Riesling
+1182,Germany,90,18,Mosel,,Riesling
+1183,Germany,90,28,Mosel,,Riesling
+1184,Germany,90,18,Pfalz,,Pinot Blanc
+1185,Germany,90,24,Mosel,,Riesling
+1186,Germany,88,16,Baden,,Rivaner
+1187,Germany,88,12,Pfalz,,Riesling
+1188,Germany,90,68,Nahe,,Riesling
+1189,Germany,90,42,Baden,Baden,Pinot Noir
+1190,Germany,90,24,Mosel,,Riesling
+1191,Germany,90,18,Rheingau,Baden,Pinot Noir
+1192,Germany,90,20,Mosel,,Riesling
+1193,Germany,90,17,Rheingau,,Riesling
+1194,Germany,88,25,Nahe,,Riesling
+1195,Germany,90,30,Mosel,,Riesling
+1196,Germany,90,66,Pfalz,,Riesling
+1197,Germany,90,17,Mosel,,Riesling
+1198,Germany,90,23,Mosel,,Riesling
+1199,Germany,90,20,Rheingau,,Riesling
+1200,Germany,90,28,Mosel,,Riesling
+1201,Germany,90,12,Mosel,,Riesling
+1202,Germany,90,25,Baden,Baden,Pinot Noir
+1203,Germany,90,37,Waarttemberg,,Spautburgunder
+1204,Germany,90,14,Mosel,,Riesling
+1205,Germany,90,38,Nahe,,Riesling
+1206,Germany,90,27,Rheinhessen,,Silvaner
+1207,Germany,89,19,Mosel,,Riesling
+1208,Germany,89,17,Mosel,,Riesling
+1209,Germany,88,18,Rheinhessen,,Silvaner
+1210,Germany,88,13,Mosel,,Riesling
+1211,Germany,88,14,Mosel,,Riesling
+1212,Germany,90,35,Franken,,Riesling
+1213,Germany,90,33,Mosel,,Riesling
+1214,Germany,90,18,Pfalz,,Riesling
+1215,Germany,90,23,Mosel,,Riesling
+1216,Germany,90,32,Mosel,,Riesling
+1217,Germany,90,15,Mosel,,Riesling
+1218,Germany,89,14,Rheinhessen,,Pinot Gris
+1219,Germany,89,13,Rheinhessen,,Silvaner
+1220,Germany,89,24,Rheingau,,Riesling
+1221,Germany,88,27,Pfalz,,Gewaarztraminer
+1222,Germany,88,18,Pfalz,,Riesling
+1223,Germany,88,24,Mosel,,Riesling
+1224,Germany,88,26,Mosel,,Riesling
+1225,Germany,89,110,Baden,,Spautburgunder
+1226,Germany,89,14,Rheinhessen,Baden,Pinot Noir
+1227,Germany,89,30,Mosel,,Riesling
+1228,Germany,89,40,Mosel,,Riesling
+1229,Germany,89,25,Baden,,Pinot Gris
+1230,Germany,89,24,Mosel,,Riesling
+1231,Germany,89,20,Mosel,,Riesling
+1232,Germany,89,20,Rheingau,,Riesling
+1233,Germany,88,18,Pfalz,,Riesling
+1234,Germany,88,14,Mosel,,Riesling
+1235,Germany,88,24,Mosel,,Riesling
+1236,Germany,88,27,Pfalz,,Gewaarztraminer
+1237,Germany,89,10,Pfalz,,Riesling
+1238,Germany,89,16,Mosel,,Riesling
+1239,Germany,89,31,Rheingau,,Riesling
+1240,Germany,89,17,Mosel,,Riesling
+1241,Germany,89,39,Mosel,,Riesling
+1242,Germany,89,10,Mosel,,Riesling
+1243,Germany,89,16,Rheinhessen,,Riesling
+1244,Germany,89,20,Mosel,,Riesling
+1245,Germany,89,20,Mosel,,Riesling
+1246,Germany,89,29,Mosel,,Riesling
+1247,Germany,89,20,Mosel,,Riesling
+1248,Germany,89,20,Rheingau,,Riesling
+1249,Germany,89,22,Mosel,,Riesling
+1250,Germany,89,21,Mosel,,Riesling
+1251,Germany,89,13,Rheinhessen,Baden,Pinot Noir
+1252,Germany,87,17,Mosel,,Riesling
+1253,Germany,89,21,Mosel,,Riesling
+1254,Germany,89,13,Rheinhessen,Baden,Pinot Noir
+1255,Germany,89,28,Mosel,,Riesling
+1256,Germany,89,29,Mosel,,Riesling
+1257,Germany,89,68,Nahe,,Riesling
+1258,Germany,89,40,Rheinhessen,,Riesling
+1259,Germany,89,110,Baden,,Spautburgunder
+1260,Germany,89,13,Mosel,,Riesling
+1261,Germany,89,11,Pfalz,,Riesling
+1262,Germany,89,22,Mosel,,Riesling
+1263,Germany,89,28,Mosel,,Riesling
+1264,Germany,89,13,Rheinhessen,,Gewaarztraminer
+1265,Germany,87,17,Mosel,,Riesling
+1266,Germany,87,17,Mosel,,Riesling
+1267,Germany,89,32,Mosel,,Riesling
+1268,Germany,88,76,Franken,,Riesling
+1269,Germany,89,18,Pfalz,Baden,Pinot Noir
+1270,Germany,89,22,Mosel,,Riesling
+1271,Germany,88,13,Rheinhessen,,Riesling
+1272,Germany,88,15,Mosel,,Riesling
+1273,Germany,87,13,Mosel,,Riesling
+1274,Germany,87,14,Mosel,,Riesling
+1275,Germany,87,10,Nahe,,Riesling
+1276,Germany,88,23,Mosel,,Riesling
+1277,Germany,88,14,Mosel,,Riesling
+1284,Israel,91,40,Golan Heights,,Cabernet Sauvignon
+1285,Israel,85,30,Galilee,,Chardonnay
+1286,Israel,90,20,Galilee,,Cabernet Sauvignon
+1287,Israel,90,15,Galilee,,Cabernet Sauvignon
+1288,Israel,90,55,Judean Hills,,Cabernet Sauvignon
+1289,Israel,85,30,Galilee,,Chardonnay
+1290,Israel,90,40,Galilee,,Cabernet Sauvignon
+1291,Israel,90,40,Galilee,,Cabernet Sauvignon
+1292,Israel,90,52,Galilee,,Cabernet Sauvignon
+1293,Israel,90,40,Judean Hills,,Cabernet Sauvignon
+1294,Israel,90,22,Galilee,,Syrah
+1295,Israel,90,15,Galilee,,Syrah
+1296,Israel,90,50,Judean Hills,Bordeaux,Bordeaux-style Red Blend
+1297,Israel,90,50,Judean Hills,,Chardonnay
+1298,Israel,90,70,Galilee,,Cabernet Sauvignon
+1299,Israel,90,85,Galilee,Bordeaux,Bordeaux-style Red Blend
+1300,Israel,89,18,Galilee,,Chardonnay
+1301,Israel,89,25,Galil,,Cabernet Sauvignon
+1302,Israel,89,12,Galil,,Cabernet Sauvignon
+1303,Israel,89,40,Jerusalem Hills,,Cabernet Sauvignon
+1304,Israel,89,28,Galilee,Bordeaux,Bordeaux-style Red Blend
+1305,Israel,89,40,Judean Hills,Bordeaux,Bordeaux-style Red Blend
+1306,Israel,89,65,Galilee,,Cabernet Sauvignon
+1307,Italy,88,46,Piedmont,Barolo,Nebbiolo
+1308,Italy,88,49,Piedmont,Barolo,Nebbiolo
+1309,Italy,92,27,Northeastern Italy,Alto Adige,Pinot Bianco
+1310,Italy,92,33,Veneto,Soave Classico,Garganega
+1311,Italy,92,60,Northeastern Italy,Alto Adige,Sauvignon
+1312,Italy,91,25,Northeastern Italy,Alto Adige,Sauvignon
+1313,Italy,91,23,Northeastern Italy,Alto Adige,Pinot Grigio
+1314,Italy,94,85,Veneto,Amarone della Valpolicella Classico,Red Blend
+1315,Italy,94,38,Veneto,Soave Classico,Garganega
+1316,Italy,94,29,Veneto,Soave Classico,Garganega
+1317,Italy,91,75,Piedmont,Barolo,Nebbiolo
+1318,Italy,91,,Piedmont,Barolo,Nebbiolo
+1319,Italy,91,90,Piedmont,Barolo,Nebbiolo
+1320,Italy,91,115,Piedmont,Barolo,Nebbiolo
+1321,Italy,91,60,Piedmont,Barolo,Nebbiolo
+1322,Italy,91,85,Piedmont,Barolo,Nebbiolo
+1323,Italy,90,22,Sicily and Sardinia,Vittoria,Frappato
+1324,Italy,90,,Sicily and Sardinia,Sicilia,White Blend
+1325,Italy,90,,Sicily and Sardinia,Terre Siciliane,White Blend
+1326,Italy,90,19,Southern Italy,Greco di Tufo,Greco
+1327,Italy,90,60,Tuscany,Brunello di Montalcino,Sangiovese
+1328,Italy,90,60,Tuscany,Brunello di Montalcino,Sangiovese
+1329,Italy,90,75,Tuscany,Brunello di Montalcino,Sangiovese
+1330,Italy,90,95,Tuscany,Brunello di Montalcino,Sangiovese
+1331,Italy,90,60,Tuscany,Brunello di Montalcino,Sangiovese
+1332,Italy,90,70,Tuscany,Brunello di Montalcino,Sangiovese
+1333,Italy,90,90,Tuscany,Brunello di Montalcino,Sangiovese
+1334,Italy,90,30,Tuscany,Chianti Classico,Sangiovese
+1335,Italy,90,32,Tuscany,Vino Nobile di Montepulciano,Red Blend
+1336,Italy,90,35,Tuscany,Chianti Classico,Sangiovese
+1337,Italy,87,75,Tuscany,Brunello di Montalcino,Sangiovese
+1338,Italy,87,98,Tuscany,Brunello di Montalcino,Sangiovese
+1339,Italy,87,17,Tuscany,Bolgheri,Red Blend
+1340,Italy,87,52,Tuscany,Brunello di Montalcino,Sangiovese
+1341,Italy,87,58,Tuscany,Brunello di Montalcino,Sangiovese
+1342,Italy,87,60,Tuscany,Brunello di Montalcino,Sangiovese
+1343,Italy,86,15,Veneto,Soave,White Blend
+1344,Italy,89,43,Tuscany,Toscana,Sangiovese
+1345,Italy,89,55,Tuscany,Toscana,Cabernet Sauvignon
+1346,Italy,89,30,Tuscany,Toscana,Red Blend
+1347,Italy,89,45,Tuscany,Toscana,Cabernet Sauvignon
+1348,Italy,89,30,Tuscany,Toscana,Red Blend
+1349,Italy,92,45,Piedmont,Barbaresco,Nebbiolo
+1350,Italy,92,50,Piedmont,Barolo,Nebbiolo
+1351,Italy,90,,Sicily and Sardinia,Sicilia,White Blend
+1352,Italy,90,22,Sicily and Sardinia,Noto,Moscato
+1353,Italy,90,,Sicily and Sardinia,Vittoria,Frappato
+1354,Italy,91,26,Northeastern Italy,Alto Adige,Pinot Grigio
+1355,Italy,91,41,Northeastern Italy,Vigneti delle Dolomiti,White Blend
+1356,Italy,91,21,Northeastern Italy,Alto Adige,Sauvignon
+1357,Italy,90,75,Piedmont,Barolo,Nebbiolo
+1358,Italy,90,75,Piedmont,Barolo,Nebbiolo
+1359,Italy,90,75,Piedmont,Barolo,Nebbiolo
+1360,Italy,90,30,Piedmont,Barolo,Nebbiolo
+1361,Italy,90,42,Piedmont,Barolo,Nebbiolo
+1362,Italy,90,18,Piedmont,Barbera d'Asti Superiore,Barbera
+1363,Italy,90,35,Piedmont,Barbera d'Alba,Barbera
+1364,Italy,90,88,Piedmont,Barolo,Nebbiolo
+1365,Italy,90,45,Piedmont,Barolo,Nebbiolo
+1366,Italy,90,74,Piedmont,Barolo,Nebbiolo
+1367,Italy,90,,Piedmont,Roero,Nebbiolo
+1368,Italy,88,80,Piedmont,Barolo,Nebbiolo
+1369,Italy,88,77,Piedmont,Barolo,Nebbiolo
+1370,Italy,90,62,Tuscany,Brunello di Montalcino,Sangiovese
+1371,Italy,90,80,Tuscany,Brunello di Montalcino,Sangiovese
+1372,Italy,90,60,Tuscany,Brunello di Montalcino,Sangiovese
+1373,Italy,90,25,Tuscany,Chianti Classico,Red Blend
+1374,Italy,85,10,Veneto,Soave Classico,Garganega
+1375,Italy,89,23,Tuscany,Toscana,Red Blend
+1376,Italy,89,28,Tuscany,Toscana,Red Blend
+1377,Italy,89,45,Tuscany,Toscana,Red Blend
+1378,Italy,89,110,Tuscany,Toscana,Cabernet Franc
+1379,Italy,89,90,Tuscany,Toscana,Red Blend
+1380,Italy,87,50,Tuscany,Brunello di Montalcino,Sangiovese
+1381,Italy,87,87,Tuscany,Brunello di Montalcino,Sangiovese
+1382,Italy,87,,Tuscany,Brunello di Montalcino,Sangiovese
+1383,Italy,87,20,Tuscany,Bolgheri,Red Blend
+1384,Italy,90,22,Sicily and Sardinia,Noto,Moscato
+1385,Italy,90,,Sicily and Sardinia,Vittoria,Frappato
+1386,Italy,90,,Sicily and Sardinia,Sicilia,White Blend
+1387,Italy,90,36,Sicily and Sardinia,Etna,Nerello Mascalese
+1388,Italy,90,56,Tuscany,Brunello di Montalcino,Sangiovese
+1389,Italy,90,25,Tuscany,Chianti Classico,Red Blend
+1390,Italy,90,22,Tuscany,Chianti Classico,Sangiovese
+1391,Italy,90,20,Tuscany,Chianti Classico,Red Blend
+1392,Italy,90,30,Tuscany,Vino Nobile di Montepulciano,Red Blend
+1393,Italy,90,18,Tuscany,Chianti Classico,Red Blend
+1394,Italy,90,22,Tuscany,Chianti Classico,Sangiovese
+1395,Italy,90,28,Tuscany,Chianti Classico,Red Blend
+1396,Italy,92,113,Piedmont,Barbaresco,Nebbiolo
+1397,Italy,92,92,Piedmont,Barolo,Nebbiolo
+1398,Italy,92,75,Piedmont,Barolo,Nebbiolo
+1399,Italy,92,19,Piedmont,Barbaresco,Nebbiolo
+1400,Italy,92,40,Italy Other,Vino da Tavola,White Blend
+1401,Italy,92,500,Piedmont,Langhe,Red Blend
+1402,Italy,89,90,Tuscany,Toscana,Red Blend
+1403,Italy,89,27,Lombardy,Valtellina Superiore,Red Blend
+1404,Italy,89,22,Tuscany,Toscana,Red Blend
+1405,Italy,89,65,Tuscany,Toscana,Cabernet Sauvignon
+1406,Italy,89,52,Tuscany,Toscana,Red Blend
+1407,Italy,89,240,Tuscany,Toscana,Red Blend
+1408,Italy,89,35,Tuscany,Toscana,Red Blend
+1409,Italy,90,,Piedmont,Roero,Nebbiolo
+1410,Italy,90,38,Piedmont,Barbera d'Alba,Barbera
+1411,Italy,90,70,Piedmont,Barolo,Nebbiolo
+1412,Italy,90,42,Piedmont,Barolo,Nebbiolo
+1413,Italy,90,110,Piedmont,Barolo,Nebbiolo
+1414,Italy,90,103,Piedmont,Barbaresco,Nebbiolo
+1415,Italy,90,100,Piedmont,Barbaresco,Nebbiolo
+1416,Italy,90,40,Piedmont,Barolo,Nebbiolo
+1417,Italy,90,68,Piedmont,Barolo,Nebbiolo
+1418,Italy,90,52,Piedmont,Barolo,Nebbiolo
+1419,Italy,85,,Veneto,Soave,Garganega
+1420,Italy,85,,Veneto,Soave,Garganega
+1421,Italy,91,,Northeastern Italy,Venezia Giulia,White Blend
+1422,Italy,91,26,Lombardy,Lugana,Turbiana
+1423,Italy,91,30,Tuscany,Toscana,Red Blend
+1424,Italy,88,60,Piedmont,Barolo,Nebbiolo
+1425,Italy,88,56,Piedmont,Barolo,Nebbiolo
+1426,Italy,88,28,Piedmont,Barolo,Nebbiolo
+1427,Italy,88,,Piedmont,Barolo,Nebbiolo
+1428,Italy,88,,Piedmont,Barolo,Nebbiolo
+1429,Italy,87,24,Tuscany,Bolgheri,White Blend
+1430,Italy,87,23,Tuscany,Maremma Toscana,Sangiovese
+1431,Italy,90,,Sicily and Sardinia,Terre Siciliane,Grillo
+1432,Italy,90,,Tuscany,Brunello di Montalcino,Sangiovese
+1433,Italy,90,70,Tuscany,Brunello di Montalcino,Sangiovese
+1434,Italy,90,85,Tuscany,Brunello di Montalcino,Sangiovese
+1435,Italy,90,80,Tuscany,Brunello di Montalcino,Sangiovese
+1436,Italy,90,22,Tuscany,Chianti Classico,Sangiovese
+1437,Italy,90,20,Tuscany,Chianti Classico,Red Blend
+1438,Italy,90,30,Tuscany,Vino Nobile di Montepulciano,Red Blend
+1439,Italy,90,18,Tuscany,Chianti Classico,Red Blend
+1440,Italy,90,22,Tuscany,Chianti Classico,Sangiovese
+1441,Italy,90,,Piedmont,Barolo,Nebbiolo
+1442,Italy,90,44,Piedmont,Barbaresco,Nebbiolo
+1443,Italy,90,,Piedmont,Barolo,Nebbiolo
+1444,Italy,90,102,Piedmont,Barolo,Nebbiolo
+1445,Italy,90,80,Piedmont,Barbaresco,Nebbiolo
+1446,Italy,90,35,Piedmont,Barolo,Nebbiolo
+1447,Italy,90,55,Piedmont,Barolo,Nebbiolo
+1448,Italy,90,50,Piedmont,Barolo,Nebbiolo
+1449,Italy,90,70,Piedmont,Barolo,Nebbiolo
+1450,Italy,90,60,Piedmont,Barolo,Nebbiolo
+1451,Italy,92,34,Piedmont,Barbaresco,Nebbiolo
+1452,Italy,92,55,Piedmont,Barbaresco,Nebbiolo
+1453,Italy,92,65,Piedmont,Barbaresco,Nebbiolo
+1454,Italy,85,10,Veneto,Veronese,White Blend
+1455,Italy,87,55,Tuscany,Brunello di Montalcino,Sangiovese
+1456,Italy,87,42,Tuscany,Bolgheri,Red Blend
+1457,Italy,87,75,Tuscany,Bolgheri Superiore,Red Blend
+1458,Italy,87,40,Tuscany,Bolgheri Superiore,Red Blend
+1459,Italy,89,32,Tuscany,Toscana,Red Blend
+1460,Italy,88,17,Tuscany,Toscana,Red Blend
+1461,Italy,88,35,Lombardy,Terrazze Retiche di Sondrio,Red Blend
+1462,Italy,91,25,Lombardy,Lugana,Turbiana
+1463,Italy,91,24,Lombardy,Lugana,Turbiana
+1464,Italy,88,50,Piedmont,Barolo,Nebbiolo
+1465,Italy,88,80,Piedmont,Barolo,Nebbiolo
+1466,Italy,88,55,Piedmont,Barbaresco,Nebbiolo
+1467,Italy,88,35,Piedmont,Barolo,Nebbiolo
+1468,Italy,90,24,Sicily and Sardinia,Etna,Carricante
+1469,Italy,90,21,Southern Italy,Fiano di Avellino,Fiano
+1470,Italy,90,39,Sicily and Sardinia,Etna,Red Blend
+1471,Italy,90,60,Tuscany,Brunello di Montalcino,Sangiovese
+1472,Italy,90,85,Tuscany,Brunello di Montalcino,Sangiovese
+1473,Italy,90,28,Tuscany,Chianti Classico,Red Blend
+1474,Italy,90,,Piedmont,Barolo,Nebbiolo
+1475,Italy,90,44,Piedmont,Barbaresco,Nebbiolo
+1476,Italy,90,46,Piedmont,Barolo,Nebbiolo
+1477,Italy,90,,Piedmont,Barolo,Nebbiolo
+1478,Italy,90,25,Piedmont,Barbera d'Alba,Barbera
+1479,Italy,90,35,Piedmont,Roero,Nebbiolo
+1480,Italy,90,,Piedmont,Barolo,Nebbiolo
+1481,Italy,85,10,Veneto,Veronese,White Blend
+1482,Italy,85,149,Tuscany,Brunello di Montalcino,Sangiovese
+1483,Italy,87,20,Tuscany,Bolgheri,White Blend
+1484,Italy,87,140,Tuscany,Brunello di Montalcino,Sangiovese
+1485,Italy,87,60,Tuscany,Brunello di Montalcino,Sangiovese
+1486,Italy,87,25,Tuscany,Bolgheri,Red Blend
+1487,Italy,87,50,Tuscany,Brunello di Montalcino,Sangiovese
+1488,Italy,87,138,Tuscany,Brunello di Montalcino,Sangiovese
+1489,Italy,87,55,Tuscany,Brunello di Montalcino,Sangiovese
+1490,Italy,90,25,Tuscany,Chianti Classico,Red Blend
+1491,Italy,90,16,Tuscany,Chianti Classico,Red Blend
+1492,Italy,90,,Lombardy,Lugana,Turbiana
+1493,Italy,90,19,Lombardy,Lugana,Turbiana
+1494,Italy,88,65,Tuscany,Toscana,Merlot
+1495,Italy,88,19,Tuscany,Toscana,Red Blend
+1496,Italy,88,28,Tuscany,Toscana,Red Blend
+1497,Italy,88,120,Tuscany,Toscana,Merlot
+1498,Italy,88,110,Tuscany,Toscana,Merlot
+1499,Italy,88,26,Tuscany,Toscana,Red Blend
+1500,Italy,88,,Piedmont,Barolo,Nebbiolo
+1501,Italy,90,80,Tuscany,Brunello di Montalcino,Sangiovese
+1502,Italy,90,50,Tuscany,Maremma Toscana,Red Blend
+1503,Italy,90,120,Tuscany,Brunello di Montalcino,Sangiovese
+1504,Italy,90,59,Tuscany,Brunello di Montalcino,Sangiovese
+1505,Italy,90,66,Tuscany,Brunello di Montalcino,Sangiovese
+1506,Italy,90,,Tuscany,Brunello di Montalcino,Sangiovese
+1507,Italy,90,55,Tuscany,Brunello di Montalcino,Sangiovese
+1508,Italy,92,70,Northeastern Italy,Collio,Sauvignon
+1509,Italy,90,60,Piedmont,Barolo,Nebbiolo
+1510,Italy,90,90,Piedmont,Barolo,Nebbiolo
+1511,Italy,90,24,Piedmont,Coste della Sesia,Red Blend
+1512,Italy,90,27,Piedmont,Barbera d'Alba,Barbera
+1513,Italy,90,42,Piedmont,Barolo,Nebbiolo
+1514,Italy,91,65,Piedmont,Barbaresco,Nebbiolo
+1515,Italy,87,30,Tuscany,Bolgheri,Red Blend
+1516,Italy,90,25,Northeastern Italy,Alto Adige,Sauvignon
+1517,Italy,90,18,Northeastern Italy,Alto Adige,Gewaarztraminer
+1518,Italy,90,19,Northeastern Italy,Alto Adige,Sauvignon
+1519,Italy,90,25,Northeastern Italy,Alto Adige,Pinot Grigio
+1520,Italy,90,20,Lombardy,Lugana,Turbiana
+1521,Italy,90,20,Northeastern Italy,Alto Adige,Pinot Grigio
+1522,Italy,90,42,Northeastern Italy,Friuli Isonzo,Chardonnay
+1523,Italy,88,20,Tuscany,Toscana,Red Blend
+1524,Italy,88,35,Tuscany,Toscana,Red Blend
+1525,Italy,88,22,Tuscany,Toscana,Tempranillo
+1526,Italy,88,20,Tuscany,Toscana,Red Blend
+1527,Italy,88,90,Piedmont,Barolo,Nebbiolo
+1528,Italy,88,58,Piedmont,Barolo,Nebbiolo
+1529,Italy,88,99,Piedmont,Barolo,Nebbiolo
+1530,Italy,88,75,Piedmont,Barolo,Nebbiolo
+1531,Italy,90,20,Sicily and Sardinia,Sicilia,Grillo
+1532,Italy,90,20,Sicily and Sardinia,Etna,White Blend
+1533,Italy,90,,Sicily and Sardinia,Terre Siciliane,Grillo
+1534,Italy,90,19,Sicily and Sardinia,Etna,Rosa
+1535,Italy,90,,Sicily and Sardinia,Vittoria,Frappato
+1536,Italy,90,,Sicily and Sardinia,Etna,Red Blend
+1537,Italy,90,30,Sicily and Sardinia,Etna,Nerello Mascalese
+1538,Italy,90,28,Tuscany,Chianti Classico,Sangiovese
+1539,Italy,90,25,Tuscany,Chianti Classico,Sangiovese
+1540,Italy,90,35,Tuscany,Chianti Classico,Red Blend
+1541,Italy,89,37,Tuscany,Vino Nobile di Montepulciano,Red Blend
+1542,Italy,89,18,Tuscany,Chianti Classico,Red Blend
+1543,Italy,89,65,Tuscany,Maremma Toscana,Syrah
+1544,Italy,89,48,Tuscany,Brunello di Montalcino,Sangiovese
+1545,Italy,90,,Piedmont,Barolo,Nebbiolo
+1546,Italy,90,,Piedmont,Barolo,Nebbiolo
+1547,Italy,90,,Piedmont,Barolo,Nebbiolo
+1548,Italy,90,,Piedmont,Barolo,Nebbiolo
+1549,Italy,90,55,Piedmont,Barolo,Nebbiolo
+1550,Italy,90,29,Piedmont,Barolo,Nebbiolo
+1551,Italy,90,103,Piedmont,Barolo,Nebbiolo
+1552,Italy,99,200,Tuscany,Brunello di Montalcino,Sangiovese
+1553,Italy,98,95,Tuscany,Brunello di Montalcino,Sangiovese
+1554,Italy,97,125,Tuscany,Brunello di Montalcino,Sangiovese
+1555,Italy,87,30,Tuscany,Bolgheri,Red Blend
+1556,Italy,86,50,Tuscany,Brunello di Montalcino,Sangiovese
+1557,Italy,86,85,Tuscany,Brunello di Montalcino,Sangiovese
+1558,Italy,86,,Tuscany,Brunello di Montalcino,Sangiovese
+1559,Italy,88,25,Italy Other,Vino da Tavola,White Blend
+1560,Italy,88,25,Tuscany,Toscana,Syrah
+1561,Italy,88,15,Tuscany,Toscana,Red Blend
+1562,Italy,88,175,Tuscany,Toscana,Red Blend
+1563,Italy,88,17,Tuscany,Toscana,Red Blend
+1564,Italy,88,30,Tuscany,Toscana,Sangiovese
+1565,Italy,88,16,Tuscany,Toscana,Red Blend
+1566,Italy,90,27,Northeastern Italy,Alto Adige,Sauvignon
+1567,Italy,90,16,Northeastern Italy,Alto Adige,Pinot Bianco
+1568,Italy,90,17,Lombardy,Lugana,Turbiana
+1569,Italy,90,30,Tuscany,Bolgheri,Red Blend
+1570,Italy,87,,Piedmont,Barolo,Nebbiolo
+1571,Italy,87,69,Piedmont,Barolo,Nebbiolo
+1572,Italy,91,,Piedmont,Barbaresco,Nebbiolo
+1573,Italy,91,65,Piedmont,Barolo,Nebbiolo
+1574,Italy,91,105,Piedmont,Barolo,Nebbiolo
+1575,Italy,91,,Piedmont,Barbaresco,Nebbiolo
+1576,Italy,91,90,Piedmont,Barolo,Nebbiolo
+1577,Italy,90,,Piedmont,Barolo,Nebbiolo
+1578,Italy,90,55,Piedmont,Barolo,Nebbiolo
+1579,Italy,90,29,Piedmont,Barolo,Nebbiolo
+1580,Italy,90,103,Piedmont,Barolo,Nebbiolo
+1581,Italy,90,53,Piedmont,Barolo,Nebbiolo
+1582,Italy,90,70,Piedmont,Barolo,Nebbiolo
+1583,Italy,90,110,Piedmont,Barolo,Nebbiolo
+1584,Italy,90,45,Piedmont,Barolo,Nebbiolo
+1585,Italy,90,80,Piedmont,Barolo,Nebbiolo
+1586,Italy,90,57,Piedmont,Barolo,Nebbiolo
+1587,Italy,90,25,Southern Italy,Sannio,Fiano
+1588,Italy,90,21,Southern Italy,Greco di Tufo,Greco
+1589,Italy,90,20,Sicily and Sardinia,Etna,White Blend
+1590,Italy,90,17,Sicily and Sardinia,Etna,Nerello Mascalese
+1591,Italy,89,60,Tuscany,Brunello di Montalcino,Sangiovese
+1592,Italy,89,65,Tuscany,Brunello di Montalcino,Sangiovese
+1593,Italy,89,60,Tuscany,Brunello di Montalcino,Sangiovese
+1594,Italy,89,120,Tuscany,Brunello di Montalcino,Sangiovese
+1595,Italy,89,,Tuscany,Chianti Classico,Red Blend
+1596,Italy,89,20,Tuscany,Chianti Classico,Sangiovese
+1597,Italy,89,70,Tuscany,Brunello di Montalcino,Sangiovese
+1598,Italy,89,45,Tuscany,Brunello di Montalcino,Sangiovese
+1599,Italy,96,50,Tuscany,Brunello di Montalcino,Sangiovese
+1600,Italy,96,,Tuscany,Brunello di Montalcino,Sangiovese
+1601,Italy,96,85,Tuscany,Brunello di Montalcino,Sangiovese
+1602,Italy,86,18,Tuscany,Bolgheri,Red Blend
+1603,Italy,86,,Tuscany,Bolgheri,Red Blend
+1604,Italy,86,44,Tuscany,Brunello di Montalcino,Sangiovese
+1605,Italy,86,50,Tuscany,Brunello di Montalcino,Sangiovese
+1606,Italy,86,,Tuscany,Brunello di Montalcino,Sangiovese
+1607,Italy,86,85,Tuscany,Brunello di Montalcino,Sangiovese
+1608,Italy,88,29,Tuscany,Toscana,Red Blend
+1609,Italy,88,37,Tuscany,Toscana,Sangiovese
+1610,Italy,91,,Piedmont,Barbaresco,Nebbiolo
+1611,Italy,91,40,Piedmont,Barbaresco,Nebbiolo
+1612,Italy,90,16,Northeastern Italy,Alto Adige,Pinot Bianco
+1613,Italy,90,19,Northeastern Italy,Alto Adige,Sauvignon
+1614,Italy,90,16,Northeastern Italy,Alto Adige,Pinot Grigio
+1615,Italy,90,29,Northeastern Italy,Alto Adige,Pinot Bianco
+1616,Italy,90,18,Northeastern Italy,Alto Adige,Pinot Grigio
+1617,Italy,90,19,Veneto,Soave Classico,Garganega
+1618,Italy,90,30,Northeastern Italy,Alto Adige,Pinot Bianco
+1619,Italy,87,90,Piedmont,Barolo,Nebbiolo
+1620,Italy,87,70,Piedmont,Barolo,Nebbiolo
+1621,Italy,87,50,Piedmont,Barolo,Nebbiolo
+1622,Italy,89,60,Tuscany,Brunello di Montalcino,Sangiovese
+1623,Italy,89,44,Tuscany,Maremma Toscana,Sangiovese
+1624,Italy,89,70,Tuscany,Brunello di Montalcino,Sangiovese
+1625,Italy,89,45,Tuscany,Brunello di Montalcino,Sangiovese
+1626,Italy,90,160,Piedmont,Barolo,Nebbiolo
+1627,Italy,90,105,Piedmont,Barolo,Nebbiolo
+1628,Italy,90,38,Piedmont,Barbaresco,Nebbiolo
+1629,Italy,90,55,Piedmont,Nebbiolo d'Alba,Nebbiolo
+1630,Italy,90,20,Piedmont,Colline Novaresi,Nebbiolo
+1631,Italy,89,14,Sicily and Sardinia,Sicilia,Grillo
+1632,Italy,89,30,Southern Italy,Fiano di Avellino,Fiano
+1633,Italy,89,19,Southern Italy,Greco di Tufo,Greco
+1634,Italy,96,65,Tuscany,Brunello di Montalcino,Sangiovese
+1635,Italy,95,65,Tuscany,Brunello di Montalcino,Sangiovese
+1636,Italy,95,95,Tuscany,Brunello di Montalcino,Sangiovese
+1637,Italy,95,80,Tuscany,Brunello di Montalcino,Sangiovese
+1638,Italy,95,120,Tuscany,Brunello di Montalcino,Sangiovese
+1639,Italy,95,75,Tuscany,Brunello di Montalcino,Sangiovese
+1640,Italy,95,70,Tuscany,Brunello di Montalcino,Sangiovese
+1641,Italy,95,90,Tuscany,Brunello di Montalcino,Sangiovese
+1642,Italy,86,24,Tuscany,Bolgheri,Red Blend
+1643,Italy,86,24,Tuscany,Bolgheri,Red Blend
+1644,Italy,91,29,Southern Italy,Greco di Tufo,Greco
+1645,Italy,91,,Sicily and Sardinia,Cerasuolo di Vittoria Classico,Red Blend
+1646,Italy,89,90,Tuscany,Brunello di Montalcino,Sangiovese
+1647,Italy,89,65,Tuscany,Brunello di Montalcino,Sangiovese
+1648,Italy,89,15,Tuscany,Maremma Toscana,Red Blend
+1649,Italy,89,49,Tuscany,Maremma Toscana,Red Blend
+1650,Italy,89,15,Tuscany,Maremma Toscana,Cabernet Sauvignon
+1651,Italy,89,107,Tuscany,Brunello di Montalcino,Sangiovese
+1652,Italy,88,140,Tuscany,Toscana,Merlot
+1653,Italy,88,60,Tuscany,Toscana,Red Blend
+1654,Italy,88,65,Tuscany,Toscana,Merlot
+1655,Italy,91,40,Piedmont,Barbaresco,Nebbiolo
+1656,Italy,90,18,Northeastern Italy,Alto Adige,Sauvignon
+1657,Italy,90,75,Tuscany,Brunello di Montalcino,Sangiovese
+1658,Italy,90,18,Veneto,Soave Classico,Garganega
+1659,Italy,90,20,Lombardy,Lugana Superiore,Turbiana
+1660,Italy,90,20,Northeastern Italy,Alto Adige,Pinot Grigio
+1661,Italy,90,18,Northeastern Italy,Alto Adige,Pinot Bianco
+1662,Italy,90,60,Tuscany,Bolgheri Superiore,Red Blend
+1663,Italy,87,60,Piedmont,Barolo,Nebbiolo
+1664,Italy,87,50,Piedmont,Barolo,Nebbiolo
+1665,Italy,87,45,Piedmont,Barolo,Nebbiolo
+1666,Italy,87,,Piedmont,Barolo,Nebbiolo
+1667,Italy,87,,Piedmont,Barolo,Nebbiolo
+1668,Italy,89,60,Piedmont,Barolo,Nebbiolo
+1669,Italy,89,70,Piedmont,Barolo,Nebbiolo
+1670,Italy,89,45,Piedmont,Barolo,Nebbiolo
+1671,Italy,89,79,Piedmont,Barolo,Nebbiolo
+1672,Italy,89,,Piedmont,Roero,Nebbiolo
+1673,Italy,89,79,Piedmont,Barolo,Nebbiolo
+1674,Italy,89,45,Piedmont,Barbaresco,Nebbiolo
+1675,Italy,89,,Piedmont,Barbera d'Alba Superiore,Barbera
+1676,Italy,89,48,Piedmont,Barolo,Nebbiolo
+1677,Italy,89,,Sicily and Sardinia,Sicilia,Grillo
+1678,Italy,89,,Sicily and Sardinia,Terre Siciliane,Red Blend
+1679,Italy,89,23,Sicily and Sardinia,Etna,Carricante
+1680,Italy,89,18,Southern Italy,Fiano di Avellino,Fiano
+1681,Italy,89,80,Sicily and Sardinia,Etna,Carricante
+1682,Italy,89,15,Sicily and Sardinia,Sicilia,Grillo
+1683,Italy,89,52,Sicily and Sardinia,Etna,Nerello Mascalese
+1684,Italy,95,63,Tuscany,Brunello di Montalcino,Sangiovese
+1685,Italy,86,75,Tuscany,Brunello di Montalcino,Sangiovese
+1686,Italy,86,70,Tuscany,Brunello di Montalcino,Sangiovese
+1687,Italy,86,90,Tuscany,Brunello di Montalcino,Sangiovese
+1688,Italy,86,100,Tuscany,Brunello di Montalcino,Sangiovese
+1689,Italy,86,100,Tuscany,Brunello di Montalcino,Sangiovese
+1690,Italy,86,,Tuscany,Brunello di Montalcino,Sangiovese
+1691,Italy,86,90,Tuscany,Brunello di Montalcino,Sangiovese
+1692,Italy,91,45,Northeastern Italy,Collio,Sauvignon
+1693,Italy,91,35,Southern Italy,Greco di Tufo,Greco
+1694,Italy,89,80,Tuscany,Brunello di Montalcino,Sangiovese
+1695,Italy,89,100,Tuscany,Brunello di Montalcino,Sangiovese
+1696,Italy,89,128,Tuscany,Brunello di Montalcino,Sangiovese
+1697,Italy,89,130,Tuscany,Brunello di Montalcino,Sangiovese
+1698,Italy,89,14,Tuscany,Maremma Toscana,Sangiovese
+1699,Italy,89,99,Tuscany,Brunello di Montalcino,Sangiovese
+1700,Italy,89,30,Tuscany,Maremma Toscana,Red Blend
+1701,Italy,89,33,Tuscany,Vino Nobile di Montepulciano,Sangiovese
+1702,Italy,88,26,Lombardy,Valtellina Superiore,Nebbiolo
+1703,Italy,88,32,Tuscany,Toscana,Red Blend
+1704,Italy,88,20,Tuscany,Toscana,Red Blend
+1705,Italy,88,18,Tuscany,Toscana,Sangiovese
+1706,Italy,90,30,Northeastern Italy,Alto Adige,Sauvignon
+1707,Italy,90,37,Northeastern Italy,Alto Adige,Pinot Bianco
+1708,Italy,89,22,Northeastern Italy,Alto Adige,Pinot Grigio
+1709,Italy,89,18,Northeastern Italy,Alto Adige,Pinot Grigio
+1710,Italy,89,,Northeastern Italy,Alto Adige Terlano,Pinot Bianco
+1711,Italy,89,30,Tuscany,Toscana,Red Blend
+1712,Italy,89,25,Lombardy,Lugana,Turbiana
+1713,Italy,89,,Piedmont,Barolo,Nebbiolo
+1714,Italy,89,35,Piedmont,Roero,Nebbiolo
+1715,Italy,89,26,Piedmont,Roero,Nebbiolo
+1716,Italy,89,42,Piedmont,Barolo,Nebbiolo
+1717,Italy,89,,Piedmont,Barolo,Nebbiolo
+1718,Italy,87,80,Piedmont,Barolo,Nebbiolo
+1719,Italy,87,25,Piedmont,Langhe,Nebbiolo
+1720,Italy,87,66,Piedmont,Barolo,Nebbiolo
+1721,Italy,87,,Piedmont,Barbaresco,Nebbiolo
+1722,Italy,89,22,Sicily and Sardinia,Terre Siciliane,Red Blend
+1723,Italy,89,25,Southern Italy,Greco di Tufo,Greco
+1724,Italy,89,40,Southern Italy,Fiano di Avellino,Fiano
+1725,Italy,89,21,Southern Italy,Fiano di Avellino,Fiano
+1726,Italy,89,25,Southern Italy,Fiano di Avellino,Fiano
+1727,Italy,94,90,Tuscany,Toscana,Sangiovese
+1728,Italy,94,65,Tuscany,Brunello di Montalcino,Sangiovese
+1729,Italy,86,50,Tuscany,Brunello di Montalcino,Sangiovese
+1730,Italy,88,26,Lombardy,Valtellina Superiore,Nebbiolo
+1731,Italy,91,17,Lombardy,Lugana,Turbiana
+1732,Italy,89,120,Tuscany,Colli della Toscana Centrale,Sangiovese
+1733,Italy,89,28,Tuscany,Chianti Classico,Sangiovese
+1734,Italy,89,90,Tuscany,Brunello di Montalcino,Sangiovese
+1735,Italy,89,40,Tuscany,Brunello di Montalcino,Sangiovese
+1736,Italy,90,51,Piedmont,Barolo,Nebbiolo
+1737,Italy,90,20,Piedmont,Roero,Nebbiolo
+1738,Italy,90,68,Piedmont,Barolo,Nebbiolo
+1739,Italy,90,41,Piedmont,Barbaresco,Nebbiolo
+1740,Italy,90,60,Piedmont,Barbaresco,Nebbiolo
+1741,Italy,89,35,Tuscany,Chianti Classico,Red Blend
+1742,Italy,89,32,Tuscany,Bolgheri,Red Blend
+1743,Italy,89,19,Northeastern Italy,Alto Adige,Pinot Bianco
+1744,Italy,89,10,Veneto,Soave,White Blend
+1745,Italy,89,48,Lombardy,Lugana,Turbiana
+1746,Italy,89,20,Northeastern Italy,Vigneti delle Dolomiti,Sauvignon
+1747,Italy,89,18,Northeastern Italy,Alto Adige,Sauvignon
+1748,Italy,89,15,Northeastern Italy,Trentino,Pinot Grigio
+1749,Italy,89,15,Veneto,Soave Classico,Garganega
+1750,Italy,89,19,Lombardy,Lugana,Turbiana
+1751,Italy,89,29,Northeastern Italy,Alto Adige,Gewaarztraminer
+1752,Italy,89,17,Northeastern Italy,Alto Adige,Pinot Grigio
+1753,Italy,89,65,Piedmont,Barolo,Nebbiolo
+1754,Italy,89,45,Piedmont,Barolo,Nebbiolo
+1755,Italy,89,,Piedmont,Barbaresco,Nebbiolo
+1756,Italy,89,79,Piedmont,Barolo,Nebbiolo
+1757,Italy,89,119,Piedmont,Barolo,Nebbiolo
+1758,Italy,89,115,Piedmont,Barolo,Nebbiolo
+1759,Italy,89,,Piedmont,Barolo,Nebbiolo
+1760,Italy,89,30,Piedmont,Barolo,Nebbiolo
+1761,Italy,89,45,Piedmont,Barolo,Nebbiolo
+1762,Italy,89,50,Piedmont,Barolo,Nebbiolo
+1763,Italy,89,55,Piedmont,Barolo,Nebbiolo
+1764,Italy,89,88,Piedmont,Barolo,Nebbiolo
+1765,Italy,89,50,Piedmont,Barolo,Nebbiolo
+1766,Italy,89,115,Piedmont,Barbaresco,Nebbiolo
+1767,Italy,89,,Sicily and Sardinia,Sicilia,Grillo
+1768,Italy,89,21,Sicily and Sardinia,Etna,Carricante
+1769,Italy,89,45,Southern Italy,Fiano di Avellino,Fiano
+1770,Italy,87,60,Piedmont,Barolo,Nebbiolo
+1771,Italy,94,23,Tuscany,Vino Nobile di Montepulciano,Red Blend
+1772,Italy,89,28,Tuscany,Maremma Toscana,Sangiovese
+1773,Italy,89,40,Tuscany,Brunello di Montalcino,Sangiovese
+1774,Italy,89,25,Tuscany,Chianti Classico,Sangiovese
+1775,Italy,89,26,Tuscany,Chianti Classico,Red Blend
+1776,Italy,85,40,Tuscany,Brunello di Montalcino,Sangiovese
+1777,Italy,87,13,Italy Other,Vino Spumante,Frappato
+1778,Italy,89,19,Northeastern Italy,Alto Adige,Gewaarztraminer
+1779,Italy,89,27,Northeastern Italy,Alto Adige,Gewaarztraminer
+1780,Italy,89,29,Northeastern Italy,Alto Adige,Gewaarztraminer
+1781,Italy,89,17,Northeastern Italy,Alto Adige,Pinot Grigio
+1782,Italy,89,30,Lombardy,Lugana,Turbiana
+1783,Italy,89,31,Lombardy,Lugana,Turbiana
+1784,Italy,89,16,Veneto,Soave Classico,White Blend
+1785,Italy,89,,Sicily and Sardinia,Sicilia,Grillo
+1786,Italy,89,20,Sicily and Sardinia,Terre Siciliane,Rosa
+1787,Italy,89,34,Sicily and Sardinia,Etna,Red Blend
+1788,Italy,89,27,Southern Italy,Greco di Tufo,Greco
+1789,Italy,89,25,Southern Italy,Sannio,Greco
+1790,Italy,89,60,Southern Italy,Fiano di Avellino,Fiano
+1791,Italy,90,22,Piedmont,Langhe,Nebbiolo
+1792,Italy,89,,Piedmont,Roero,Nebbiolo
+1793,Italy,89,60,Piedmont,Barolo,Nebbiolo
+1794,Italy,89,46,Piedmont,Barolo,Nebbiolo
+1795,Italy,89,80,Piedmont,Barolo,Nebbiolo
+1796,Italy,89,65,Piedmont,Barolo,Nebbiolo
+1797,Italy,89,59,Piedmont,Barolo,Nebbiolo
+1798,Italy,89,,Piedmont,Roero,Nebbiolo
+1799,Italy,89,20,Piedmont,Barbera d'Alba,Barbera
+1800,Italy,89,,Piedmont,Barbaresco,Nebbiolo
+1801,Italy,87,85,Piedmont,Barbaresco,Nebbiolo
+1802,Italy,87,48,Piedmont,Barolo,Nebbiolo
+1803,Italy,87,60,Piedmont,Barolo,Nebbiolo
+1804,Italy,87,69,Piedmont,Barolo,Nebbiolo
+1805,Italy,87,65,Piedmont,Barolo,Nebbiolo
+1806,Italy,87,44,Piedmont,Barolo,Nebbiolo
+1807,Italy,94,80,Tuscany,Brunello di Montalcino,Sangiovese
+1808,Italy,94,65,Tuscany,Brunello di Montalcino,Sangiovese
+1809,Italy,89,25,Tuscany,Chianti Classico,Red Blend
+1810,Italy,89,60,Tuscany,Vino Nobile di Montepulciano,Red Blend
+1811,Italy,88,15,Tuscany,Chianti,Red Blend
+1812,Italy,88,,Tuscany,Chianti Classico,Red Blend
+1813,Italy,88,36,Tuscany,Chianti Classico,Sangiovese
+1814,Italy,88,25,Tuscany,Chianti Classico,Sangiovese
+1815,Italy,88,25,Tuscany,Chianti Classico,Red Blend
+1816,Italy,91,25,Lombardy,Lugana,Turbiana
+1817,Italy,91,28,Southern Italy,Fiano di Avellino,Fiano
+1818,Italy,85,120,Tuscany,Brunello di Montalcino,Sangiovese
+1819,Italy,87,17,Tuscany,Toscana,Red Blend
+1820,Italy,87,30,Tuscany,Toscana,Red Blend
+1821,Italy,87,70,Tuscany,Toscana,Syrah
+1822,Italy,87,25,Tuscany,Toscana,Red Blend
+1823,Italy,87,28,Tuscany,Toscana,Red Blend
+1824,Italy,87,40,Tuscany,Toscana,Red Blend
+1825,Italy,87,15,Tuscany,Toscana,Sangiovese
+1826,Italy,89,59,Piedmont,Barolo,Nebbiolo
+1827,Italy,89,,Piedmont,Roero,Nebbiolo
+1828,Italy,89,20,Piedmont,Barbera d'Alba,Barbera
+1829,Italy,89,,Piedmont,Barbaresco,Nebbiolo
+1830,Italy,89,30,Piedmont,Barbera d'Alba,Barbera
+1831,Italy,89,50,Piedmont,Barolo,Nebbiolo
+1832,Italy,89,25,Northeastern Italy,Alto Adige,Pinot Bianco
+1833,Italy,89,19,Lombardy,Lugana,Turbiana
+1834,Italy,89,18,Lombardy,Lugana,Turbiana
+1835,Italy,89,21,Northeastern Italy,Alto Adige,Riesling
+1836,Italy,89,15,Northeastern Italy,Alto Adige,Pinot Grigio
+1837,Italy,89,22,Northeastern Italy,Alto Adige,Pinot Grigio
+1838,Italy,89,70,Tuscany,Toscana,Red Blend
+1839,Italy,89,36,Sicily and Sardinia,Etna,Carricante
+1840,Italy,89,28,Sicily and Sardinia,Etna,Carricante
+1841,Italy,89,10,Sicily and Sardinia,Sicilia,Grillo
+1842,Italy,89,,Sicily and Sardinia,Etna,Rosa
+1843,Italy,89,,Sicily and Sardinia,Terre Siciliane,Rosa
+1844,Italy,89,17,Southern Italy,Fiano di Avellino,Fiano
+1845,Italy,90,65,Piedmont,Barbaresco,Nebbiolo
+1846,Italy,90,93,Piedmont,Barbaresco,Nebbiolo
+1847,Italy,90,50,Piedmont,Barbaresco,Nebbiolo
+1848,Italy,90,49,Piedmont,Barbaresco,Nebbiolo
+1849,Italy,86,55,Piedmont,Barolo,Nebbiolo
+1850,Italy,86,60,Piedmont,Barbaresco,Nebbiolo
+1851,Italy,86,,Piedmont,Barolo,Nebbiolo
+1852,Italy,93,,Tuscany,Brunello di Montalcino,Sangiovese
+1853,Italy,93,60,Tuscany,Brunello di Montalcino,Sangiovese
+1854,Italy,93,85,Tuscany,Brunello di Montalcino,Sangiovese
+1855,Italy,88,56,Tuscany,Chianti Classico,Red Blend
+1856,Italy,88,18,Tuscany,Maremma Toscana,Red Blend
+1857,Italy,88,80,Tuscany,Brunello di Montalcino,Sangiovese
+1858,Italy,88,,Tuscany,Brunello di Montalcino,Sangiovese
+1859,Italy,88,30,Tuscany,Maremma Toscana,Red Blend
+1860,Italy,88,20,Tuscany,Chianti Classico,Red Blend
+1861,Italy,88,44,Tuscany,Vin Santo del Chianti Classico,Red Blend
+1862,Italy,88,40,Tuscany,Brunello di Montalcino,Sangiovese
+1863,Italy,88,20,Tuscany,Chianti Classico,Sangiovese
+1864,Italy,88,25,Tuscany,Chianti Classico,Red Blend
+1865,Italy,88,36,Tuscany,Vin Santo del Chianti Rufina,White Blend
+1866,Italy,88,50,Tuscany,Brunello di Montalcino,Sangiovese
+1867,Italy,89,60,Piedmont,Barolo,Nebbiolo
+1868,Italy,89,30,Piedmont,Barbera d'Alba,Barbera
+1869,Italy,89,50,Piedmont,Barolo,Nebbiolo
+1870,Italy,89,20,Piedmont,Barbera d'Alba Superiore,Barbera
+1871,Italy,89,55,Piedmont,Barolo,Nebbiolo
+1872,Italy,89,69,Piedmont,Barolo,Nebbiolo
+1873,Italy,89,20,Piedmont,Coste della Sesia,Nebbiolo
+1874,Italy,91,33,Lombardy,Lugana,Turbiana
+1875,Italy,91,,Lombardy,Lugana,Turbiana
+1876,Italy,91,27,Southern Italy,Greco di Tufo,Greco
+1877,Italy,85,60,Tuscany,Brunello di Montalcino,Sangiovese
+1878,Italy,85,35,Tuscany,Bolgheri Superiore,Red Blend
+1879,Italy,87,20,Italy Other,Vino Spumante,Nerello Mascalese
+1880,Italy,87,40,Lombardy,Valtellina Superiore,Nebbiolo
+1881,Italy,87,15,Tuscany,Toscana,Red Blend
+1882,Italy,87,65,Tuscany,Toscana,Red Blend
+1883,Italy,89,35,Tuscany,Bolgheri,Red Blend
+1884,Italy,89,32,Northeastern Italy,Alto Adige,Gewaarztraminer
+1885,Italy,89,18,Northeastern Italy,Alto Adige,Pinot Bianco
+1886,Italy,89,16,Northeastern Italy,Alto Adige,Pinot Bianco
+1887,Italy,89,50,Tuscany,Rosso di Toscana,Sangiovese
+1888,Italy,88,40,Tuscany,Chianti Classico,Red Blend
+1889,Italy,88,20,Lombardy,Lugana,Turbiana
+1890,Italy,88,17,Lombardy,Lugana,Turbiana
+1891,Italy,88,15,Lombardy,Lugana,Turbiana
+1892,Italy,89,27,Sicily and Sardinia,Valli di Porto Pino,Red Blend
+1893,Italy,89,88,Southern Italy,Fiano di Avellino,Fiano
+1894,Italy,89,27,Southern Italy,Fiano di Avellino,Fiano
+1895,Italy,89,,Sicily and Sardinia,Sicilia,Grillo
+1896,Italy,89,,Sicily and Sardinia,Sicilia,Fiano
+1897,Italy,93,60,Tuscany,Brunello di Montalcino,Sangiovese
+1898,Italy,93,,Tuscany,Brunello di Montalcino,Sangiovese
+1899,Italy,93,75,Tuscany,Brunello di Montalcino,Sangiovese
+1900,Italy,93,55,Tuscany,Brunello di Montalcino,Sangiovese
+1901,Italy,90,56,Piedmont,Barolo,Nebbiolo
+1902,Italy,90,129,Piedmont,Barolo,Nebbiolo
+1903,Italy,90,135,Piedmont,Barolo,Nebbiolo
+1904,Italy,90,48,Piedmont,Barbaresco,Nebbiolo
+1905,Italy,90,105,Piedmont,Barolo,Nebbiolo
+1906,Italy,90,64,Italy Other,Vino da Tavola,Nerello Mascalese
+1907,Italy,90,25,Piedmont,Langhe,Nebbiolo
+1908,Italy,90,85,Piedmont,Barolo,Nebbiolo
+1909,Italy,90,24,Piedmont,Langhe,Nebbiolo
+1910,Italy,87,15,Tuscany,Toscana,Red Blend
+1911,Italy,87,15,Tuscany,Toscana,Red Blend
+1912,Italy,87,65,Tuscany,Toscana,Red Blend
+1913,Italy,86,35,Piedmont,Barbaresco,Nebbiolo
+1914,Italy,86,45,Piedmont,Barolo,Nebbiolo
+1915,Italy,91,21,Southern Italy,Fiano di Avellino,Fiano
+1916,Italy,91,25,Northeastern Italy,Collio,Sauvignon
+1917,Italy,91,26,Northeastern Italy,Collio,Pinot Bianco
+1918,Italy,88,50,Tuscany,Brunello di Montalcino,Sangiovese
+1919,Italy,88,25,Tuscany,Chianti Classico,Red Blend
+1920,Italy,88,43,Piedmont,Barolo,Nebbiolo
+1921,Italy,88,24,Piedmont,Barbera d'Alba,Barbera
+1922,Italy,88,33,Piedmont,Barbera d'Alba,Barbera
+1923,Italy,88,,Piedmont,Barolo,Nebbiolo
+1924,Italy,88,,Piedmont,Barolo,Nebbiolo
+1925,Italy,88,65,Southern Italy,Costa d'Amalfi,Red Blend
+1926,Italy,88,25,Sicily and Sardinia,Etna,White Blend
+1927,Italy,88,,Sicily and Sardinia,Sicilia,White Blend
+1928,Italy,88,,Sicily and Sardinia,Vittoria,White Blend
+1929,Italy,88,20,Sicily and Sardinia,Etna,Rosa
+1930,Italy,86,60,Piedmont,Barolo,Nebbiolo
+1931,Italy,86,,Piedmont,Barbaresco,Nebbiolo
+1932,Italy,88,27,Northeastern Italy,Alto Adige,Gewaarztraminer
+1933,Italy,88,60,Northeastern Italy,Alto Adige,White Blend
+1934,Italy,88,17,Tuscany,Chianti Classico,Sangiovese
+1935,Italy,88,18,Veneto,Soave Classico,White Blend
+1936,Italy,88,,Lombardy,Lugana,Turbiana
+1937,Italy,88,45,Veneto,Veronese,Garganega
+1938,Italy,88,19,Lombardy,Lugana,Turbiana
+1939,Italy,88,25,Northeastern Italy,Alto Adige,Sauvignon Blanc
+1940,Italy,88,20,Veneto,Soave,Garganega
+1941,Italy,88,27,Tuscany,Chianti Classico,Red Blend
+1942,Italy,88,22,Northeastern Italy,Alto Adige,Sauvignon
+1943,Italy,88,27,Northeastern Italy,Alto Adige,Sauvignon
+1944,Italy,90,90,Piedmont,Barolo,Nebbiolo
+1945,Italy,90,58,Piedmont,Barbaresco,Nebbiolo
+1946,Italy,90,35,Piedmont,Barbaresco,Nebbiolo
+1947,Italy,90,35,Piedmont,Barbaresco,Nebbiolo
+1948,Italy,90,,Piedmont,Barbaresco,Nebbiolo
+1949,Italy,88,40,Tuscany,Brunello di Montalcino,Sangiovese
+1950,Italy,88,,Tuscany,Brunello di Montalcino,Sangiovese
+1951,Italy,88,72,Tuscany,Brunello di Montalcino,Sangiovese
+1952,Italy,88,65,Tuscany,Brunello di Montalcino,Sangiovese
+1953,Italy,88,90,Tuscany,Brunello di Montalcino,Sangiovese
+1954,Italy,87,34,Tuscany,Toscana,Sangiovese
+1955,Italy,87,17,Tuscany,Toscana,Red Blend
+1956,Italy,87,18,Tuscany,Toscana,Red Blend
+1957,Italy,87,30,Tuscany,Toscana,Red Blend
+1958,Italy,87,18,Tuscany,Toscana,Red Blend
+1959,Italy,87,40,Tuscany,Toscana,Merlot
+1960,Italy,87,165,Tuscany,Toscana,Sangiovese
+1961,Italy,87,16,Tuscany,Toscana,Red Blend
+1962,Italy,88,45,Piedmont,Barolo,Nebbiolo
+1963,Italy,88,65,Piedmont,Barolo,Nebbiolo
+1964,Italy,88,20,Piedmont,Barbera d'Alba,Barbera
+1965,Italy,88,20,Piedmont,Barbera d'Asti,Barbera
+1966,Italy,88,90,Piedmont,Barolo,Nebbiolo
+1967,Italy,88,45,Piedmont,Roero,Nebbiolo
+1968,New Zealand,94,57,Kumeu,,Chardonnay
+1969,New Zealand,93,46,Kumeu,,Chardonnay
+1970,New Zealand,93,33,Marlborough,,Sauvignon Blanc
+1971,New Zealand,93,40,Central Otago,,Riesling
+1972,New Zealand,92,63,Martinborough,Martinborough,Pinot Noir
+1973,New Zealand,92,49,Kumeu,,Chardonnay
+1974,New Zealand,92,25,Nelson,,Chardonnay
+1975,New Zealand,92,34,Kumeu,,Chardonnay
+1976,New Zealand,92,65,Central Otago,Martinborough,Pinot Noir
+1977,New Zealand,92,61,Martinborough,Martinborough,Pinot Noir
+1978,New Zealand,92,29,Marlborough,,Sauvignon Blanc
+1979,New Zealand,92,28,Martinborough,Martinborough,Pinot Noir
+1980,New Zealand,91,35,Marlborough,,Champagne Blend
+1981,New Zealand,91,30,Hawke's Bay,,Sauvignon Blanc
+1982,New Zealand,91,46,Martinborough,Martinborough,Pinot Noir
+1983,New Zealand,91,20,Marlborough,,Sauvignon Blanc
+1984,New Zealand,91,23,Marlborough,,Sauvignon Blanc
+1985,New Zealand,91,20,Marlborough,,Riesling
+1986,New Zealand,90,26,Marlborough,,Sauvignon Blanc
+1987,New Zealand,90,24,Marlborough,,Pinot Gris
+1988,New Zealand,90,15,Marlborough,,Sauvignon Blanc
+1989,New Zealand,90,19,Nelson,,Sauvignon Blanc
+1990,New Zealand,90,21,Martinborough,,Sauvignon Blanc
+1991,Portugal,92,95,Douro,Douro,Portuguese White
+1992,Portugal,91,18,Alentejano,,Touriga Nacional
+1993,Portugal,91,30,Alentejano,Alentejano,Rhane-style Red Blend
+1994,Portugal,91,42,Alentejo,Alentejo,Portuguese Red
+1995,Portugal,86,15,Douro,,Rosa
+1996,Portugal,86,10,Tejo,Tejo,Portuguese Red
+1997,Portugal,86,12,Douro,Douro,Portuguese White
+1998,Portugal,86,15,Alentejano,Alentejano,Portuguese Red
+1999,Portugal,86,13,Daeo,,Touriga Nacional
+2000,Portugal,86,,Tejo,Tejo,Portuguese Red
+2001,Portugal,86,30,Douro,Douro,Portuguese Rosa
+2002,Portugal,89,45,Duriense,,Syrah
+2003,Portugal,92,23,Douro,Douro,Portuguese Red
+2004,Portugal,92,70,Douro,Douro,Portuguese Red
+2005,Portugal,92,23,Lisboa,Lisboa,Portuguese Red
+2006,Portugal,91,19,Douro,Douro,Portuguese White
+2007,Portugal,91,,Alentejano,Alentejano,Portuguese Red
+2008,Portugal,91,16,Daeo,Daeo,Portuguese Red
+2009,Portugal,90,33,Douro,Douro,Portuguese Red
+2010,Portugal,90,19,Douro,Douro,Portuguese White
+2011,Portugal,85,11,Tejo,Tejo,Portuguese Red
+2012,Portugal,85,10,Daeo,Daeo,Portuguese Red
+2013,Portugal,89,18,Douro,Douro,Portuguese Red
+2014,Portugal,89,7,Terras do Daeo,Terras do Daeo,Portuguese Red
+2015,Portugal,89,17,Alentejano,Alentejano,Portuguese Red
+2016,Portugal,92,11,Daeo,Daeo,Portuguese Red
+2017,Portugal,89,18,Douro,Douro,Portuguese Red
+2018,Portugal,89,7,Terras do Daeo,Terras do Daeo,Portuguese Red
+2019,Portugal,89,17,Alentejano,Alentejano,Portuguese Red
+2020,Portugal,89,18,Douro,Douro,Portuguese Red
+2021,Portugal,90,18,Douro,Douro,Portuguese Red
+2022,Portugal,90,30,Alentejano,Alentejano,Portuguese White
+2023,Portugal,85,10,Vinho Verde,Vinho Verde,Portuguese White
+2024,Portugal,85,9,Vinho Verde,Vinho Verde,Portuguese White
+2025,Portugal,85,12,Beira Atlantico,Beira Atlantico,Portuguese Sparkling
+2026,Portugal,85,28,Tejo,Tejo,Portuguese Sparkling
+2027,Portugal,85,11,Daeo,Daeo,Portuguese Sparkling
+2028,Portugal,85,7,Alentejano,Alentejano,Portuguese Red
+2029,Portugal,85,8,Bairrada,Bairrada,Portuguese Sparkling
+2030,Portugal,85,10,Portuguese Table Wine,Portuguese Table Wine,Portuguese Red
+2031,Portugal,85,9,Alentejano,Alentejano,Portuguese Red
+2032,Portugal,91,35,Tejo,Tejo,Portuguese Red
+2033,Portugal,91,17,Penainsula de Setubal,Penainsula de Setubal,Portuguese Red
+2034,Portugal,91,22,Alentejano,Alentejano,Portuguese Red
+2035,Portugal,91,28,Douro,Douro,Portuguese Red
+2036,Portugal,91,75,Douro,Douro,Portuguese Red
+2037,Portugal,91,30,Tejo,Tejo,Portuguese Red
+2038,Portugal,91,,Douro,Douro,Portuguese Red
+2039,Portugal,91,,Tejo,Tejo,Portuguese White
+2040,Portugal,91,,Alentejano,,Touriga Nacional
+2041,Portugal,91,16,Douro,Douro,Portuguese Red
+2042,Portugal,88,35,Daeo,Daeo,Portuguese Red
+2043,Portugal,90,13,Lisboa,Lisboa,Portuguese Red
+2044,Portugal,92,25,Douro,Douro,Portuguese Red
+2045,Portugal,92,25,Douro,Douro,Portuguese Red
+2046,Portugal,85,15,Tejo,,Touriga Nacional
+2047,Portugal,85,15,Tejo,Tejo,Portuguese Red
+2048,Portugal,85,15,Tejo,Tejo,Portuguese White
+2049,Portugal,85,10,Alentejano,Alentejano,Portuguese Red
+2050,Portugal,85,7,Alentejano,Alentejano,Portuguese White
+2051,Portugal,85,14,Douro,Douro,Portuguese Red
+2052,Portugal,89,12,Tejo,Tejo,Portuguese Red
+2053,Portugal,88,20,Porto,Porto,Porto
+2054,Portugal,91,22,Daeo,Daeo,Portuguese Red
+2055,Portugal,91,,Alentejano,Alentejano,Portuguese Red
+2056,Portugal,91,,Tejo,Tejo,Portuguese Red
+2057,Portugal,90,100,Alentejano,Alentejano,Portuguese Red
+2058,Portugal,85,10,Alentejano,Alentejano,Portuguese Red
+2059,Portugal,85,7,Alentejano,Alentejano,Portuguese White
+2060,Portugal,85,14,Douro,Douro,Portuguese Red
+2061,Portugal,84,18,Alentejano,,Rosa
+2062,Portugal,84,,Tejo,,Sauvignon Blanc
+2063,Portugal,84,12,Palmela,Palmela,Portuguese White
+2064,Portugal,84,10,Tejo,Tejo,Portuguese Sparkling
+2065,Portugal,84,10,Vinho Verde,,Rosa
+2066,Portugal,84,10,Vinho Verde,Vinho Verde,Portuguese White
+2067,Portugal,92,23,Alentejano,Alentejano,Portuguese Red
+2068,Portugal,91,58,Bairrada,Bairrada,Portuguese Red
+2069,Portugal,91,22,Douro,Douro,Portuguese Red
+2070,Portugal,91,22,Douro,Douro,Portuguese Red
+2071,Portugal,90,18,Douro,Douro,Portuguese White
+2072,Portugal,90,15,Tejo,Tejo,Portuguese Red
+2073,Portugal,88,,Tejo,Tejo,Portuguese White
+2074,Portugal,88,20,Alentejano,Alentejano,Portuguese Red
+2075,Portugal,88,12,Douro,Douro,Portuguese Red
+2076,Portugal,88,12,Vinho Verde,Vinho Verde,Portuguese White
+2077,Portugal,88,20,Douro,,Rosa
+2078,Portugal,84,15,Tejo,,Touriga Nacional
+2079,Portugal,84,9,Alentejano,Alentejano,Portuguese White
+2080,Portugal,84,10,Douro,Douro,Portuguese White
+2081,Portugal,84,,Tejo,Tejo,Portuguese White
+2082,Portugal,84,10,Vinho Verde,Vinho Verde,Portuguese Red
+2083,Portugal,84,22,Bairrada,Bairrada,Portuguese White
+2084,Portugal,84,13,Douro,Douro,Portuguese Red
+2085,Portugal,91,25,Daeo,Daeo,Portuguese Red
+2086,Portugal,91,20,Tejo,Tejo,Portuguese Red
+2087,Portugal,90,,Daeo,Daeo,Portuguese Red
+2088,Portugal,90,,Daeo,Daeo,Portuguese White
+2089,Portugal,88,21,Douro,,Touriga Nacional
+2090,Portugal,88,8,Alentejano,Alentejano,Portuguese Red
+2091,Portugal,88,10,Douro,Douro,Portuguese Red
+2092,Portugal,88,8,Alentejano,Alentejano,Portuguese Red
+2093,Portugal,88,12,Douro,Douro,Portuguese Red
+2094,Portugal,90,16,Moscatel de Setaubal,,Moscatel
+2095,Portugal,82,10,Vinho Verde,Vinho Verde,Portuguese White
+2096,Portugal,88,13,Alentejano,Alentejano,Portuguese White
+2097,Portugal,88,,Douro,Douro,Portuguese Red
+2098,Portugal,90,,Douro,Douro,Portuguese Red
+2099,Portugal,90,,Alentejo,Alentejo,Portuguese Red
+2100,Portugal,90,45,Alentejano,,Petit Verdot
+2101,Portugal,90,,Douro,Douro,Portuguese Red
+2102,Portugal,87,11,Penainsula de Setubal,,Rosa
+2103,Portugal,91,12,Douro,Douro,Portuguese Red
+2104,Portugal,91,47,Douro,Douro,Portuguese Red
+2105,Portugal,90,137,Moscatel do Douro,,Moscatel
+2106,Portugal,88,8,Tejo,Tejo,Portuguese Red
+2107,Portugal,88,12,Alentejano,Alentejano,Portuguese Red
+2108,Portugal,91,20,Alentejano,Alentejano,Portuguese Red
+2109,Portugal,91,60,Alentejano,,Syrah
+2110,Portugal,91,35,Lisboa,Lisboa,Portuguese Red
+2111,Portugal,91,10,Daeo,Daeo,Portuguese Red
+2112,Portugal,91,25,Penainsula de Setubal,,Merlot
+2113,Portugal,90,16,Alentejano,Alentejano,Portuguese Red
+2114,Portugal,90,,Vinho Verde,Vinho Verde,Portuguese White
+2115,Portugal,90,30,Douro,Douro,Portuguese Red
+2116,Portugal,87,12,Lisboa,Lisboa,Portuguese Red
+2117,Portugal,87,12,Douro,Douro,Portuguese Red
+2118,Portugal,87,18,Douro,Douro,Portuguese White
+2119,Portugal,90,16,Penainsula de Setubal,Penainsula de Setubal,Portuguese Red
+2120,Portugal,90,12,Alentejano,Alentejano,Portuguese Red
+2121,Portugal,90,65,Porto,Porto,Porto
+2122,Portugal,90,13,Tejo,Tejo,Portuguese Red
+2123,Portugal,91,23,Douro,Douro,Portuguese Red
+2124,Portugal,90,13,Tejo,Tejo,Portuguese White
+2125,Portugal,90,20,Tejo,,Cabernet Sauvignon
+2126,Portugal,90,,Alentejano,Alentejano,Portuguese White
+2127,Portugal,87,12,Alentejano,Alentejano,Portuguese Red
+2128,Portugal,87,12,Vinho Verde,Vinho Verde,Portuguese White
+2129,Portugal,90,13,Alentejo,Alentejo,Portuguese Red
+2130,Portugal,89,14,Alentejano,Alentejano,Portuguese Red
+2131,Portugal,89,,Alentejano,Alentejano,Portuguese Red
+2132,Portugal,89,,Alentejano,Alentejano,Portuguese White
+2133,Portugal,89,13,Douro,Douro,Portuguese White
+2134,Portugal,87,10,Alentejano,,Syrah
+2135,Portugal,87,8,Tejo,Tejo,Portuguese Red
+2136,Portugal,87,15,Alentejano,,Syrah
+2137,Portugal,90,15,Alentejano,Alentejano,Portuguese Red
+2138,Portugal,90,,Alentejano,Alentejano,Portuguese Red
+2139,Portugal,89,,Lisboa,Lisboa,Portuguese Red
+2140,Portugal,89,15,Bairrada,Bairrada,Portuguese Red
+2141,Portugal,87,8,Douro,Douro,Portuguese Red
+2142,Portugal,87,8,Tejo,Tejo,Portuguese Red
+2143,Portugal,87,15,Alentejano,,Syrah
+2144,Portugal,87,13,Douro,Douro,Portuguese Red
+2145,Portugal,87,17,Douro,Douro,Portuguese Red
+2146,Portugal,87,15,Tejo,Tejo,Portuguese White
+2147,Portugal,90,18,Alentejano,Alentejano,Portuguese Red
+2148,Portugal,90,10,Daeo,Daeo,Portuguese Red
+2149,Portugal,89,18,Lisboa,Lisboa,Portuguese White
+2150,Portugal,89,12,Alentejano,Alentejano,Portuguese Red
+2151,Portugal,89,,Daeo,Daeo,Portuguese White
+2152,Portugal,86,13,Douro,Douro,Portuguese White
+2153,Portugal,86,13,Alentejano,,Verdejo
+2154,Portugal,86,19,Penainsula de Setubal,,Moscatel
+2155,Portugal,89,20,Alentejano,Alentejano,Portuguese Red
+2156,Portugal,89,20,Douro,Douro,Portuguese White
+2157,Portugal,89,30,Alentejano,,Viognier
+2158,Portugal,87,10,Alentejano,Alentejano,Portuguese Red
+2159,Portugal,87,,Douro,Douro,Portuguese White
+2160,Portugal,89,14,Tejo,Tejo,Portuguese White
+2161,Portugal,89,20,Tejo,Tejo,Portuguese Red
+2162,Portugal,90,40,Alentejo,Alentejo,Portuguese Red
+2163,Portugal,90,15,Douro,Douro,Portuguese Red
+2164,Portugal,87,18,Douro,Douro,Portuguese White
+2165,Portugal,87,,Douro,Douro,Portuguese White
+2166,Portugal,87,10,Alentejano,Alentejano,Portuguese Red
+2167,Portugal,87,8,Alentejano,Alentejano,Portuguese White
+2168,Portugal,86,9,Alentejano,Alentejano,Portuguese Red
+2169,Portugal,86,15,Lisboa,Lisboa,Portuguese Red
+2170,Portugal,86,8,Daeo,Daeo,Portuguese Red
+2171,Portugal,88,,Alentejano,Alentejano,Portuguese Red
+2172,Portugal,90,15,Lisboa,Lisboa,Portuguese Red
+2173,Portugal,90,59,Douro,Douro,Portuguese Red
+2174,Portugal,90,58,Bairrada,Bairrada,Portuguese Red
+2175,Portugal,88,16,Tejo,Tejo,Portuguese Red
+2176,South Africa,86,20,Walker Bay,,Sauvignon Blanc
+2177,South Africa,86,35,Stellenbosch,,Sauvignon Blanc
+2178,South Africa,86,11,Western Cape,,Sauvignon Blanc
+2179,South Africa,85,10,Western Cape,,Sauvignon Blanc
+2180,South Africa,85,20,Overberg,,Chardonnay
+2181,South Africa,85,16,Robertson,,Sauvignon Blanc
+2182,South Africa,85,22,Stellenbosch,,Chardonnay
+2183,South Africa,85,10,Western Cape,,Chenin Blanc
+2184,South Africa,85,15,Simonsberg-Paarl,,Sauvignon Blanc
+2185,South Africa,85,10,Robertson,,Chardonnay
+2186,South Africa,85,15,Western Cape,,Sauvignon Blanc
+2187,South Africa,85,10,Western Cape,,Chenin Blanc
+2188,South Africa,84,20,Stellenbosch,,Chenin Blanc
+2189,South Africa,84,9,South Africa,,Chenin Blanc
+2190,South Africa,83,10,Western Cape,,Chenin Blanc
+2191,Spain,88,30,Northern Spain,Cigales,Tempranillo
+2192,Spain,88,17,Central Spain,La Mancha,Tempranillo Blend
+2193,Spain,94,68,Northern Spain,Rioja,Tempranillo Blend
+2194,Spain,94,,Northern Spain,Ribera del Duero,Red Blend
+2195,Spain,91,22,Galicia,Ra?as Baixas,Albariato
+2196,Spain,91,32,Northern Spain,Ribera del Duero,Tempranillo
+2197,Spain,90,35,Northern Spain,Ribera del Duero,Tempranillo
+2198,Spain,90,28,Central Spain,La Mancha,Tempranillo
+2199,Spain,90,26,Galicia,Ra?as Baixas,Albariato
+2200,Spain,90,49,Spain Other,Spain,White Blend
+2201,Spain,87,18,Catalonia,Cava,Sparkling Blend
+2202,Spain,87,27,Northern Spain,Ribera del Duero,Tempranillo
+2203,Spain,87,25,Andalucia,Jerez,Sherry
+2204,Spain,87,15,Northern Spain,Ribera del Duero,Tempranillo
+2205,Spain,87,16,Andalucia,Manzanilla-Sanla¼car de Barrameda,Sherry
+2206,Spain,87,15,Northern Spain,Ribera del Duero,Tempranillo Blend
+2207,Spain,87,28,Catalonia,Montsant,Red Blend
+2208,Spain,89,23,Catalonia,Priorat,Red Blend
+2209,Spain,89,25,Galicia,Ra?as Baixas,Albariato
+2210,Spain,89,12,Northern Spain,Ribera del Duero,Tempranillo
+2211,Spain,89,18,Catalonia,Cava,Sparkling Blend
+2212,Spain,90,20,Northern Spain,Rioja,Tempranillo
+2213,Spain,90,17,Northern Spain,Rioja,Tempranillo Blend
+2214,Spain,93,64,Northern Spain,Ribera del Duero,Tempranillo
+2215,Spain,93,91,Northern Spain,Ribera del Duero,Red Blend
+2216,Spain,90,20,Galicia,Ra?as Baixas,Albariato
+2217,Spain,88,11,Central Spain,Vino de la Tierra de Castilla,Tempranillo
+2218,Spain,90,35,Catalonia,Cava,Sparkling Blend
+2219,Spain,85,50,Northern Spain,Rioja,Red Blend
+2220,Spain,89,26,Catalonia,Priorat,Red Blend
+2221,Spain,90,21,Northern Spain,Rioja,Tempranillo Blend
+2222,Spain,90,35,Catalonia,Cava,Sparkling Blend
+2223,Spain,90,25,Catalonia,Cava,Sparkling Blend
+2224,Spain,90,36,Galicia,Ribeira Sacra,Godello
+2225,Spain,90,30,Northern Spain,Rioja,Tempranillo
+2226,Spain,93,30,Andalucia,Jerez,Sherry
+2227,Spain,93,61,Northern Spain,Rioja,Tempranillo
+2228,Spain,89,50,Catalonia,Penedas,Garnacha
+2229,Spain,90,35,Northern Spain,Rioja,Tempranillo Blend
+2230,Spain,90,24,Northern Spain,Ribera del Duero,Tempranillo
+2231,Spain,87,15,Levante,Jumilla,Monastrell
+2232,Spain,90,15,Northern Spain,Rioja,Tempranillo
+2233,Spain,90,20,Northern Spain,Rioja,Tempranillo Blend
+2234,Spain,90,30,Northern Spain,Rioja,Tempranillo
+2235,Spain,93,37,Northern Spain,Rioja,Tempranillo
+2236,Spain,93,44,Northern Spain,Rioja,Tempranillo Blend
+2237,Spain,93,136,Northern Spain,Ribera del Duero,Red Blend
+2238,Spain,85,30,Northern Spain,Navarra,Moscatel
+2239,Spain,87,15,Levante,Jumilla,Monastrell
+2240,Spain,87,10,Catalonia,Terra Alta,Garnacha
+2241,Spain,89,34,Northern Spain,Campo de Borja,Garnacha
+2242,Spain,88,25,Catalonia,Priorat,Red Blend
+2243,Spain,88,22,Catalonia,Priorat,Red Blend
+2244,Spain,88,14,Central Spain,Valdepea±as,Tempranillo
+2245,Spain,88,8,Northern Spain,Campo de Borja,Grenache
+2246,Spain,88,30,Northern Spain,Navarra,Moscatel
+2247,Spain,90,26,Northern Spain,Rioja,Tempranillo Blend
+2248,Spain,90,32,Northern Spain,Rioja,Tempranillo Blend
+2249,Spain,90,50,Northern Spain,Rioja,Garnacha
+2250,Spain,90,90,Andalucia,Vino de la Tierra de CaÁdiz,Red Blend
+2251,Spain,90,33,Andalucia,Vino de la Tierra de CaÁdiz,Red Blend
+2252,Spain,90,32,Catalonia,Terra Alta,Red Blend
+2253,Spain,84,9,Northern Spain,Campo de Borja,Red Blend
+2254,Spain,87,15,Northern Spain,Rueda,Verdejo
+2255,Spain,88,15,Northern Spain,Rioja,Tempranillo
+2256,Spain,88,15,Northern Spain,Toro,Tempranillo
+2257,Spain,88,16,Northern Spain,Rioja,Tempranillo Blend
+2258,Spain,88,25,Northern Spain,Rioja,Tempranillo Blend
+2259,Spain,90,32,Catalonia,Montsant,White Blend
+2260,Spain,92,77,Northern Spain,Ribera del Duero,Tempranillo
+2261,Spain,92,30,Andalucia,Jerez,Sherry
+2262,Spain,90,10,Northern Spain,Rioja,Tempranillo Blend
+2263,Spain,87,18,Northern Spain,Valdeorras,Godello
+2264,Spain,87,20,Northern Spain,Valdeorras,Godello
+2265,Spain,87,20,Northern Spain,Ribera del Duero,Tempranillo Blend
+2266,Spain,88,16,Catalonia,Cava,Sparkling Blend
+2267,Spain,88,20,Central Spain,Vino de la Tierra de Castilla,Red Blend
+2268,Spain,88,18,Catalonia,Cava,Sparkling Blend
+2269,Spain,88,18,Northern Spain,Rioja,Tempranillo Blend
+2270,Spain,88,19,Catalonia,Montsant,Red Blend
+2271,Spain,88,16,Galicia,Ra?as Baixas,Albariato
+2272,Spain,88,120,Northern Spain,Rioja,Tempranillo Blend
+2273,Spain,87,10,Northern Spain,Toro,Tempranillo
+2274,Spain,90,40,Northern Spain,Ribera del Duero,Tempranillo
+2275,Spain,90,24,Northern Spain,Rioja,Tempranillo Blend
+2276,Spain,90,34,Andalucia,Jerez,Sherry
+2277,Spain,89,30,Catalonia,Cava,Sparkling Blend
+2278,Spain,83,8,Northern Spain,Campo de Borja,Garnacha
+2279,Spain,83,10,Northern Spain,Campo de Borja,Red Blend
+2280,Spain,82,13,Northern Spain,Somontano,Red Blend
+2281,Spain,82,10,Northern Spain,Campo de Borja,Red Blend
+2282,Spain,81,11,Northern Spain,Campo de Borja,Tempranillo Blend
+2283,Spain,86,25,Catalonia,Montsant,Red Blend
+2284,Spain,86,24,Catalonia,Montsant,Red Blend
+2285,Spain,88,18,Northern Spain,Rioja,Tempranillo Blend
+2286,Spain,88,25,Catalonia,Cava,Sparkling Blend
+2287,Spain,88,12,Northern Spain,Ribera del Duero,Tempranillo
+2288,Spain,92,125,Northern Spain,Ribera del Duero,Tempranillo
+2289,Spain,92,37,Northern Spain,Rioja,Tempranillo
+2290,Spain,92,46,Northern Spain,Ribera del Duero,Tempranillo
+2291,Spain,90,25,Catalonia,Cava,Sparkling Blend
+2292,Spain,89,13,Northern Spain,Rioja,Tempranillo
+2293,Spain,89,25,Northern Spain,Toro,Tempranillo
+2294,Spain,89,23,Northern Spain,Rioja,Tempranillo
+2295,Spain,89,23,Northern Spain,Rioja,Tempranillo
+2296,Spain,96,770,Catalonia,Priorat,Carignane
+2297,Spain,86,15,Northern Spain,Rioja,Rosa
+2298,Spain,88,32,Central Spain,Vino de la Tierra de Castilla,Cabernet Franc
+2299,Spain,88,19,Catalonia,Cava,Sparkling Blend
+2300,Spain,92,46,Northern Spain,Ribera del Duero,Tempranillo
+2301,Spain,92,25,Northern Spain,Toro,Tinta de Toro
+2302,Spain,92,50,Northern Spain,Ribera del Duero,Tempranillo
+2303,Spain,92,44,Northern Spain,Rioja,Tempranillo Blend
+2304,Spain,92,80,Northern Spain,Toro,Tinta de Toro
+2305,Spain,87,18,Catalonia,Priorat,Red Blend
+2306,Spain,87,10,Northern Spain,Rioja,Tempranillo
+2307,Spain,87,10,Central Spain,Vino de la Tierra de Castilla,Tempranillo
+2308,Spain,87,12,Northern Spain,Toro,Tinta de Toro
+2309,Spain,87,13,Northern Spain,Rioja,Rosa
+2310,Spain,89,18,Galicia,Ra?as Baixas,Albariato
+2311,Spain,89,23,Northern Spain,Rioja,Tempranillo
+2312,Spain,90,40,Northern Spain,Ribera del Duero,Tempranillo
+2313,Spain,89,15,Northern Spain,Rioja,Tempranillo Blend
+2314,Spain,89,13,Northern Spain,Rioja,Tempranillo
+2315,Spain,89,14,Northern Spain,Rioja,Tempranillo Blend
+2316,Spain,86,23,Northern Spain,Rueda,Verdejo
+2317,Spain,86,28,Northern Spain,Rioja,Tempranillo
+2318,Spain,92,80,Northern Spain,Toro,Tinta de Toro
+2319,Spain,92,59,Northern Spain,Ribera del Duero,Tempranillo
+2320,Spain,91,60,Northern Spain,Toro,Tempranillo Blend
+2321,Spain,89,20,Northern Spain,Rioja,Tempranillo
+2322,Spain,88,30,Northern Spain,Rioja,Tempranillo Blend
+2323,Spain,88,24,Northern Spain,Rioja,Tempranillo
+2324,Spain,87,11,Northern Spain,Rioja,Tempranillo
+2325,Spain,87,10,Northern Spain,Navarra,Rosa
+2326,Spain,89,30,Northern Spain,Ribera del Duero,Tempranillo
+2327,Spain,89,33,Northern Spain,Rioja,Tempranillo
+2328,Spain,89,73,Northern Spain,Ribera del Duero,Tempranillo
+2329,Spain,89,20,Northern Spain,Rioja,Garnacha
+2330,Spain,89,20,Northern Spain,Rioja,Tempranillo Blend
+2331,Spain,89,17,Galicia,Ra?as Baixas,Albariato
+2332,Spain,95,70,Northern Spain,Rioja,Tempranillo
+2333,Spain,86,12,Northern Spain,Vino de la Tierra de Castilla y Lea?n,Tempranillo
+2334,Spain,86,15,Northern Spain,Rioja,Tempranillo Blend
+2335,Spain,86,14,Northern Spain,Bierzo,Godello
+2336,Spain,91,80,Northern Spain,Ribera del Duero,Tempranillo Blend
+2337,Spain,88,70,Northern Spain,Bierzo,Godello
+2338,Spain,88,24,Northern Spain,Campo de Borja,Syrah
+2339,Spain,89,26,Galicia,Ra?as Baixas,White Blend
+2340,Spain,89,18,Galicia,Ra?as Baixas,Albariato
+2341,Spain,89,16,Northern Spain,Rioja,Tempranillo
+2342,Spain,87,23,Catalonia,Montsant,Red Blend
+2343,Spain,87,52,Northern Spain,Rioja,Red Blend
+2344,Spain,89,13,Northern Spain,Rioja,Tempranillo
+2345,Spain,89,80,Northern Spain,Rioja,Garnacha
+2346,Spain,94,105,Catalonia,Priorat,Carignane
+2347,Spain,94,58,Northern Spain,Rioja,Tempranillo Blend
+2348,Spain,86,10,Levante,Jumilla,Monastrell
+2349,Spain,86,8,Catalonia,Catalunya,Garnacha
+2350,Spain,88,70,Northern Spain,Bierzo,Godello
+2351,Spain,87,19,Catalonia,Priorat,Red Blend
+2352,Spain,87,20,Catalonia,Terra Alta,Carignane
+2353,Spain,87,24,Catalonia,Alella,Syrah
+2354,Spain,87,20,Galicia,Ra?as Baixas,Albariato
+2355,Spain,89,28,Northern Spain,Rioja,Tempranillo
+2356,Spain,89,25,Northern Spain,Rioja,Tempranillo
+2357,Spain,89,16,Northern Spain,Caria±ena,Garnacha
+2358,Spain,89,24,Northern Spain,Bierzo,Godello
+2359,Spain,89,30,Northern Spain,Caria±ena,Garnacha
+2360,Spain,89,20,Northern Spain,Rioja,Tempranillo
+2361,Spain,87,8,Central Spain,Valdepea±as,Tempranillo
+2362,Spain,87,10,Northern Spain,Rioja,Tempranillo
+2363,Spain,87,15,Northern Spain,Rioja,Tempranillo Blend
+2364,Spain,89,50,Northern Spain,Rioja,Tempranillo Blend
+2365,Spain,87,20,Galicia,Ra?as Baixas,Albariato
+2366,Spain,87,14,Northern Spain,Rioja,Tempranillo
+2367,Spain,87,10,Northern Spain,Rioja,Tempranillo Blend
+2368,Spain,91,38,Catalonia,Cava,Sparkling Blend
+2369,Spain,91,28,Northern Spain,Ribera del Duero,Tempranillo
+2370,Spain,89,17,Northern Spain,Rioja,Tempranillo Blend
+2371,Spain,89,27,Catalonia,Priorat,Red Blend
+2372,Spain,86,15,Northern Spain,Rioja,Tempranillo
+2373,Spain,86,10,Northern Spain,Rioja,Tempranillo
+2374,Spain,94,50,Catalonia,Priorat,Red Blend
+2375,Spain,89,55,Catalonia,Priorat,White Blend
+2376,Spain,88,27,Northern Spain,Rioja,Tempranillo Blend
+2377,Spain,88,23,Northern Spain,Rioja,Tempranillo
+2378,Spain,91,46,Catalonia,Cava,Sparkling Blend
+2379,Spain,85,20,Northern Spain,Vino de la Tierra de Castilla y Lea?n,Verdejo
+2380,Spain,85,18,Catalonia,Montsant,Red Blend
+2381,Spain,85,16,Northern Spain,Rioja,Tempranillo Blend
+2382,Spain,85,17,Levante,Jumilla,Monastrell
+2383,Spain,87,12,Northern Spain,Rueda,Verdejo
+2384,Spain,87,12,Northern Spain,Rioja,Rosa
+2385,Spain,89,17,Northern Spain,Rioja,Tempranillo Blend
+2386,Spain,89,27,Catalonia,Priorat,Red Blend
+2387,Spain,89,23,Northern Spain,Rioja,Tempranillo
+2388,Spain,86,15,Northern Spain,Ribera del Duero,Tempranillo Blend
+2389,Spain,86,8,Central Spain,Vino de la Tierra de Castilla,Tempranillo
+2390,Spain,86,22,Central Spain,La Mancha,Red Blend
+2391,Spain,86,10,Northern Spain,Ribera del Duero,Tempranillo Blend
+2392,Spain,93,99,Catalonia,Priorat,Carignane
+2393,Spain,88,32,Northern Spain,Rioja,Tempranillo
+2394,Spain,91,40,Northern Spain,Toro,Tinta de Toro
+2395,Spain,91,30,Northern Spain,Rioja,Tempranillo Blend
+2396,Spain,91,35,Northern Spain,Rioja,Tempranillo
+2397,Spain,85,9,Northern Spain,Caria±ena,Red Blend
+2398,Spain,85,23,Northern Spain,Ribera del Duero,Tempranillo Blend
+2399,Spain,85,14,Northern Spain,Bierzo,Godello
+2400,Spain,85,16,Northern Spain,Ribera del Duero,Tempranillo
+2401,Spain,85,12,Andalucia,Jerez,Sherry
+2402,Spain,87,9,Levante,Alicante,Monastrell
+2403,Spain,87,9,Levante,Jumilla,Monastrell
+2404,Spain,89,27,Northern Spain,Rioja,Garnacha
+2405,Spain,89,17,Northern Spain,Rueda,Verdejo
+2406,Spain,88,18,Northern Spain,Rioja,Tempranillo
+2407,Spain,93,99,Catalonia,Priorat,Carignane
+2408,Spain,87,22,Catalonia,Cava,Sparkling Blend
+2409,Spain,87,20,Northern Spain,Rioja,Rosa
+2410,Spain,86,9,Northern Spain,Ribera del Duero,Tempranillo
+2411,Spain,86,8,Central Spain,Valdepea±as,Tempranillo
+2412,Spain,86,9,Northern Spain,Campo de Borja,Rosa
+2413,Spain,88,19,Galicia,Ra?as Baixas,Albariato
+2414,Spain,88,23,Catalonia,Penedas,Sparkling Blend
+2415,Spain,88,30,Catalonia,Terra Alta,Grenache
+2416,Spain,88,20,Galicia,Ra?as Baixas,Albariato
+2417,Spain,88,29,Northern Spain,Rioja,Tempranillo
+2418,Spain,88,24,Catalonia,Priorat,Red Blend
+2419,Spain,84,20,Northern Spain,Bierzo,Godello
+2420,Spain,86,9,Northern Spain,Campo de Borja,Rosa
+2421,Spain,86,21,Northern Spain,Rioja,Tempranillo Blend
+2422,Spain,86,14,Northern Spain,Calatayud,Rosa
+2423,Spain,88,19,Andalucia,Vino de la Tierra de CaÁdiz,Red Blend
+2424,Spain,88,30,Catalonia,Priorat,Red Blend
+2425,Spain,90,36,Catalonia,Cava,Sparkling Blend
+2426,Spain,90,30,Andalucia,Manzanilla-Sanla¼car de Barrameda,Sherry
+2427,Spain,87,17,Northern Spain,Rioja,Tempranillo
+2428,Spain,87,20,Catalonia,Priorat,Red Blend
+2429,Spain,88,29,Northern Spain,Rioja,Tempranillo
+2430,Spain,88,24,Catalonia,Priorat,Red Blend
+2431,Spain,88,20,Galicia,Ra?as Baixas,White Blend
+2432,Spain,88,23,Catalonia,Priorat,Red Blend
+2433,Spain,88,20,Central Spain,Vino de la Tierra de Castilla,Verdejo
+2434,Spain,84,9,Northern Spain,Caria±ena,Red Blend
+2442,US,88,39,California,Paso Robles,Red Blend
+2443,US,88,16,California,Monterey County,Pinot Grigio
+2444,US,88,32,California,Paso Robles,Mourvadre
+2445,US,88,18,California,Santa Barbara County,Chardonnay
+2446,US,92,58,California,Coombsville,Chardonnay
+2447,US,92,50,California,Amador County,Rhane-style Red Blend
+2448,US,92,48,California,Russian River Valley,Sparkling Blend
+2449,US,92,32,California,Sonoma Coast,Pinot Noir
+2450,US,92,43,California,Santa Maria Valley,Pinot Noir
+2451,US,92,100,California,Mount Veeder,Cabernet Sauvignon
+2452,US,92,35,California,Monterey County,Syrah
+2453,US,91,60,Oregon,Willamette Valley,Pinot Noir
+2454,US,91,16,Oregon,Oregon,Pinot Gris
+2455,US,91,42,California,Paso Robles,Syrah
+2456,US,91,20,California,Napa Valley,Pinot Noir
+2457,US,91,38,California,Carneros,Pinot Noir
+2458,US,91,32,California,Clear Lake,Zinfandel
+2459,US,94,60,Washington,Walla Walla Valley (WA),Syrah
+2460,US,94,30,California,Napa Valley,Riesling
+2461,US,94,30,California,Napa Valley,Riesling
+2462,US,94,65,California,Santa Maria Valley,Pinot Noir
+2463,US,94,90,Oregon,Dundee Hills,Pinot Noir
+2464,US,94,85,California,Anderson Valley,Pinot Noir
+2465,US,94,70,California,Fort Ross-Seaview,Pinot Noir
+2466,US,94,70,Oregon,Willamette Valley,Pinot Noir
+2467,US,94,60,California,Russian River Valley,Pinot Noir
+2468,US,94,155,California,Napa Valley,Cabernet Sauvignon
+2469,US,94,48,Oregon,Dundee Hills,Pinot Noir
+2470,US,94,95,California,Mount Veeder,Cabernet Sauvignon
+2471,US,94,80,California,Carneros,Sparkling Blend
+2472,US,94,49,Oregon,Ribbon Ridge,Pinot Noir
+2473,US,94,50,Washington,Walla Walla Valley (WA),Syrah
+2474,US,94,95,California,Napa Valley,Cabernet Sauvignon
+2475,US,94,63,Oregon,Willamette Valley,Chardonnay
+2476,US,91,50,California,Knights Valley,Cabernet Sauvignon
+2477,US,91,45,California,Napa Valley,Sauvignon Blanc
+2478,US,91,38,California,Paso Robles Willow Creek District,Rhane-style White Blend
+2479,US,91,30,Oregon,Willamette Valley,Pinot Noir
+2480,US,91,22,California,Knights Valley,Syrah
+2481,US,91,60,California,Napa Valley,Cabernet Sauvignon
+2482,US,91,48,California,Santa Lucia Highlands,Chardonnay
+2483,US,91,40,California,Russian River Valley,Chardonnay
+2484,US,91,50,California,Santa Maria Valley,Chardonnay
+2485,US,91,48,Oregon,Dundee Hills,Pinot Noir
+2486,US,91,50,Oregon,Willamette Valley,Sparkling Blend
+2487,US,91,40,California,Santa Lucia Highlands,Chardonnay
+2488,US,91,42,Oregon,Willamette Valley,Pinot Noir
+2489,US,90,41,California,Paso Robles,Red Blend
+2490,US,90,29,Oregon,Umpqua Valley,Graaner Veltliner
+2491,US,90,19,Oregon,Willamette Valley,Pinot Noir
+2492,US,90,15,Oregon,Oregon,Pinot Gris
+2493,US,90,45,Oregon,Dundee Hills,Pinot Noir
+2494,US,90,18,Oregon,Oregon,Albariato
+2495,US,90,15,California,California,Cabernet Sauvignon
+2496,US,90,15,California,North Coast,Cabernet Sauvignon
+2497,US,90,24,California,Napa Valley,Merlot
+2498,US,90,80,California,Napa Valley,Red Blend
+2499,US,90,50,California,Napa Valley,Cabernet Sauvignon
+2500,US,90,28,California,Dry Creek Valley,Cabernet Sauvignon
+2501,US,90,36,California,California,Rhane-style Red Blend
+2502,US,90,40,California,Red Hills Lake County,Cabernet Sauvignon
+2503,US,90,50,California,Central Coast,Chardonnay
+2504,US,90,75,California,Paso Robles,Cabernet Sauvignon
+2505,US,90,46,Washington,Walla Walla Valley (WA),Malbec
+2506,US,90,20,California,Santa Ynez Valley,White Blend
+2507,US,90,75,California,Alexander Valley,Cabernet Sauvignon
+2508,US,90,28,California,Russian River Valley,Sauvignon Blanc
+2509,US,90,60,California,Napa Valley,Chardonnay
+2510,US,90,22,California,Sonoma Coast,Chardonnay
+2511,US,90,30,California,Russian River Valley,Chardonnay
+2512,US,90,35,California,Alexander Valley,Cabernet Sauvignon
+2513,US,90,38,California,Sonoma Valley,Rhane-style Red Blend
+2514,US,90,22,California,Lodi,Tempranillo
+2515,US,87,36,Washington,Columbia Valley (WA),Cabernet Sauvignon
+2516,US,87,30,California,Paso Robles,Zinfandel
+2517,US,87,20,New York,Finger Lakes,Cabernet Franc
+2518,US,87,32,Washington,Wahluke Slope,Grenache
+2519,US,87,20,Washington,Columbia Valley (WA),Sauvignon Blanc
+2520,US,87,30,California,Livermore Valley,Chardonnay
+2521,US,87,20,California,Lodi,Cabernet Sauvignon
+2522,US,87,23,Idaho,,Cabernet Sauvignon
+2523,US,87,22,Washington,Yakima Valley,Rhane-style White Blend
+2524,US,87,20,California,Paso Robles,Cabernet Sauvignon
+2525,US,87,22,Idaho,,Chardonnay
+2526,US,87,16,Idaho,,White Blend
+2527,US,87,17,Idaho,,Riesling
+2528,US,86,26,California,Knights Valley,Chardonnay
+2529,US,86,32,California,South Coast,Syrah
+2530,US,86,18,California,California,Moscato
+2531,US,86,35,Washington,Red Mountain,Rosa
+2532,US,86,31,California,Napa Valley,Cabernet Sauvignon
+2533,US,86,24,California,Paso Robles,Viognier
+2534,US,86,12,Washington,Columbia Valley (WA),Merlot
+2535,US,86,18,California,Mendocino County,Pinot Noir
+2536,US,86,24,California,Paso Robles,Chardonnay
+2537,US,86,14,California,Santa Ynez Valley,Sauvignon Blanc
+2538,US,86,12,California,California,Pinot Noir
+2539,US,86,32,California,South Coast,Red Blend
+2540,US,86,28,California,Dry Creek Valley,Barbera
+2541,US,89,49,California,Anderson Valley,Pinot Noir
+2542,US,89,35,Oregon,Willamette Valley,Chardonnay
+2543,US,89,30,California,Carmel Valley,Bordeaux-style Red Blend
+2544,US,89,46,Oregon,Chehalem Mountains,Pinot Noir
+2545,US,89,50,Oregon,Willamette Valley,Pinot Noir
+2546,US,89,43,California,Santa Ynez Valley,Red Blend
+2547,US,89,39,California,Santa Barbara County,Syrah
+2548,US,89,65,California,Paso Robles,Zinfandel
+2549,US,89,35,Oregon,Rogue Valley,Syrah
+2550,US,89,60,California,Paso Robles,Zinfandel
+2551,US,89,44,Oregon,McMinnville,Pinot Noir
+2552,US,92,30,California,Green Valley,Chardonnay
+2553,US,92,45,California,Napa Valley,Zinfandel
+2554,US,92,125,California,Napa Valley,Bordeaux-style Red Blend
+2555,US,92,98,California,Atlas Peak,Cabernet Sauvignon
+2556,US,92,40,California,Santa Ynez Valley,Red Blend
+2557,US,92,60,California,Santa Maria Valley,Chardonnay
+2558,US,92,68,California,Carneros,Chardonnay
+2559,US,92,45,California,Santa Barbara County,Syrah
+2560,US,92,66,Washington,Columbia Gorge (WA),Chardonnay
+2561,US,92,32,California,Sta. Rita Hills,Chardonnay
+2562,US,92,55,California,Russian River Valley,Chardonnay
+2563,US,92,20,California,California,Viognier
+2564,US,92,32,California,Santa Maria Valley,Chardonnay
+2565,US,92,35,Washington,Red Mountain,Viognier
+2566,US,92,44,California,Fort Ross-Seaview,Chardonnay
+2567,US,90,24,California,Sierra Foothills,Cabernet Franc
+2568,US,90,20,California,Amador County,Zinfandel
+2569,US,90,23,California,Central Coast,Pinot Noir
+2570,US,90,49,California,Green Valley,Pinot Noir
+2571,US,90,35,California,Lodi,Carignane
+2572,US,90,18,Oregon,Willamette Valley,Pinot Gris
+2573,US,90,42,California,Sonoma Valley,Zinfandel
+2574,US,90,48,Oregon,Dundee Hills,Pinot Noir
+2575,US,90,30,California,Napa Valley,Chardonnay
+2576,US,90,40,California,Red Hills Lake County,Cabernet Sauvignon
+2577,US,90,22,California,Sierra Foothills,Merlot
+2578,US,90,15,California,California,Cabernet Sauvignon
+2579,US,90,15,California,North Coast,Cabernet Sauvignon
+2580,US,94,62,California,Russian River Valley,Pinot Noir
+2581,US,94,49,Oregon,Dundee Hills,Pinot Noir
+2582,US,94,95,California,Rutherford,Cabernet Sauvignon
+2583,US,94,55,California,Coombsville,Chardonnay
+2584,US,94,48,California,Sta. Rita Hills,Chardonnay
+2585,US,94,68,California,Sta. Rita Hills,Pinot Noir
+2586,US,94,90,Oregon,Dundee Hills,Pinot Noir
+2587,US,93,60,California,Sonoma Coast,Pinot Noir
+2588,US,93,125,Washington,Washington,Bordeaux-style Red Blend
+2589,US,93,85,California,Alexander Valley,Cabernet Sauvignon
+2590,US,93,60,California,Sta. Rita Hills,Pinot Noir
+2591,US,93,55,California,Santa Maria Valley,Syrah
+2592,US,93,58,California,Russian River Valley,Chardonnay
+2593,US,93,48,Oregon,Chehalem Mountains,Pinot Noir
+2594,US,93,40,California,Amador County,Zinfandel
+2595,US,93,60,California,California,Chardonnay
+2596,US,93,120,California,Howell Mountain,Cabernet Sauvignon
+2597,US,93,100,California,Alexander Valley,Cabernet Sauvignon
+2598,US,93,34,California,Lodi,Zinfandel
+2599,US,91,40,California,Napa Valley,Zinfandel
+2600,US,91,20,Oregon,Dundee Hills,Chardonnay
+2601,US,91,55,California,Napa Valley,Cabernet Sauvignon
+2602,US,91,45,California,Ben Lomond Mountain,Pinot Noir
+2603,US,91,26,Oregon,Chehalem Mountains,Pinot Gris
+2604,US,91,28,California,Russian River Valley,Chardonnay
+2605,US,91,38,California,Russian River Valley,Chardonnay
+2606,US,91,44,California,Napa Valley,Red Blend
+2607,US,91,45,California,Sonoma Coast,Pinot Noir
+2608,US,91,50,California,Arroyo Seco,Sauvignon Blanc
+2609,US,90,38,California,Napa Valley,Cabernet Sauvignon
+2610,US,90,64,California,Paso Robles,Bordeaux-style Red Blend
+2611,US,90,18,California,Russian River Valley,Gewaarztraminer
+2612,US,90,40,California,Edna Valley,Pinot Noir
+2613,US,90,18,Oregon,Willamette Valley,Gewaarztraminer
+2614,US,90,30,California,Russian River Valley,Rhane-style White Blend
+2615,US,90,111,California,Oak Knoll District,Cabernet Sauvignon
+2616,US,90,32,Oregon,Rogue Valley,Tempranillo
+2617,US,90,57,Oregon,Oregon,Pinot Noir
+2618,US,90,34,California,Russian River Valley,Grenache
+2619,US,90,24,Oregon,Willamette Valley,Chardonnay
+2620,US,88,30,California,Santa Barbara County,Grenache
+2621,US,88,39,California,Russian River Valley,Chardonnay
+2622,US,88,55,California,Anderson Valley,Pinot Noir
+2623,US,88,22,California,Sonoma Coast,Gewaarztraminer
+2624,US,88,25,California,Arroyo Grande Valley,Pinot Noir
+2625,US,88,48,Oregon,Willamette Valley,Pinot Noir
+2626,US,88,19,California,Santa Barbara County,Viognier
+2627,US,88,18,California,Central Coast,Chardonnay
+2628,US,88,18,California,Alexander Valley,Merlot
+2629,US,88,65,Oregon,Willamette Valley,Pinot Noir
+2630,US,88,25,California,Carneros,Chardonnay
+2631,US,88,48,California,Carneros-Napa Valley,Pinot Noir
+2632,US,90,55,California,Moon Mountain District Sonoma County,Cabernet Sauvignon
+2633,US,90,46,California,Sonoma Coast,Chardonnay
+2634,US,90,55,California,Santa Barbara County,Pinot Noir
+2635,US,90,30,California,Sta. Rita Hills,Pinot Noir
+2636,US,90,25,New York,Finger Lakes,Cabernet Franc
+2637,US,90,27,New York,Finger Lakes,Pinot Noir
+2638,US,90,28,Washington,Yakima Valley,Syrah
+2639,US,90,48,California,Sonoma Coast,Chardonnay
+2640,US,90,36,California,Happy Canyon of Santa Barbara,Sauvignon Blanc
+2641,US,90,48,California,Paso Robles,Red Blend
+2642,US,90,60,California,Russian River Valley,Chardonnay
+2643,US,90,42,California,Oak Knoll District,Cabernet Franc
+2644,US,90,45,California,Paso Robles,Sangiovese
+2645,US,90,39,California,Alexander Valley,Zinfandel
+2646,US,90,25,California,Alexander Valley,Sauvignon Blanc
+2647,US,90,40,Washington,Columbia Valley (WA),Bordeaux-style Red Blend
+2648,US,90,85,California,Mount Veeder,Cabernet Sauvignon
+2649,US,90,15,California,Dunnigan Hills,Tempranillo
+2650,US,86,18,California,California,Red Blend
+2651,US,85,15,California,Livermore Valley,Red Blend
+2652,US,85,15,California,California,Cabernet Sauvignon
+2653,US,85,12,California,California,Cabernet Sauvignon
+2654,US,85,18,California,California,Merlot
+2655,US,85,65,California,Moon Mountain District Sonoma County,Cabernet Sauvignon
+2656,US,89,20,California,Yountville,Chardonnay
+2657,US,89,25,California,Santa Ynez Valley,Riesling
+2658,US,89,36,California,Santa Maria Valley,Chardonnay
+2659,US,89,36,California,Santa Ynez Valley,Tempranillo
+2660,US,89,30,California,Paso Robles,Petit Verdot
+2661,US,89,45,Oregon,Willamette Valley,Pinot Noir
+2662,US,89,20,Oregon,Willamette Valley,Pinot Gris
+2663,US,89,28,Oregon,Willamette Valley,Pinot Noir
+2664,US,89,42,California,Santa Ynez Valley,Syrah
+2665,US,89,14,Oregon,Oregon,Riesling
+2666,US,89,18,Oregon,Umpqua Valley,Rosa
+2667,US,89,39,California,California,Red Blend
+2668,US,87,28,Washington,Yakima Valley,Cabernet Sauvignon
+2669,US,87,36,Washington,Columbia Valley (WA),Bordeaux-style Red Blend
+2670,US,87,28,California,Sonoma Valley,Bordeaux-style Red Blend
+2671,US,87,32,California,Livermore Valley,Red Blend
+2672,US,87,28,Washington,Horse Heaven Hills,Merlot
+2673,US,87,26,Washington,Walla Walla Valley (WA),Syrah
+2674,US,87,32,California,Calistoga,Sauvignon Blanc
+2675,US,87,11,California,California,Cabernet Sauvignon
+2676,US,87,26,Washington,Columbia Valley (WA),Rhane-style White Blend
+2677,US,87,19,California,Napa Valley,Syrah
+2678,US,87,22,Idaho,,Red Blend
+2679,US,87,28,Washington,Columbia Valley (WA),Bordeaux-style Red Blend
+2680,US,87,28,California,Livermore Valley,Pinot Blanc
+2681,US,87,20,California,Paso Robles,Zinfandel
+2682,US,87,25,California,Napa Valley,Red Blend
+2683,US,87,16,New York,Finger Lakes,Chardonnay
+2684,US,87,18,New York,Finger Lakes,Gewaarztraminer
+2685,US,87,25,California,Dry Creek Valley,Cabernet Sauvignon
+2686,US,90,48,Oregon,Dundee Hills,Pinot Noir
+2687,US,90,30,California,Napa Valley,Chardonnay
+2688,US,90,18,Oregon,Willamette Valley,Pinot Gris
+2689,US,90,70,California,Napa Valley,Cabernet Sauvignon
+2690,US,90,25,California,Oak Knoll District,Riesling
+2691,US,90,42,California,Napa Valley,Merlot
+2692,US,90,50,California,Napa Valley,Cabernet Sauvignon
+2693,US,90,22,California,Amador County,Mourvadre
+2694,US,90,26,California,Sierra Foothills,Barbera
+2695,US,90,80,California,Napa Valley,Red Blend
+2696,US,90,28,California,Amador County,Tempranillo
+2697,US,90,50,California,Adelaida District,Rhane-style Red Blend
+2698,US,90,40,California,Adelaida District,Zinfandel
+2699,US,90,22,California,Sierra Foothills,Syrah
+2700,US,90,50,California,Livermore Valley,Cabernet Franc
+2701,US,90,55,California,Moon Mountain District Sonoma County,Cabernet Sauvignon
+2702,US,90,37,New York,North Fork of Long Island,Champagne Blend
+2703,US,90,42,California,Lake County,Merlot
+2704,US,90,60,California,Oak Knoll District,Cabernet Sauvignon
+2705,US,90,27,New York,Finger Lakes,Pinot Noir
+2706,US,90,48,California,Sonoma Coast,Pinot Noir
+2707,US,90,45,California,Santa Lucia Highlands,Pinot Noir
+2708,US,90,15,California,Dunnigan Hills,Tempranillo
+2709,US,90,40,California,Paso Robles,Cabernet Sauvignon
+2710,US,92,35,Washington,Red Mountain,Viognier
+2711,US,92,44,California,Fort Ross-Seaview,Chardonnay
+2712,US,92,32,California,Santa Maria Valley,Chardonnay
+2713,US,92,50,California,Sonoma Valley,Zinfandel
+2714,US,92,27,California,Arroyo Grande Valley,Chardonnay
+2715,US,92,15,Washington,Columbia Valley (WA),Riesling
+2716,US,92,35,California,Santa Ynez Valley,Syrah
+2717,US,92,33,California,Santa Cruz Mountains,Cabernet Sauvignon
+2718,US,92,140,Washington,Columbia Valley (WA),Merlot
+2719,US,92,35,California,Santa Barbara County,Syrah
+2720,US,92,40,California,Santa Ynez Valley,Rhane-style Red Blend
+2721,US,92,21,Washington,Columbia Gorge (WA),Riesling
+2722,US,92,80,California,Paso Robles,Red Blend
+2723,US,92,28,Washington,Columbia Valley (WA),Cabernet Sauvignon
+2724,US,92,40,California,Sonoma Coast,Chardonnay
+2725,US,93,40,California,Edna Valley,Syrah
+2726,US,93,65,California,Napa Valley,Chardonnay
+2727,US,93,,California,Edna Valley,Syrah
+2728,US,93,28,California,San Luis Obispo,Syrah
+2729,US,93,51,California,Russian River Valley,Chardonnay
+2730,US,93,30,California,Paso Robles,Cabernet Sauvignon
+2731,US,93,45,California,Napa Valley,Sauvignon Blanc
+2732,US,93,32,California,Paso Robles,Red Blend
+2733,US,93,125,Oregon,Dundee Hills,Chardonnay
+2734,US,93,150,California,Rutherford,Cabernet Sauvignon
+2735,US,93,60,California,Fort Ross-Seaview,Syrah
+2736,US,93,70,Oregon,Willamette Valley,Pinot Noir
+2737,US,93,60,Oregon,Dundee Hills,Pinot Noir
+2738,US,93,80,California,Carneros,Sparkling Blend
+2739,US,93,32,California,Sonoma Coast,Syrah
+2740,US,93,60,California,Sta. Rita Hills,Pinot Noir
+2741,US,93,45,California,Sta. Rita Hills,Chardonnay
+2742,US,93,60,Oregon,Eola-Amity Hills,Pinot Noir
+2743,US,93,80,California,Fort Ross-Seaview,Pinot Noir
+2744,US,93,85,California,Santa Maria Valley,Pinot Noir
+2745,US,89,39,California,California,Red Blend
+2746,US,89,25,California,Carneros,Chardonnay
+2747,US,89,31,California,Livermore Valley,Rhane-style Red Blend
+2748,US,89,25,California,Arroyo Grande Valley,Sparkling Blend
+2749,US,89,18,Oregon,Willamette Valley,Pinot Gris
+2750,US,89,25,Oregon,Dundee Hills,Rosa
+2751,US,89,65,California,Oakville,Cabernet Sauvignon
+2752,US,89,40,Oregon,Willamette Valley,Pinot Noir
+2753,US,89,26,California,Santa Barbara County,Pinot Noir
+2754,US,90,28,Oregon,Oregon,Tempranillo
+2755,US,90,40,California,Mendocino,Red Blend
+2756,US,90,72,California,Sonoma Coast,Pinot Noir
+2757,US,90,44,California,Anderson Valley,Pinot Noir
+2758,US,90,36,California,Russian River Valley,Chardonnay
+2759,US,90,70,California,Sta. Rita Hills,Chardonnay
+2760,US,90,48,Oregon,McMinnville,Pinot Noir
+2761,US,90,125,California,Rutherford,Cabernet Sauvignon
+2762,US,90,37,Oregon,Willamette Valley,Pinot Noir
+2763,US,90,28,Oregon,Willamette Valley,Sparkling Blend
+2764,US,85,13,California,California,Chardonnay
+2765,US,85,20,California,California,Chardonnay
+2766,US,85,18,California,California,Pinot Grigio
+2767,US,85,100,California,Napa Valley,Cabernet Sauvignon
+2768,US,85,30,California,Russian River Valley,Chardonnay
+2769,US,91,65,Oregon,Chehalem Mountains,Pinot Noir
+2770,US,91,32,Oregon,Dundee Hills,Pinot Noir
+2771,US,91,36,California,Santa Lucia Highlands,Pinot Noir
+2772,US,91,43,California,Alexander Valley,Syrah
+2773,US,91,65,Oregon,Chehalem Mountains,Pinot Noir
+2774,US,91,48,California,Russian River Valley,Pinot Noir
+2775,US,91,42,California,Sonoma Mountain,Pinot Noir
+2776,US,88,19,Oregon,Umpqua Valley,Pinot Noir
+2777,US,88,21,California,Napa Valley,Merlot
+2778,US,88,20,Oregon,Dundee Hills,Pinot Noir
+2779,US,88,25,Virginia,Virginia,Cabernet Franc
+2780,US,88,72,Virginia,Virginia,Bordeaux-style Red Blend
+2781,US,88,70,California,Napa Valley,Bordeaux-style Red Blend
+2782,US,88,26,California,Amador County,Mourvadre
+2783,US,88,19,Virginia,Virginia,Merlot
+2784,US,88,12,California,Lodi,Zinfandel
+2785,US,88,22,California,Santa Barbara County,Chardonnay
+2786,US,88,40,California,Carneros,Pinot Noir
+2787,US,88,70,California,Santa Maria Valley,Pinot Noir
+2788,US,87,34,California,Santa Ynez Valley,Merlot
+2789,US,87,38,California,Santa Ynez Valley,Cabernet Sauvignon
+2790,US,87,14,New York,Finger Lakes,Chardonnay
+2791,US,87,20,Washington,Horse Heaven Hills,Zinfandel
+2792,US,87,30,Washington,Naches Heights,Nebbiolo
+2793,US,87,40,New York,Long Island,Cabernet Sauvignon
+2794,US,87,25,New York,Finger Lakes,Cabernet Sauvignon
+2795,US,87,23,Idaho,,Syrah
+2796,US,87,24,California,Anderson Valley,Riesling
+2797,US,87,16,California,Santa Barbara County,Chardonnay
+2798,US,87,20,California,Sonoma County,Bordeaux-style Red Blend
+2799,US,87,12,California,California,White Blend
+2800,US,87,20,New York,Finger Lakes,Riesling
+2801,US,87,28,Washington,Columbia Valley (WA),Merlot
+2802,US,87,22,California,Livermore Valley,White Blend
+2803,US,87,50,Washington,Walla Walla Valley (WA),Red Blend
+2804,US,87,25,California,Napa Valley,Cabernet Sauvignon
+2805,US,87,40,Washington,Yakima Valley,Touriga Nacional
+2806,US,87,18,California,Dry Creek Valley,Cabernet Sauvignon
+2807,US,87,14,Washington,Columbia Valley (WA),Merlot
+2808,US,90,26,California,Lake County,Sauvignon Blanc
+2809,US,90,20,California,Mendocino County,Cabernet Sauvignon
+2810,US,90,50,California,Adelaida District,Mourvadre
+2811,US,90,42,California,Santa Barbara County,Grenache
+2812,US,90,28,California,Central Coast,Chardonnay
+2813,US,90,32,Oregon,Willamette Valley,Pinot Noir
+2814,US,90,25,California,Alexander Valley,Sauvignon Blanc
+2815,US,90,40,California,Napa Valley,Syrah
+2816,US,90,90,California,Rutherford,Cabernet Sauvignon
+2817,US,90,45,California,Russian River Valley,Chardonnay
+2818,US,90,19,Oregon,Willamette Valley,Pinot Gris
+2819,US,90,25,California,San Luis Obispo County,Gewaarztraminer
+2820,US,90,22,Oregon,Willamette Valley,Pinot Noir
+2821,US,90,56,California,Paso Robles,Cabernet Franc
+2822,US,90,40,California,Santa Lucia Highlands,Chardonnay
+2823,US,90,85,California,Sonoma Coast,Pinot Noir
+2824,US,90,24,California,Carneros,Chardonnay
+2825,US,90,26,California,Sonoma County,Chardonnay
+2826,US,90,46,Washington,Columbia Valley (WA),Petit Verdot
+2827,US,90,24,California,Sierra Foothills,Malbec
+2828,US,90,36,California,Porto,Porto
+2829,US,90,16,California,Paso Robles,Sauvignon Blanc
+2830,US,90,20,New York,Finger Lakes,Riesling
+2831,US,90,15,Washington,Columbia Valley (WA),Cabernet Sauvignon
+2832,US,90,20,California,Central Coast,Red Blend
+2833,US,90,75,California,Napa Valley,Cabernet Sauvignon
+2834,US,90,55,California,Napa Valley,Chardonnay
+2835,US,90,35,California,Napa Valley,Rosa
+2836,US,90,48,California,Napa Valley,Cabernet Sauvignon
+2837,US,90,18,New York,Seneca Lake,Gewaarztraminer
+2838,US,93,32,California,Sonoma Coast,Syrah
+2839,US,93,55,California,Sta. Rita Hills,Pinot Noir
+2840,US,93,94,California,Napa Valley,Chardonnay
+2841,US,93,40,California,Fort Ross-Seaview,Syrah
+2842,US,93,37,Oregon,Willamette Valley,Pinot Noir
+2843,US,93,44,California,Sta. Rita Hills,Pinot Noir
+2844,US,93,50,California,Spring Mountain District,Cabernet Sauvignon
+2845,US,93,32,Washington,Wahluke Slope,Malbec
+2846,US,93,36,California,Sta. Rita Hills,White Blend
+2847,US,93,35,Oregon,Willamette Valley,Chardonnay
+2848,US,93,60,California,Sta. Rita Hills,Pinot Noir
+2849,US,93,48,California,Anderson Valley,Chardonnay
+2850,US,93,30,California,Santa Ynez Valley,Grenache
+2851,US,93,32,Washington,Walla Walla Valley (WA),Syrah
+2852,US,93,65,California,Santa Lucia Highlands,Pinot Noir
+2853,US,90,50,Oregon,Eola-Amity Hills,Pinot Noir
+2854,US,90,32,Oregon,Willamette Valley,Pinot Gris
+2855,US,90,15,Oregon,Willamette Valley,Gewaarztraminer
+2856,US,90,50,California,Santa Cruz Mountains,Pinot Noir
+2857,US,90,100,California,St. Helena,Cabernet Sauvignon
+2858,US,90,42,California,Dry Creek Valley,Zinfandel
+2859,US,90,26,California,Carneros,White Blend
+2860,US,90,50,California,Napa Valley,Cabernet Sauvignon
+2861,US,90,44,California,Napa-Sonoma,Red Blend
+2862,US,90,60,Oregon,Chehalem Mountains,Pinot Noir
+2863,US,90,20,Oregon,Willamette Valley,Pinot Noir
+2864,US,90,45,California,Paso Robles,Rhane-style White Blend
+2865,US,92,55,California,Russian River Valley,Chardonnay
+2866,US,92,75,California,Napa Valley,Cabernet Sauvignon
+2867,US,92,34,California,Sta. Rita Hills,Chardonnay
+2868,US,92,60,California,Napa Valley,Syrah
+2869,US,92,100,California,Napa Valley,Cabernet Sauvignon
+2870,US,92,39,Washington,Red Mountain,Cabernet Franc
+2871,US,92,42,Washington,Red Mountain,Bordeaux-style Red Blend
+2872,US,92,65,California,Paso Robles,Bordeaux-style Red Blend
+2873,US,92,43,California,Anderson Valley,Chardonnay
+2874,US,92,100,California,Napa Valley,Cabernet Sauvignon
+2875,US,92,70,California,Russian River Valley,Chardonnay
+2876,US,92,80,California,Howell Mountain,Cabernet Sauvignon
+2877,US,85,32,California,St. Helena,Sangiovese
+2878,US,85,18,California,Alexander Valley,Chardonnay
+2879,US,85,18,Washington,Yakima Valley,Sauvignon Blanc
+2880,US,85,52,California,Dry Creek Valley,Zinfandel
+2881,US,85,27,Washington,Red Mountain,Cabernet Sauvignon
+2882,US,85,15,New York,Cayuga Lake,Chardonnay
+2883,US,85,25,New York,New York,Red Blend
+2884,US,85,20,California,Sonoma County,Chardonnay
+2885,US,87,25,New York,Finger Lakes,Cabernet Sauvignon
+2886,US,87,23,Idaho,,Syrah
+2887,US,87,24,California,Anderson Valley,Riesling
+2888,US,87,16,California,Santa Barbara County,Chardonnay
+2889,US,87,32,Washington,Walla Walla Valley (WA),Merlot
+2890,US,87,13,Washington,Washington,Blaufraunkisch
+2891,US,87,74,Washington,Yakima Valley,Cabernet Sauvignon
+2892,US,87,35,Washington,Columbia Valley (WA),Cabernet Sauvignon
+2893,US,87,20,New York,New York,Cabernet Franc
+2894,US,87,18,Idaho,,Riesling
+2895,US,87,21,California,Sierra Foothills,Zinfandel
+2896,US,87,18,New York,Finger Lakes,Sauvignon Blanc
+2897,US,89,33,Oregon,Chehalem Mountains,Chardonnay
+2898,US,89,22,Oregon,Rogue Valley,Pinot Noir
+2899,US,88,20,California,Anderson Valley,Sauvignon Blanc
+2900,US,88,96,California,Spring Mountain District,Merlot
+2901,US,88,28,California,Lodi,Red Blend
+2902,US,88,19,California,Mendocino County,Pinot Noir
+2903,US,88,26,California,Livermore Valley,Mourvadre
+2904,US,88,34,Oregon,Willamette Valley,Pinot Noir
+2905,US,88,28,California,Paso Robles,Rosa
+2906,US,88,66,California,Napa Valley,Bordeaux-style Red Blend
+2907,US,88,25,California,Paicines,Grenache
+2908,US,88,28,California,Paso Robles,Zinfandel
+2909,US,88,28,Oregon,McMinnville,Riesling
+2910,US,91,36,California,Santa Ynez Valley,Syrah
+2911,US,91,28,Oregon,Applegate Valley,Rhane-style White Blend
+2912,US,91,43,California,Dry Creek Valley,Zinfandel
+2913,US,91,44,California,Fort Ross-Seaview,Chardonnay
+2914,US,91,50,California,Sonoma Coast,Pinot Noir
+2915,US,91,56,California,Russian River Valley,Pinot Noir
+2916,US,91,48,California,Sonoma Valley,Rhane-style Red Blend
+2917,US,91,19,Oregon,Willamette Valley,Riesling
+2918,US,91,64,California,Napa Valley,Chardonnay
+2919,US,88,63,California,Santa Lucia Highlands,Pinot Noir
+2920,US,88,16,Oregon,Willamette Valley,Pinot Gris
+2921,US,88,18,California,Paso Robles,Cabernet Sauvignon
+2922,US,88,18,California,Santa Barbara County,Pinot Noir
+2923,US,88,48,Oregon,Willamette Valley,Pinot Noir
+2924,US,88,16,Oregon,Willamette Valley,Pinot Noir
+2925,US,88,35,California,Russian River Valley,Pinot Noir
+2926,US,88,40,Oregon,Willamette Valley,Pinot Noir
+2927,US,88,48,Oregon,Oregon,Pinot Noir
+2928,US,88,20,California,Russian River Valley,Pinot Gris
+2929,US,88,26,California,Dry Creek Valley,Petite Sirah
+2930,US,88,30,California,Oak Knoll District,Viognier
+2931,US,88,23,Oregon,McMinnville,Pinot Gris
+2932,US,88,21,California,Paso Robles,Red Blend
+2933,US,88,30,California,Anderson Valley,Pinot Noir
+2934,US,88,17,Oregon,Willamette Valley,Pinot Gris
+2935,US,90,40,Oregon,Chehalem Mountains,Pinot Noir
+2936,US,90,40,California,Shenandoah Valley (CA),Cabernet Sauvignon
+2937,US,90,28,California,Santa Barbara County,Syrah
+2938,US,90,36,California,Santa Ynez Valley,Rhane-style Red Blend
+2939,US,90,65,California,Temecula Valley,Zinfandel
+2940,US,90,49,California,Sonoma Coast,Pinot Noir
+2941,US,90,44,California,Napa Valley,Cabernet Sauvignon
+2942,US,90,48,California,Napa Valley,Zinfandel
+2943,US,90,28,California,Russian River Valley,Chardonnay
+2944,US,90,30,California,Sonoma County,Rosa
+2945,US,90,16,Oregon,Rogue Valley,Grenache
+2946,US,90,45,Oregon,Chehalem Mountains,Pinot Noir
+2947,US,90,48,Oregon,Eola-Amity Hills,Pinot Noir
+2948,US,90,35,Oregon,Southern Oregon,Petite Sirah
+2949,US,90,24,California,Napa Valley,Zinfandel
+2950,US,90,95,California,Napa Valley,Red Blend
+2951,US,90,32,California,Napa Valley,Zinfandel
+2952,US,90,24,California,Mendocino Ridge,Zinfandel
+2953,US,90,12,Washington,Columbia Valley (WA),Merlot
+2954,US,90,42,California,Russian River Valley,Rhane-style Red Blend
+2955,US,90,72,New York,North Fork of Long Island,Champagne Blend
+2956,US,90,66,California,Ballard Canyon,Sangiovese
+2957,US,90,44,California,Russian River Valley,Pinot Noir
+2958,US,90,45,California,Sonoma Valley,Chardonnay
+2959,US,90,30,California,Sta. Rita Hills,Pinot Noir
+2960,US,90,65,California,Atlas Peak,Cabernet Sauvignon
+2961,US,90,65,California,Dry Creek Valley,Cabernet Sauvignon
+2962,US,90,125,California,Oakville,Cabernet Franc
+2963,US,90,38,California,Dry Creek Valley,Red Blend
+2964,US,90,85,California,Sonoma Coast,Pinot Noir
+2965,US,90,35,California,Spring Mountain District,Chardonnay
+2966,US,90,48,California,Santa Barbara County,Red Blend
+2967,US,90,16,California,Lodi,Syrah
+2968,US,90,28,Oregon,Willamette Valley,Sparkling Blend
+2969,US,90,50,Oregon,Eola-Amity Hills,Pinot Noir
+2970,US,90,32,Oregon,Willamette Valley,Pinot Gris
+2971,US,90,28,Oregon,Willamette Valley,Pinot Gris
+2972,US,90,33,California,Sonoma County,Zinfandel
+2973,US,90,50,California,Central Coast,Rhane-style Red Blend
+2974,US,90,50,Oregon,Willamette Valley,Pinot Noir
+2975,US,90,30,California,Russian River Valley,Chardonnay
+2976,US,90,40,California,Sonoma Mountain,Cabernet Sauvignon
+2977,US,90,100,California,Napa Valley,Cabernet Sauvignon
+2978,US,90,28,California,Napa Valley,Sauvignon Blanc
+2979,US,93,32,California,Central Coast,Sauvignon Blanc
+2980,US,93,40,California,Santa Barbara County,Grenache
+2981,US,93,40,Oregon,Willamette Valley,Chardonnay
+2982,US,92,75,Oregon,Dundee Hills,Pinot Noir
+2983,US,92,95,Oregon,Willamette Valley,Pinot Noir
+2984,US,92,42,California,Paso Robles,Cabernet Sauvignon
+2985,US,92,35,California,Arroyo Seco,Grenache
+2986,US,92,28,Oregon,Willamette Valley,Pinot Gris
+2987,US,92,54,California,Sonoma Coast,Pinot Noir
+2988,US,92,35,California,Sta. Rita Hills,Pinot Noir
+2989,US,92,40,California,Paso Robles Willow Creek District,Tempranillo
+2990,US,92,68,Oregon,Ribbon Ridge,Pinot Noir
+2991,US,92,40,California,Napa Valley,White Blend
+2992,US,92,80,California,Napa Valley,Sparkling Blend
+2993,US,92,38,California,Santa Barbara County,Barbera
+2994,US,92,38,California,Paso Robles,Petite Sirah
+2995,US,92,63,Oregon,Willamette Valley,Chardonnay
+2996,US,92,,California,Edna Valley,Syrah
+2997,US,92,50,California,Amador County,Zinfandel
+2998,US,92,34,California,Dry Creek Valley,Zinfandel
+2999,US,85,26,Washington,Horse Heaven Hills,Bordeaux-style Red Blend
+3000,US,84,15,California,Napa Valley,Sauvignon Blanc
+3001,US,84,29,California,Los Carneros,Pinot Noir
+3002,US,84,35,California,Livermore Valley,White Blend
+3003,US,84,14,California,Santa Ynez Valley,Sauvignon Blanc
+3004,US,84,12,California,California,Pinot Noir
+3005,US,92,35,California,Sta. Rita Hills,Syrah
+3006,US,92,32,Washington,Yakima Valley,Chardonnay
+3007,US,92,56,California,Paso Robles,Bordeaux-style Red Blend
+3008,US,92,39,Washington,Red Mountain,Merlot
+3009,US,92,40,Washington,Snipes Mountain,Syrah
+3010,US,92,20,California,Arroyo Seco,Sauvignon Blanc
+3011,US,92,35,California,Paso Robles,Zinfandel
+3012,US,92,52,Washington,Columbia Valley (WA),Merlot
+3013,US,92,48,California,Santa Ynez Valley,Syrah
+3014,US,91,40,California,Carneros,Chardonnay
+3015,US,91,54,California,Napa Valley,Cabernet Sauvignon
+3016,US,91,30,California,Sierra Foothills,Syrah
+3017,US,91,40,California,Russian River Valley,Chardonnay
+3018,US,91,24,California,Edna Valley,Chardonnay
+3019,US,91,29,California,Paso Robles,Sangiovese
+3020,US,91,80,California,Howell Mountain,Cabernet Sauvignon
+3021,US,91,15,California,Paso Robles,Chardonnay
+3022,US,87,25,Washington,Horse Heaven Hills,Chardonnay
+3023,US,87,22,Washington,Horse Heaven Hills,Sauvignon Blanc
+3024,US,87,25,California,Lodi,Zinfandel
+3025,US,87,32,Washington,Columbia Valley (WA),Rhane-style Red Blend
+3026,US,87,35,California,Edna Valley,Chardonnay
+3027,US,87,15,Washington,Columbia Valley (WA),Chardonnay
+3028,US,87,35,Washington,Columbia Valley (WA),Red Blend
+3029,US,87,23,Washington,Columbia Valley (WA),White Blend
+3030,US,87,19,California,Monterey County,Sparkling Blend
+3031,US,87,24,California,Santa Ynez Valley,Merlot
+3032,US,87,19,Washington,Columbia Valley (WA),White Blend
+3033,US,87,48,California,Russian River Valley,Zinfandel
+3034,US,87,20,California,Anderson Valley,Gewaarztraminer
+3035,US,87,26,Washington,Columbia Valley (WA),Red Blend
+3036,US,87,8,Washington,Columbia Valley (WA),Riesling
+3037,US,87,60,Washington,Columbia Gorge (WA),Syrah
+3038,US,87,25,Washington,Yakima Valley,Grenache
+3039,US,87,20,California,Russian River Valley,Chardonnay
+3040,US,90,40,California,Napa Valley,Cabernet Sauvignon
+3041,US,90,95,California,Napa Valley,Merlot
+3042,US,90,48,California,Santa Barbara County,Pinot Noir
+3043,US,90,48,Oregon,Chehalem Mountains,Pinot Noir
+3044,US,90,50,California,Lodi,Zinfandel
+3045,US,90,28,California,Santa Lucia Highlands,Chardonnay
+3046,US,90,44,California,Napa Valley,Pinot Noir
+3047,US,90,60,California,Mt. Harlan,Pinot Noir
+3048,US,90,50,California,Napa Valley,Cabernet Sauvignon
+3049,US,90,54,California,Sonoma County,Red Blend
+3050,US,90,35,California,Monterey County,Rhane-style Red Blend
+3051,US,90,45,California,Ben Lomond Mountain,Chardonnay
+3052,US,88,25,California,Santa Barbara County,Riesling
+3053,US,88,25,California,Paso Robles Willow Creek District,Mourvadre
+3054,US,88,50,California,Sierra Foothills,Red Blend
+3055,US,88,30,California,Arroyo Grande Valley,Sparkling Blend
+3056,US,88,60,California,Sonoma Coast,Pinot Noir
+3057,US,88,15,California,Sonoma County,Chardonnay
+3058,US,88,27,California,Paso Robles,Rosa
+3059,US,88,20,Oregon,Chehalem Mountains,Graaner Veltliner
+3060,US,88,35,California,Santa Cruz Mountains,Chardonnay
+3061,US,88,40,California,California,Red Blend
+3062,US,88,36,California,Livermore Valley,Rhane-style Red Blend
+3063,US,88,26,California,Paso Robles,Cabernet Sauvignon
+3064,US,88,60,Oregon,Chehalem Mountains,Pinot Noir
+3065,US,88,25,California,Lodi,Zinfandel
+3066,US,88,17,California,Central Coast,Merlot
+3067,US,88,37,California,Napa Valley,Petite Sirah
+3068,US,88,98,California,Sonoma Valley,Pinot Noir
+3069,US,88,25,California,Dry Creek Valley,Sauvignon Blanc
+3070,US,88,26,California,Arroyo Seco,Rhane-style White Blend
+3071,US,88,10,California,Amador County,Sauvignon Blanc
+3072,US,88,42,California,Russian River Valley,Pinot Noir
+3073,US,88,25,Colorado,Colorado,Viognier
+3074,US,88,28,Arizona,Cochise County,Chenin Blanc
+3075,US,90,24,California,Mendocino Ridge,Zinfandel
+3076,US,90,18,California,El Dorado,Sauvignon Blanc
+3077,US,90,40,California,Sonoma Coast,Pinot Noir
+3078,US,90,35,California,Shenandoah Valley (CA),Zinfandel
+3079,US,90,35,California,Edna Valley,Chardonnay
+3080,US,90,45,California,Temecula Valley,Cabernet Franc
+3081,US,90,65,California,Sta. Rita Hills,Sparkling Blend
+3082,US,90,35,California,St. Helena,Zinfandel
+3083,US,90,35,Oregon,Eola-Amity Hills,Pinot Noir
+3084,US,90,38,California,Paso Robles,Zinfandel
+3085,US,90,40,California,Adelaida District,Rhane-style Red Blend
+3086,US,90,34,California,Santa Lucia Highlands,Syrah
+3087,US,90,40,Oregon,Chehalem Mountains,Pinot Noir
+3088,US,90,42,California,Ballard Canyon,Grenache
+3089,US,90,40,California,Russian River Valley,Chardonnay
+3090,US,90,18,Oregon,Willamette Valley,Pinot Noir
+3091,US,90,75,California,Napa Valley,Syrah
+3092,US,90,21,New York,Finger Lakes,Cabernet Franc
+3093,US,90,52,California,Sonoma Coast,Pinot Noir
+3094,US,90,55,California,Sonoma Coast,Pinot Noir
+3095,US,90,48,California,Sonoma Valley,Zinfandel
+3096,US,90,35,California,Russian River Valley,Zinfandel
+3097,US,90,45,California,Russian River Valley,Pinot Noir
+3098,US,90,28,Washington,Columbia Valley (WA),Syrah
+3099,US,90,30,Idaho,,Syrah
+3100,US,90,62,California,Russian River Valley,Pinot Noir
+3101,US,90,65,Washington,Yakima Valley,Syrah
+3102,US,90,30,Washington,Columbia Valley (WA),Cabernet Sauvignon
+3103,US,92,35,California,Arroyo Seco,Grenache
+3104,US,92,28,Oregon,Willamette Valley,Pinot Gris
+3105,US,92,35,California,Santa Maria Valley,Syrah
+3106,US,92,45,Oregon,Willamette Valley,Pinot Noir
+3107,US,92,38,California,Paso Robles,Syrah
+3108,US,92,45,California,Sta. Rita Hills,Chardonnay
+3109,US,92,25,California,Monterey County,Rosa
+3110,US,92,32,California,Alexander Valley,Sauvignon Blanc
+3111,US,92,35,Washington,Yakima Valley,Bordeaux-style Red Blend
+3112,US,92,100,California,Rutherford,Cabernet Sauvignon
+3113,US,92,65,Oregon,Dundee Hills,Pinot Noir
+3114,US,90,55,California,Russian River Valley,Chardonnay
+3115,US,90,25,California,Dry Creek Valley,Rhane-style White Blend
+3116,US,90,95,California,Northern Sonoma,Cabernet Sauvignon
+3117,US,90,10,California,California,Merlot
+3118,US,90,65,Oregon,Eola-Amity Hills,Pinot Noir
+3119,US,90,20,California,El Dorado,Viognier
+3120,US,90,32,California,Dry Creek Valley,Grenache
+3121,US,90,38,California,Napa Valley,Cabernet Sauvignon
+3122,US,90,45,California,Rockpile,Zinfandel
+3123,US,90,19,Oregon,Willamette Valley,Pinot Noir
+3124,US,90,60,Oregon,Willamette Valley,Pinot Noir
+3125,US,90,50,California,Alexander Valley,Cabernet Sauvignon
+3126,US,90,36,Oregon,Eola-Amity Hills,Pinot Noir
+3127,US,90,44,California,Russian River Valley,Pinot Noir
+3128,US,90,16,Oregon,Willamette Valley,Pinot Gris
+3129,US,84,20,Washington,Columbia Valley (WA),Malbec
+3130,US,84,45,California,Knights Valley,Cabernet Sauvignon
+3131,US,84,34,Washington,Horse Heaven Hills,Cabernet Sauvignon
+3132,US,84,27,California,Sonoma County,Bordeaux-style Red Blend
+3133,US,83,25,California,Carmel Valley,Red Blend
+3134,US,83,34,California,Russian River Valley,Zinfandel
+3135,US,83,65,California,Napa Valley,Cabernet Sauvignon
+3136,US,83,38,California,Alexander Valley,Zinfandel
+3137,US,83,23,California,Sierra Foothills,White Blend
+3138,US,83,4,California,California,Chardonnay
+3139,US,91,200,California,Napa Valley,Cabernet Sauvignon
+3140,US,91,75,California,Napa Valley,Cabernet Sauvignon
+3141,US,91,50,California,Santa Ynez Valley,Cabernet Sauvignon
+3142,US,91,14,California,Lake County,Sauvignon Blanc
+3143,US,91,26,Washington,Walla Walla Valley (WA),Sauvignon Blanc
+3144,US,91,25,California,Anderson Valley,Pinot Gris
+3145,US,91,36,California,Sonoma Coast,Chardonnay
+3146,US,91,50,California,St. Helena,Zinfandel
+3147,US,91,23,California,Russian River Valley,Sauvignon Blanc
+3148,US,91,16,California,Lodi,Syrah
+3149,US,91,30,Washington,Red Mountain,Malbec
+3150,US,91,15,Washington,Columbia Valley (WA),Chenin Blanc
+3151,US,91,22,Washington,Columbia Gorge (WA),Gewaarztraminer
+3152,US,91,30,California,Dry Creek Valley,Zinfandel
+3153,US,91,80,California,Stags Leap District,Cabernet Sauvignon
+3154,US,91,15,Washington,Horse Heaven Hills,Red Blend
+3155,US,87,28,Washington,Washington,Grenache
+3156,US,87,28,Washington,Lake Chelan,Barbera
+3157,US,87,20,California,Sonoma Valley,Chardonnay
+3158,US,87,10,California,California,Cabernet Sauvignon
+3159,US,87,13,Idaho,,Riesling
+3160,US,87,50,New York,North Fork of Long Island,Malbec
+3161,US,87,28,Idaho,,Tempranillo
+3162,US,87,32,California,Sonoma Coast,Pinot Noir
+3163,US,87,24,Washington,Walla Walla Valley (WA),Bordeaux-style Red Blend
+3164,US,87,54,California,Anderson Valley,Pinot Noir
+3165,US,87,13,California,Monterey County,Riesling
+3166,US,87,16,California,California,Zinfandel
+3167,US,87,44,California,Russian River Valley,Pinot Noir
+3168,US,87,11,California,Lodi,Zinfandel
+3169,US,87,26,California,Alexander Valley,Chardonnay
+3170,US,87,11,Washington,Columbia Valley (WA),Riesling
+3171,US,87,11,Washington,Columbia Valley (WA),Chardonnay
+3172,US,87,28,California,Napa Valley,Cabernet Sauvignon
+3173,US,90,55,Oregon,Chehalem Mountains,Pinot Noir
+3174,US,90,35,California,Anderson Valley,Chardonnay
+3175,US,90,125,California,Napa,Cabernet Sauvignon
+3176,US,90,28,California,Sonoma County,Merlot
+3177,US,90,55,California,Anderson Valley,Pinot Noir
+3178,US,90,95,California,Napa Valley,Cabernet Sauvignon
+3179,US,90,30,Oregon,Eola-Amity Hills,Pinot Noir
+3180,US,90,55,California,Yountville,Cabernet Sauvignon
+3181,US,88,22,Oregon,Chehalem Mountains,Chardonnay
+3182,US,88,46,California,Sonoma Coast,Pinot Noir
+3183,US,88,45,Oregon,Willamette Valley,Pinot Noir
+3184,US,88,45,California,Napa Valley,Cabernet Sauvignon
+3185,US,88,13,Oregon,Oregon,Pinot Gris
+3186,US,88,135,California,Napa Valley,Bordeaux-style Red Blend
+3187,US,88,75,California,Howell Mountain,Cabernet Sauvignon
+3188,US,88,15,Oregon,Oregon,Pinot Gris
+3189,US,88,40,Oregon,Chehalem Mountains,Pinot Noir
+3190,US,88,40,Oregon,Willamette Valley,Pinot Noir
+3191,US,88,20,Oregon,Willamette Valley,Pinot Noir
+3192,US,88,25,California,Sta. Rita Hills,Pinot Noir
+3193,US,88,40,California,Russian River Valley,Chardonnay
+3194,US,88,30,Oregon,Willamette Valley,Pinot Noir
+3195,US,88,72,California,Carneros,Pinot Noir
+3196,US,88,42,Oregon,Willamette Valley,Pinot Noir
+3197,US,88,60,Oregon,Dundee Hills,Pinot Noir
+3198,US,88,65,Oregon,Willamette Valley,Pinot Noir
+3199,US,88,50,California,Sta. Rita Hills,Pinot Noir
+3200,US,88,20,California,Russian River Valley,Chardonnay
+3201,US,87,44,California,Santa Maria Valley,Pinot Noir
+3202,US,90,45,Oregon,Willamette Valley,Pinot Noir
+3203,US,90,29,California,Mendocino Ridge,Syrah
+3204,US,90,55,California,Adelaida District,Bordeaux-style Red Blend
+3205,US,90,24,California,Napa Valley,Petit Verdot
+3206,US,90,48,California,Napa Valley,Red Blend
+3207,US,90,60,California,Lodi,Cabernet Sauvignon
+3208,US,90,18,California,El Dorado,Barbera
+3209,US,90,28,California,Mendocino,Carignane
+3210,US,90,40,California,Adelaida District,Zinfandel
+3211,US,90,39,Oregon,Willamette Valley,Pinot Noir
+3212,US,92,48,Oregon,Chehalem Mountains,Pinot Noir
+3213,US,92,49,California,Chalone,Chardonnay
+3214,US,92,32,Washington,Walla Walla Valley (WA),Syrah
+3215,US,92,42,California,Mendocino Ridge,Chardonnay
+3216,US,92,90,California,Rutherford,Cabernet Sauvignon
+3217,US,92,75,Oregon,Dundee Hills,Chardonnay
+3218,US,92,38,California,Paso Robles,Zinfandel
+3219,US,92,35,Washington,Yakima Valley,Syrah
+3220,US,92,48,California,Santa Barbara County,Rhane-style Red Blend
+3221,US,92,55,California,Santa Maria Valley,Pinot Noir
+3222,US,92,38,California,Russian River Valley,Pinot Noir
+3223,US,92,36,California,Russian River Valley,Syrah
+3224,US,92,18,Washington,Yakima Valley,Rhane-style Red Blend
+3225,US,92,54,Oregon,Columbia Gorge (OR),Pinot Noir
+3226,US,92,28,Oregon,Elkton Oregon,Pinot Noir
+3227,US,90,25,New York,Finger Lakes,Gewaarztraminer
+3228,US,90,55,California,Sta. Rita Hills,Pinot Noir
+3229,US,90,60,California,Sta. Rita Hills,Pinot Noir
+3230,US,89,14,California,Mendocino-Lake,Viognier
+3231,US,89,18,Idaho,,Red Blend
+3232,US,89,45,California,Paicines,Red Blend
+3233,US,89,28,Washington,Horse Heaven Hills,Cabernet Franc
+3234,US,89,22,Idaho,Idaho,Bordeaux-style Red Blend
+3235,US,89,20,Washington,Columbia Valley (WA),Red Blend
+3236,US,89,45,California,Santa Barbara County,Tempranillo
+3237,US,90,50,California,Alexander Valley,Cabernet Sauvignon
+3238,US,90,40,California,Mendocino,Red Blend
+3239,US,90,75,California,Napa Valley,Cabernet Sauvignon
+3240,US,90,40,California,Paso Robles,Petite Sirah
+3241,US,90,25,California,Sonoma County,Zinfandel
+3242,US,90,38,California,Sta. Rita Hills,Chardonnay
+3243,US,90,65,California,Happy Canyon of Santa Barbara,Cabernet Sauvignon
+3244,US,90,28,California,Pine Mountain-Cloverdale Peak,Carignane
+3245,US,90,35,California,Dry Creek Valley,Rhane-style Red Blend
+3246,US,90,65,California,Napa Valley,Merlot
+3247,US,90,29,California,Rutherford,Sauvignon Blanc
+3248,US,90,36,Oregon,Eola-Amity Hills,Pinot Noir
+3249,US,83,35,California,Dry Creek Valley,Cabernet Sauvignon
+3250,US,82,65,California,St. Helena,Cabernet Sauvignon
+3251,US,82,30,Washington,Horse Heaven Hills,Petit Verdot
+3252,US,98,75,California,Sonoma Coast,Pinot Noir
+3253,US,87,28,California,Napa Valley,Cabernet Sauvignon
+3254,US,87,45,New York,Finger Lakes,Cabernet Sauvignon
+3255,US,87,60,Washington,Walla Walla Valley (WA),Cabernet Sauvignon
+3256,US,87,54,California,Anderson Valley,Pinot Noir
+3257,US,87,24,Washington,Walla Walla Valley (WA),Bordeaux-style Red Blend
+3258,US,87,13,California,Monterey County,Riesling
+3259,US,87,16,California,California,Zinfandel
+3260,US,87,44,California,Russian River Valley,Pinot Noir
+3261,US,87,11,California,Lodi,Zinfandel
+3262,US,87,26,California,Alexander Valley,Chardonnay
+3263,US,87,11,Washington,Columbia Valley (WA),Riesling
+3264,US,87,18,California,Cienega Valley,Merlot
+3265,US,87,54,California,Napa Valley,Cabernet Sauvignon
+3266,US,87,30,California,Santa Clara Valley,Chardonnay
+3267,US,87,12,Idaho,,Pinot Gris
+3268,US,87,18,New York,Finger Lakes,Cabernet Franc
+3269,US,87,30,Washington,Horse Heaven Hills,Malbec
+3270,US,87,19,New York,Finger Lakes,Riesling
+3271,US,87,32,California,Sonoma Coast,Pinot Noir
+3272,US,87,17,California,Santa Lucia Highlands,Pinot Noir
+3273,US,86,23,Idaho,,Syrah
+3274,US,88,22,Oregon,Chehalem Mountains,Chardonnay
+3275,US,88,46,California,Sonoma Coast,Pinot Noir
+3276,US,88,45,Oregon,Willamette Valley,Pinot Noir
+3277,US,88,9,California,California,Chardonnay
+3278,US,88,22,California,North Coast,Cabernet Sauvignon
+3279,US,88,36,California,Yorkville Highlands,Malbec
+3280,US,88,15,California,Dunnigan Hills,Chardonnay
+3281,US,88,18,Oregon,Oregon,Rosa
+3282,US,88,30,Oregon,Southern Oregon,Malbec
+3283,US,88,18,Oregon,Rogue Valley,Viognier
+3284,US,90,30,California,Paso Robles,Zinfandel
+3285,US,90,34,California,Lodi,Zinfandel
+3286,US,90,40,Oregon,Ribbon Ridge,Pinot Noir
+3287,US,90,24,California,Lodi,Zinfandel
+3288,US,90,30,California,Russian River Valley,Chardonnay
+3289,US,90,40,Oregon,Willamette Valley,Pinot Noir
+3290,US,90,32,California,Santa Lucia Highlands,Pinot Noir
+3291,US,90,20,California,Monterey,Albariato
+3292,US,90,32,California,Marin County,Pinot Noir
+3293,US,90,28,California,Napa Valley,Zinfandel
+3294,US,90,14,California,Sonoma County,Rosa
+3295,US,87,20,California,Central Coast,Pinot Noir
+3296,US,87,45,Virginia,Virginia,Tannat
+3297,US,87,22,Virginia,Virginia,Cabernet Franc
+3298,US,87,20,California,Alexander Valley,Petite Sirah
+3299,US,87,27,California,Russian River Valley,Pinot Noir
+3300,US,87,14,California,California,Pinot Noir
+3301,US,87,25,California,Dry Creek Valley,Rosa
+3302,US,87,21,California,Happy Canyon of Santa Barbara,Sauvignon Blanc
+3303,US,87,16,California,Central Coast,Pinot Noir
+3304,US,87,38,California,Anderson Valley,Pinot Noir
+3305,US,87,21,Arizona,Arizona,Chenin Blanc
+3306,US,87,65,Oregon,Willamette Valley,Pinot Noir
+3307,US,87,24,California,Amador County,Zinfandel
+3308,US,87,35,California,Sonoma County,Cabernet Sauvignon
+3309,US,87,45,California,Santa Lucia Highlands,Chardonnay
+3310,US,87,32,Virginia,Virginia,Merlot
+3311,US,91,60,California,Santa Cruz Mountains,Cabernet Sauvignon
+3312,US,91,48,Washington,Yakima Valley,Bordeaux-style Red Blend
+3313,US,91,38,California,Ballard Canyon,Syrah
+3314,US,91,42,California,Paso Robles,Syrah
+3315,US,91,19,Washington,Yakima Valley,Red Blend
+3316,US,91,54,California,Paso Robles,Syrah
+3317,US,91,32,California,Dry Creek Valley,Grenache
+3318,US,91,35,California,Sonoma Coast,Syrah
+3319,US,91,60,Washington,Red Mountain,Bordeaux-style Red Blend
+3320,US,91,49,California,Santa Barbara County,Syrah
+3321,US,91,14,California,North Coast,Sauvignon Blanc
+3322,US,91,27,Washington,Rattlesnake Hills,Malbec
+3323,US,91,25,Washington,Columbia Valley (WA),Chardonnay
+3324,US,91,54,California,Paso Robles,Red Blend
+3325,US,90,28,California,Pine Mountain-Cloverdale Peak,Carignane
+3326,US,90,35,California,Dry Creek Valley,Rhane-style Red Blend
+3327,US,90,65,California,Napa Valley,Merlot
+3328,US,90,29,California,Rutherford,Sauvignon Blanc
+3329,US,90,48,Oregon,Dundee Hills,Pinot Noir
+3330,US,90,28,Oregon,Eola-Amity Hills,Chardonnay
+3331,US,90,36,California,Napa Valley,Syrah
+3332,US,90,60,California,Paso Robles Willow Creek District,Syrah
+3333,US,90,70,California,Sonoma Coast,Pinot Noir
+3334,US,90,55,California,Oak Knoll District,Syrah
+3335,US,92,85,California,Napa Valley,Cabernet Sauvignon
+3336,US,92,25,California,San Luis Obispo County,Pinot Noir
+3337,US,92,40,California,Paso Robles Willow Creek District,Zinfandel
+3338,US,92,62,Oregon,Willamette Valley,Pinot Noir
+3339,US,92,29,California,Humboldt County,Pinot Noir
+3340,US,92,49,California,Santa Maria Valley,Syrah
+3341,US,92,32,Washington,Columbia Valley (WA),Red Blend
+3342,US,92,140,California,Sonoma-Napa,Cabernet Sauvignon
+3343,US,92,41,Washington,Walla Walla Valley (WA),Syrah
+3344,US,92,40,California,Sta. Rita Hills,Sauvignon Blanc
+3345,US,92,90,California,Sonoma Valley,Pinot Noir
+3346,US,92,125,California,Napa Valley,Bordeaux-style Red Blend
+3347,US,92,50,California,Amador County,Zinfandel
+3348,US,92,45,California,Ballard Canyon,Zinfandel
+3349,US,90,38,California,Dry Creek Valley,Zinfandel
+3350,US,90,90,California,Atlas Peak,Cabernet Sauvignon
+3351,US,90,32,California,Amador County,Barbera
+3352,US,90,42,California,Lake County,Sauvignon Blanc

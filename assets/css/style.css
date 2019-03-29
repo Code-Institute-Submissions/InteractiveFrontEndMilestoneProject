@@ -4,12 +4,17 @@
     border-right: none;
 }
 
+.bg-dark {
+    background-color: #9a3339 !important;
+}
+
 
 /*-------------------------------Header-------------------------------*/
 
 header {
     border-bottom: 1px solid rgba(230, 230, 230, 0.24);
     margin-bottom: 10px;
+    background-color: #1D465D;
 }
 
 #profile {
@@ -52,22 +57,28 @@ header {
 
 .btn-primary {
     margin-right: 8px;
+    background-color: #C3633E; 
+    border-color: #9a3339;
 }
 
 /*-------------------------------Main-------------------------------*/
 
+body {
+    background-color: #1D465D;
+}
+
 /*------Charts------*/
 
-#price-per-share {
-    fill: #fafafa;
-    background: #aaa;
+#sector-count {
+    fill: #C3633E;
+    background: #F6D6C9;
 }
 
-#price-per-share .bar {
-    fill: #282b2f;
+#sector-count .bar {
+    fill: #9a3339;
 }
 
-#price-per-share .bar text {
+#sector-count .bar text {
     text-anchor: end !important;
     transform: rotate(-45deg)!important;
 }
@@ -76,4 +87,3 @@ g .x.axis text {
     text-anchor: end !important;
     transform: rotate(-45deg);
 }
->
