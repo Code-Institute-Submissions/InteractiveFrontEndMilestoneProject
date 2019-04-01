@@ -45,19 +45,28 @@ header {
     display: inline;
 }
 
-#sector {
-    padding-top: 24px;
+#selector {
+    padding-top: 35px;
     padding-left: 0px;
     padding-right: 0px;
 }
 
-#sector-header {
-    padding-bottom: 15px;
+#selector-header {
+    padding-bottom: 35px;
+}
+
+.dc-select-menu {
+    background-color: #C3633E;
+    border-color: #9a3339;
+    color: #EBEBEB;
+    font-size: 18px;
+    height: 50px;
+    width: 195px;
 }
 
 .btn-primary {
     margin-right: 8px;
-    background-color: #C3633E; 
+    background-color: #C3633E;
     border-color: #9a3339;
 }
 
@@ -67,18 +76,34 @@ body {
     background-color: #1D465D;
 }
 
-/*------Charts------*/
-
-#sector-count {
-    fill: #C3633E;
-    background: #F6D6C9;
+.row {
+    margin: 0;
 }
 
-#sector-count .bar {
+.container-fluid {
+    padding-right: 20px;
+}
+
+/*------Charts------*/
+
+#charts {
+    padding: 0px;
+}
+
+#country-count,
+#average-points {
+    fill: #C3633E;
+    background: #F6D6C9;
+    padding: 0px;
+}
+
+#country-count,
+#average-points,
+.bar {
     fill: #9a3339;
 }
 
-#sector-count .bar text {
+#country-count .bar text {
     text-anchor: end !important;
     transform: rotate(-45deg)!important;
 }
