@@ -1,3 +1,10 @@
+$red: #9a3339;
+$orange: #A7502F;
+$background-red: #F6D6C9;
+$white: #EBEBEB;
+$blue: #1D465D;
+
+
 /*-------------------------------Navbar-------------------------------*/
 
 .navbar-brand {
@@ -5,7 +12,7 @@
 }
 
 .bg-dark {
-    background-color: #9a3339 !important;
+    background-color: $red !important;
 }
 
 
@@ -13,7 +20,7 @@
 
 header {
     border-bottom: 1px solid rgba(230, 230, 230, 0.24);
-    background-color: #1D465D;
+    background-color: $blue;
     margin-bottom: 10px;
 }
 
@@ -25,6 +32,10 @@ header {
     width: 170px;
     height: 150px;
     border-radius: 4px;
+}
+
+.fa-envelope, .fa-linkedin, .fa-github:before {
+    color: $orange;
 }
 
 
@@ -56,9 +67,9 @@ header {
 }
 
 .dc-select-menu {
-    background-color: #C3633E;
-    border-color: #9a3339;
-    color: #EBEBEB;
+    background-color: $orange;
+    border-color: $red;
+    color: $white;
     font-size: 18px;
     height: 50px;
     width: 195px;
@@ -66,14 +77,15 @@ header {
 
 .btn-primary {
     margin-right: 8px;
-    background-color: #C3633E;
-    border-color: #9a3339;
+    background-color: $orange;
+    border-color: $red;
 }
+
 
 /*-------------------------------Main-------------------------------*/
 
 body {
-    background-color: #1D465D;
+    background-color: $blue;
 }
 
 .container {
@@ -89,24 +101,32 @@ body {
     padding-right: 20px;
 }
 
+
 /*------Charts------*/
 
 #charts {
     padding: 0px;
 }
 
-#country-count,
-#average-points {
-    fill: #C3633E;
-    background: #F6D6C9;
+@mixin pieChart() {
+    fill: $orange;
+    background: $background-red;
+    padding-left: 60px;
+    @content;
+
+}
+
+@mixin barChart() {
+    fill: $orange;
+    background: $background-red;
     padding-top: 28px;
     padding-left: 30px;
 }
 
 #country-count,
 #average-points,
-.bar {
-    fill: #9a3339;
+#country-variety {
+    @include barChart
 }
 
 #country-count .bar text {
@@ -116,12 +136,15 @@ body {
 
 #country-distribution,
 #points-distribution {
-    fill: #C3633E;
-    background: #F6D6C9;
-    padding-left: 60px;
+    @include pieChart
+}
+
+#country-variety {
+    padding-left: 50px !important;
 }
 
 g .x.axis text {
     text-anchor: end !important;
     transform: rotate(-45deg);
 }
+
