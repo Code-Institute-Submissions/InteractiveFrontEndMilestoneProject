@@ -19,7 +19,14 @@ header {
   height: 150px;
   border-radius: 4px; }
 
-.fa-envelope, .fa-linkedin, .fa-github:before {
+.fa-envelope,
+.fa-linkedin,
+.fa-github {
+  color: #EBEBEB; }
+
+.fa-envelope:hover,
+.fa-linkedin:hover,
+.fa-github:hover {
   color: #A7502F; }
 
 #social {
@@ -71,13 +78,31 @@ body {
 .container-fluid {
   padding-right: 20px; }
 
+/*------Wine Cards------*/
+#wine-card {
+  width: 150px;
+  height: 300px; }
+
+#wine-image1 {
+  background: url(assets/images/wine1.jpg) no-repeat center;
+  background-size: cover;
+  height: 280px;
+  border-radius: 2.5%;
+  margin: 0px; }
+
+#wine-content {
+  background-color: none;
+  color: #9a3339;
+  font-weight: bold; }
+
 /*------Charts------*/
 #charts {
   padding: 0px; }
 
 #country-count,
 #average-points,
-#country-variety {
+#country-variety,
+#price-to-points {
   fill: #A7502F;
   background: #F6D6C9;
   padding-top: 28px;

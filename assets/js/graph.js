@@ -34,6 +34,8 @@ function makeGraphs(error, wineData) {
     show_points_distribution(ndx);
 
     show_national_variety(ndx);
+    
+    show_price_to_points(ndx);
 
     dc.renderAll();
 }
@@ -345,5 +347,43 @@ function show_national_variety(ndx) {
         .xUnits(dc.units.ordinal)
         .legend(dc.legend().x(800).y(10).itemHeight(15).gap(5))
         .yAxisLabel("Variety %");
-        /*.yAxis().ticks(10);*/
+}
+
+
+// This function displays in the form of a scatter plot the correlation between price and points/grade
+function show_price_to_points (ndx) {
+    
+    // Scatter plots require two dimensions, in this case price and points
+    
+    // For the x axis we have the dimension price
+    var priceDim = ndx.dimension(dc.pluck('price'));
+    
+    // As for the second variable, we use a function in order to extract the two pieces of info we need to plot the dots
+    // The second dimension will return an array including the two points we need, price and points of each bottle in the dataset
+    var arrayDim = ndx.dimension(function(d) {
+        return [d.price, d.points]
+    });
+    
+    var qualityToPriceDim = arrayDim.group();
+    
+    var minPrice = priceDim.bottom(1)[0].price;
+    var maxPrice = priceDim.top(1)[0].price;
+    
+    dc.scatterPlot("#price-to-points")
+        .width(1100)
+        .height(400)
+        .x(d3.scale.linear().domain([minPrice, maxPrice]).range([0, 10000]))
+        .brushOn(false)
+        .symbolSize(8)
+        .clipPadding(10)
+        .yAxisLabel("Points")
+        .xAxisLabel("Price in $")
+        .title(function(d) {
+            return "Price: $" + d.key[0] + " & " + "Points: " + d.key[1];
+        })
+        .dimension(arrayDim)
+        .group(qualityToPriceDim)
+        .margins({ top: 10, right: 70, bottom: 70, left: 50 })
+        .colors(d3.scale.ordinal().range(['#9a3339']))
+        .xAxis().ticks(20);
 }

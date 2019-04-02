@@ -34,10 +34,17 @@ header {
     border-radius: 4px;
 }
 
-.fa-envelope, .fa-linkedin, .fa-github:before {
-    color: $orange;
+.fa-envelope,
+.fa-linkedin,
+.fa-github {
+    color: $white;
 }
 
+.fa-envelope:hover,
+.fa-linkedin:hover,
+.fa-github:hover {
+    color: $orange;
+}
 
 #social {
     padding-right: 0px;
@@ -102,6 +109,28 @@ body {
 }
 
 
+/*------Wine Cards------*/
+
+#wine-card {
+    width: 150px;
+    height: 300px;
+
+}
+
+#wine-image1 {
+    background: url(assets/images/wine1.jpg) no-repeat center;
+    background-size: cover;
+    height: 280px;
+    border-radius: 2.5%;
+    margin: 0px;
+}
+
+#wine-content {
+    background-color: none;
+    color: $red;
+    font-weight: bold;
+}
+
 /*------Charts------*/
 
 #charts {
@@ -125,7 +154,8 @@ body {
 
 #country-count,
 #average-points,
-#country-variety {
+#country-variety,
+#price-to-points {
     @include barChart
 }
 
@@ -147,4 +177,3 @@ g .x.axis text {
     text-anchor: end !important;
     transform: rotate(-45deg);
 }
-
