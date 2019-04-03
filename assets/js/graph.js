@@ -324,7 +324,7 @@ function show_national_variety(ndx) {
     // Therefore, as we now have created the variables in order to show the varieties we would like to display, now it is time to create the stacked bar chart
     dc.barChart("#country-variety")
         .width(1100)
-        .height(400)
+        .height(320)
         .margins({ top: 10, right: 100, bottom: 70, left: 50 })
         .dimension(dim)
         .group(cabernet, "Cabernet Sauvignon")
@@ -371,7 +371,7 @@ function show_price_to_points (ndx) {
     
     dc.scatterPlot("#price-to-points")
         .width(1100)
-        .height(400)
+        .height(320)
         .x(d3.scale.linear().domain([minPrice, maxPrice]).range([0, 10000]))
         .brushOn(false)
         .symbolSize(8)
