@@ -168,7 +168,6 @@ function show_country_distribution(ndx) {
     dc.pieChart("#country-distribution")
         .height(350)
         .radius(120)
-        /*.margins({ top: 30, right: 30, bottom: 60, left: 50 })*/
         .dimension(dim)
         .group(group)
         .transitionDuration(500)

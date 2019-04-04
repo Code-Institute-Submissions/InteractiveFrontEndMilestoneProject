@@ -1,0 +1,430 @@
+/*------Media Queries------*/
+/*------Tablets------*/
+/*------Desktops & Laptops------*/
+/*------Large Screens------*/
+/*------Colors------*/
+/*-------------------------------Navbar-------------------------------*/
+.navbar-brand {
+  border-right: none; }
+  @media (max-width: 480px) {
+    .navbar-brand {
+      font-size: 16px; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .navbar-brand {
+      font-size: 16px; } }
+
+.bg-dark {
+  background-color: #9a3339 !important; }
+
+/*-------------------------------Header-------------------------------*/
+header {
+  border-bottom: 1px solid rgba(230, 230, 230, 0.24);
+  background-color: #1D465D; }
+
+#profile {
+  padding-top: 15px;
+  padding-right: 40px; }
+  @media (max-width: 480px) {
+    #profile {
+      padding-right: 16px; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    #profile {
+      padding-right: 16px; } }
+
+#profile img {
+  width: 145px;
+  height: auto;
+  border-radius: 4px; }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    #profile img {
+      width: 123px;
+      height: auto; } }
+
+.fa-envelope,
+.fa-linkedin,
+.fa-github {
+  color: #EBEBEB; }
+
+.fa-envelope:hover,
+.fa-linkedin:hover,
+.fa-github:hover {
+  color: #A7502F; }
+
+#social {
+  padding-right: 0px; }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    #social {
+      padding-left: 0px; } }
+
+#social ul {
+  padding-top: 5px;
+  padding-left: 0px;
+  margin-left: 8px;
+  padding-right: 34px; }
+  @media (max-width: 480px) {
+    #social ul {
+      margin-left: 0px;
+      padding-right: 0px; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    #social ul {
+      margin-left: 0px;
+      padding-right: 0px; } }
+
+#social li {
+  padding-left: 5px;
+  padding-right: 10px;
+  font-size: 22px;
+  display: inline; }
+
+#selector {
+  padding-top: 35px;
+  padding-left: 0px;
+  padding-right: 0px; }
+  @media (max-width: 480px) {
+    #selector {
+      padding-top: 15px; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    #selector {
+      padding-top: 15px; } }
+
+#selector-header {
+  padding-bottom: 35px; }
+  @media (max-width: 480px) {
+    #selector-header {
+      font-size: 18px;
+      padding-bottom: 15px; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    #selector-header {
+      font-size: 18px;
+      padding-bottom: 15px; } }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    #selector-header {
+      font-size: 24px; } }
+
+.dc-select-menu {
+  background-color: #A7502F;
+  border-color: #9a3339;
+  color: #EBEBEB;
+  font-size: 18px;
+  height: 50px;
+  width: 195px; }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    .dc-select-menu {
+      width: 160px; } }
+
+.btn-primary {
+  margin-right: 8px;
+  background-color: #A7502F;
+  border-color: #9a3339; }
+
+@media (max-width: 480px) {
+  #country-selector,
+  #variety-selector,
+  #points-selector,
+  #price-selector {
+    margin-bottom: 15px; } }
+@media (min-width: 768px) and (max-width: 1023px) {
+  #country-selector,
+  #variety-selector,
+  #points-selector,
+  #price-selector {
+    margin-bottom: 15px; } }
+
+/*-------------------------------Main-------------------------------*/
+body {
+  background-color: #1D465D; }
+
+.container {
+  margin-bottom: 35px;
+  margin-top: 15px; }
+
+.row {
+  margin: 0; }
+
+.container-fluid {
+  padding-right: 20px; }
+
+h4 {
+  font-weight: bold; }
+
+h5 {
+  float: left;
+  color: #9a3339;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 0;
+  padding-bottom: 3px;
+  padding-top: 2px; }
+
+/*------Wine Cards------*/
+#wine-container {
+  padding-left: 0px; }
+
+#offers-section-title {
+  padding-top: 14px; }
+
+.border-right-added {
+  border-right: 1px solid rgba(230, 230, 230, 0.24); }
+  @media (max-width: 480px) {
+    .border-right-added {
+      border-right: none; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .border-right-added {
+      border-right: none; } }
+
+#card-1 {
+  margin-bottom: 95px; }
+  @media (max-width: 480px) {
+    #card-1 {
+      margin-bottom: 50px; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    #card-1 {
+      margin-bottom: 50px; } }
+
+#card-2 {
+  margin-bottom: 97px; }
+  @media (max-width: 480px) {
+    #card-2 {
+      margin-bottom: 50px; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    #card-2 {
+      margin-bottom: 50px; } }
+
+#card-3 {
+  margin-bottom: 93px; }
+  @media (max-width: 480px) {
+    #card-3 {
+      margin-bottom: 50px; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    #card-3 {
+      margin-bottom: 50px; } }
+
+#card-4 {
+  margin-bottom: 60px; }
+  @media (max-width: 480px) {
+    #card-4 {
+      margin-bottom: 50px; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    #card-4 {
+      margin-bottom: 50px; } }
+
+#wine-card {
+  width: 100%;
+  height: 350px;
+  padding-top: 15px;
+  background-color: #fff;
+  border-radius: 2.5%; }
+
+#wine-image1 {
+  background: url(../images/wine1.jpg) no-repeat center;
+  background-size: contain;
+  height: 230px;
+  border-radius: 2.5%;
+  margin: 0px; }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    #wine-image1 {
+      height: 185px; } }
+
+#wine-image2 {
+  background: url(../images/wine2.jpg) no-repeat center;
+  background-size: contain;
+  height: 230px;
+  border-radius: 2.5%;
+  margin: 0px; }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    #wine-image2 {
+      height: 185px; } }
+
+#wine-image3 {
+  background: url(../images/wine3.jpg) no-repeat center;
+  background-size: contain;
+  height: 230px;
+  border-radius: 2.5%;
+  margin: 0px; }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    #wine-image3 {
+      height: 185px; } }
+
+#wine-image4 {
+  background: url(../images/wine4.jpg) no-repeat center;
+  background-size: contain;
+  height: 230px;
+  border-radius: 2.5%;
+  margin: 0px; }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    #wine-image4 {
+      height: 185px; } }
+
+#wine-content {
+  background-color: none;
+  padding-left: 11px;
+  padding-top: 5px; }
+
+#domaine {
+  float: left;
+  color: #9a3339;
+  font-size: 10px;
+  margin: 0;
+  padding-bottom: 2px;
+  width: 100%; }
+
+#wine-location {
+  float: left;
+  color: #9a3339;
+  font-size: 10px;
+  margin: 0;
+  padding-bottom: 2px;
+  padding-top: 3px;
+  width: 100%; }
+
+.room-for-flags {
+  padding-right: 4px; }
+
+#country-icon {
+  width: 15px;
+  height: auto;
+  float: left; }
+
+#price-and-point {
+  color: #9a3339;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 0;
+  padding-top: 10px;
+  padding-left: 5px;
+  display: inline-flex;
+  width: 100%; }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    #price-and-point {
+      font-size: 10px; } }
+
+#price-and-point-items {
+  padding-left: 8px;
+  padding-top: 4px; }
+
+.btn-secondary {
+  font-size: 16px;
+  color: #fafafa;
+  background: #50af57;
+  width: 45px;
+  height: 25px;
+  border-radius: 4px;
+  border-color: #50af57;
+  margin-left: 11px; }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    .btn-secondary {
+      margin-left: 3px;
+      margin-right: 4px;
+      margin-top: 13px; } }
+
+.btn-secondary:hover {
+  background: #3b8240;
+  border-color: #3b8240; }
+
+.btn-secondary .cart-icon {
+  display: block;
+  text-align: center;
+  margin: -2.5px 0px -2.5px 0px; }
+
+/*------Charts------*/
+#charts {
+  padding: 0px; }
+
+@media (max-width: 480px) {
+  svg {
+    width: 228px; } }
+
+@media (min-width: 1024px) and (max-width: 1439px) {
+  svg {
+    width: 228px; } }
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  #country-variety svg {
+    width: 613px; } }
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  #price-to-points svg {
+    width: 652px; } }
+
+.section-paragraph {
+  padding-bottom: 15px;
+  padding-top: 10px; }
+  @media (max-width: 480px) {
+    .section-paragraph {
+      font-size: 16px; } }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .section-paragraph {
+      font-size: 16px; } }
+  @media (min-width: 1024px) and (max-width: 1439px) {
+    .section-paragraph {
+      font-size: 20px; } }
+
+.make-orange {
+  color: #A7502F; }
+
+#country-count,
+#average-points,
+#country-variety,
+#price-to-points {
+  fill: #A7502F;
+  background: #F6D6C9;
+  padding-top: 28px;
+  padding-left: 30px; }
+
+#country-count .bar text {
+  text-anchor: end !important;
+  transform: rotate(-45deg) !important; }
+
+#country-distribution,
+#points-distribution {
+  fill: #A7502F;
+  background: #F6D6C9;
+  padding-left: 60px; }
+
+#country-variety {
+  padding-left: 50px !important; }
+
+g .x.axis text {
+  text-anchor: end !important;
+  transform: rotate(-45deg); }
+
+/*---Footer---*/
+#footer {
+  margin-bottom: 0px;
+  margin-top: 0px; }
+
+footer {
+  text-align: center;
+  background-color: #9a3339; }
+
+footer .container {
+  padding-bottom: 10px;
+  padding-top: 10px; }
+
+.footer-icons a {
+  padding-left: 10px;
+  padding-right: 10px; }
+
+.footer-icons i {
+  display: inline-block;
+  box-shadow: 0px 0px 2px #888;
+  background-color: #fafafa;
+  color: #9a3339;
+  width: 41px;
+  height: 41px;
+  margin-top: 2.5px;
+  margin-bottom: 2.5px;
+  padding: 20px 0;
+  border-radius: 50%;
+  font-size: 30px;
+  line-height: 2px;
+  text-align: center;
+  vertical-align: middle;
+  transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out; }
+
+footer i:hover {
+  color: #F6D6C9; }
+
+/*# sourceMappingURL=main.css.map */

@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/dc.min.css" type="text/css" />
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="main.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/main.css" type="text/css" />
 
     <script type="text/javascript" src="assets/js/d3.min.js"></script>
     <script type="text/javascript" src="assets/js/crossfilter.min.js"></script>
@@ -33,7 +33,9 @@
         <section class="section">
             <div class="container-fluid">
                 <div class="row">
-                    <div id="social" class="col-xs-2 col-sm-2 col-md-2 col-lg-2 text-center">
+                    
+                    <!--Profile & External Links-->
+                    <div id="social" class="col-xs-12 col-sm-12 col-md-12 col-lg-2 text-center">
                         <div id="profile">
                             <a target="_blank" href="https://github.com/Litran1990"><img src="assets/images/profile.jpg" alt="Profile Picture"></a>
                         </div>
@@ -45,15 +47,17 @@
                             </ul>
                         </div>
                     </div>
-                    <div id="selector" class="col-xs-10 col-sm-10 col-md-10 col-lg-10 text-center">
+                    
+                    <!--Filter-->
+                    <div id="selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-10 text-center">
                         <div>
                             <h2 id="selector-header">Filter by Country, Variety, Points & Price:</h2>
                         </div>
                         <div class="center">
-                            <div id="country-selector" class="col-xs-12 col-sm-3 col-md-3 col-lg-3"></div>
-                            <div id="variety-selector" class="col-xs-12 col-sm-3 col-md-3 col-lg-3"></div>
-                            <div id="points-selector" class="col-xs-12 col-sm-3 col-md-3 col-lg-3"></div>
-                            <div id="price-selector" class="col-xs-12 col-sm-3 col-md-3 col-lg-3"></div>
+                            <div id="country-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-3"></div>
+                            <div id="variety-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-3"></div>
+                            <div id="points-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-3"></div>
+                            <div id="price-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-3"></div>
                         </div>
                     </div>
                 </div>
@@ -63,16 +67,19 @@
 
     <main>
         <section class="section">
-            <div class="container-fluid">
+            <div id="wine-container" class="container-fluid">
                 <div class="row">
-                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 border-right">
+                    
                         
-                        <!--First Card-->
+                    <!--Wine Cards-->   
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2 border-right-added">
                         <div class="row">
                             <div id="offers-section-title" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                 <h4 class="section-paragraph text-center">Suggestions</h4>
                             </div>
                         </div>
+                        
+                        <!--First Card-->
                         <div id="card-1" class="row">    
                             <div id="wine-card">
                                 <a href="" target="_blank">
@@ -151,10 +158,11 @@
                                 </div>
                             </div>
                         </div>
+                        
                     </div>
                     
                     <!--Charts-->
-                    <div id="charts" class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                    <div id="charts" class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
                         <div class="container">
                             <div class="row">
                                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -162,9 +170,9 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div id="country-count" class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div id="country-count" class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                                 </div>
-                                <div id="country-distribution" class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div id="country-distribution" class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                                 </div>
                             </div>
                         </div>
@@ -175,9 +183,9 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div id="average-points" class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div id="average-points" class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                                 </div>
-                                <div id="points-distribution" class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div id="points-distribution" class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                                 </div>
                             </div>
                         </div>

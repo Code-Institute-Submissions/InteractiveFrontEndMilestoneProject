@@ -1,6 +1,10 @@
+/*------Colors------*/
 /*-------------------------------Navbar-------------------------------*/
 .navbar-brand {
-  border-right: none; }
+  border-right: none;
+  /*    @include smartphones {
+          font-size: 14px;
+      }*/ }
 
 .bg-dark {
   background-color: #9a3339 !important; }
@@ -251,8 +255,8 @@ footer {
   background-color: #9a3339; }
 
 footer .container {
-  padding-bottom: 15px;
-  padding-top: 15px; }
+  padding-bottom: 10px;
+  padding-top: 10px; }
 
 .footer-icons a {
   padding-left: 10px;
