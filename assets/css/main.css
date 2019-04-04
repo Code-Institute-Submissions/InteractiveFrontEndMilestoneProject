@@ -208,7 +208,7 @@ h5 {
     #card-4 {
       margin-bottom: 50px; } }
 
-#wine-card {
+.wine-card {
   width: 100%;
   height: 350px;
   padding-top: 15px;
@@ -255,12 +255,12 @@ h5 {
     #wine-image4 {
       height: 185px; } }
 
-#wine-content {
-  background-color: none;
+.wine-content {
+  background-color: transparent;
   padding-left: 11px;
   padding-top: 5px; }
 
-#domaine {
+.domaine {
   float: left;
   color: #9a3339;
   font-size: 10px;
@@ -268,7 +268,7 @@ h5 {
   padding-bottom: 2px;
   width: 100%; }
 
-#wine-location {
+.wine-location {
   float: left;
   color: #9a3339;
   font-size: 10px;
@@ -280,12 +280,12 @@ h5 {
 .room-for-flags {
   padding-right: 4px; }
 
-#country-icon {
+.country-icon {
   width: 15px;
   height: auto;
   float: left; }
 
-#price-and-point {
+.price-and-point {
   color: #9a3339;
   font-size: 12px;
   font-weight: bold;
@@ -295,10 +295,10 @@ h5 {
   display: inline-flex;
   width: 100%; }
   @media (min-width: 1024px) and (max-width: 1439px) {
-    #price-and-point {
+    .price-and-point {
       font-size: 10px; } }
 
-#price-and-point-items {
+.price-and-point-items {
   padding-left: 8px;
   padding-top: 4px; }
 

@@ -220,7 +220,7 @@ function show_average_points(ndx) {
         })
         .transitionDuration(500)
         .colors(d3.scale.ordinal().range(['#9a3339', '#E64C55']))
-        .x(d3.scale.ordinal().domain(dim).range([0, 1000]))
+        .x(d3.scale.ordinal().domain(dim))
         .elasticY(true)
         .xUnits(dc.units.ordinal)
         /*.xAxisLabel("Country Name")*/
@@ -371,7 +371,7 @@ function show_price_to_points (ndx) {
     dc.scatterPlot("#price-to-points")
         .width(1100)
         .height(320)
-        .x(d3.scale.linear().domain([minPrice, maxPrice]).range([0, 10000]))
+        .x(d3.scale.linear().domain([minPrice, maxPrice]))
         .brushOn(false)
         .symbolSize(8)
         .clipPadding(10)
