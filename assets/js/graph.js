@@ -9,8 +9,6 @@ function makeGraphs(error, wineData) {
 
     var ndx = crossfilter(wineData);
 
-    /*console.log(wineData);*/ // This console was inserted just for testinf reasons to check if the dataset is loaded in the proper format
-
     // Converting the dataset to integers as it is being currently read as text
     wineData.forEach(function(d) {
         d.points = parseInt(d["points"]);
@@ -190,7 +188,7 @@ function show_average_points(ndx) {
 
     function reduce_item(p, v) {
         p.count--;
-        if (p.count == 0) { // Here we insert an if in case our count is 0 which would cause an error when calculatinf the average
+        if (p.count == 0) { // Here we insert an if in case our count is 0 which would cause an error when calculating the average
             p.total = 0;
             p.average = 0;
         }
@@ -206,8 +204,6 @@ function show_average_points(ndx) {
     }
 
     var averagePointsByCountry = dim.group().reduce(add_item, reduce_item, initialise_item);
-
-    /*console.log(averagePointsByCountry);*/
 
     dc.barChart("#average-points")
         .width(500)
@@ -263,27 +259,6 @@ function show_points_distribution(ndx) {
 
 // This function displays in the form of a stacked bar chart the wine variety per country
 function show_national_variety(ndx) {
-
-    // In this case we are nesting the custom reduce function internal to the reducer as opose to what has been done in the previous custom reduce
-    /*var cabernetSauvignon = dim.group().reduce(
-        function(p, v) {
-            p.total++;
-            if (v.variety == "Cabernet Sauvignon") {
-                p.match++;
-            }
-            return p;
-        },
-        function(p, v) {
-            p.total--;
-            if (v.variety == "Cabernet Sauvignon") {
-                p.match--;
-            }
-            return p;
-        },
-        function() {
-            return { total: 0, match: 0 };
-        }
-    );*/
 
     // Instead of duplicating the function above we can create another based on the one for Cabernet Sauvignon, which will take two arguments, dimension and variety
     function countryVariety(dimension, variety) {
