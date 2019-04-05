@@ -172,7 +172,7 @@ function show_country_distribution(ndx) {
         .group(group)
         .transitionDuration(500)
         .colors(d3.scale.ordinal().range(['#9a3339', '#E64C55', '#AB6C6F', '#E69196', '#672226', '#B33B42', '#805154', '#B37175', '#341113', '#C0797D', '#332022', '#802A2F', '#8D4327']))
-        .legend(dc.legend().x(30).y(75).itemHeight(10).gap(5));
+        .legend(dc.legend().x(30).y(75).itemHeight(15).gap(5));
 }
 
 
@@ -316,6 +316,8 @@ function show_national_variety(ndx) {
     var syrah = countryVariety(dim, "Syrah");
     var grenache = countryVariety(dim, "Grenache");
     var merlot = countryVariety(dim, "Merlot");
+    var tempranillo = countryVariety(dim, "Tempranillo");
+    var redblend = countryVariety(dim, "Red Blend");
     
     // We can log one of the variables above to see if the data is being loaded properly
     console.log(malbec.all());
@@ -324,7 +326,7 @@ function show_national_variety(ndx) {
     dc.barChart("#country-variety")
         .width(1100)
         .height(320)
-        .margins({ top: 10, right: 100, bottom: 70, left: 50 })
+        .margins({ top: 50, right: 100, bottom: 70, left: 50 })
         .dimension(dim)
         .group(cabernet, "Cabernet Sauvignon")
         .stack(malbec, "Malbec")
@@ -333,6 +335,8 @@ function show_national_variety(ndx) {
         .stack(syrah, "Syrah")
         .stack(grenache, "Grenache")
         .stack(merlot, "Merlot")
+        .stack(tempranillo, "Tempranillo")
+        .stack(redblend, "Red Blend")
         .valueAccessor(function(d) {                // As a custom reducer was put in place, here we must use the valueAccessor property in order to find out the percentage of each variety     
             if (d.value.total > 0) {
                 return (d.value.match / d.value.total).toFixed(1) * 100;
@@ -341,10 +345,10 @@ function show_national_variety(ndx) {
             }
         })
         .transitionDuration(500)
-        .colors(d3.scale.ordinal().range(['#9a3339', '#E64C55', '#AB6C6F', '#E69196', '#672226', '#B33B42', '#805154', '#B37175', '#341113', '#C0797D', '#332022', '#802A2F', '#8D4327']))
+        .colors(d3.scale.ordinal().range(['#9a3339', '#E64C55', '#AB6C6F', '#E69196', '#672226', '#B33B42', '#805154', '#B37175', '#341113', '#C0797D', '#332022', '#802A2F', '#8D4327', '#D97752', '#401A0B']))
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
-        .legend(dc.legend().x(800).y(10).itemHeight(15).gap(5))
+        .legend(dc.legend().x(800).y(0).itemHeight(8).gap(5))
         .yAxisLabel("Variety %");
 }
 
@@ -368,6 +372,8 @@ function show_price_to_points (ndx) {
     var minPrice = priceDim.bottom(1)[0].price;
     var maxPrice = priceDim.top(1)[0].price;
     
+    console.log(qualityToPriceDim.all());
+    
     dc.scatterPlot("#price-to-points")
         .width(1100)
         .height(320)
@@ -383,6 +389,10 @@ function show_price_to_points (ndx) {
         .dimension(arrayDim)
         .group(qualityToPriceDim)
         .margins({ top: 10, right: 70, bottom: 70, left: 50 })
-        .colors(d3.scale.ordinal().range(['#9a3339']))
+        .colors(d3.scale.ordinal().range(['#9a3339', '#9a3339']))
         .xAxis().ticks(20);
+}
+
+function sum() {
+    return 1493;
 }

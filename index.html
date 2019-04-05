@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Discover The Right Wine For You</title>
+    
+    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.ico" />
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/dc.min.css" type="text/css" />
@@ -17,7 +19,6 @@
     <script src="assets/js/dc.min.js"></script>
     <script src="assets/js/queue.min.js"></script>
     <script src="assets/js/graph.js"></script>
-
 </head>
 
 <body>
@@ -33,7 +34,7 @@
         <section class="section">
             <div class="container-fluid">
                 <div class="row">
-                    
+
                     <!--Profile & External Links-->
                     <div id="social" class="col-xs-12 col-sm-12 col-md-12 col-lg-2 text-center">
                         <div id="profile">
@@ -47,17 +48,18 @@
                             </ul>
                         </div>
                     </div>
-                    
+
                     <!--Filter-->
                     <div id="selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-10 text-center">
                         <div>
                             <h2 id="selector-header">Filter by Country, Variety, Points & Price:</h2>
                         </div>
                         <div class="center">
-                            <div id="country-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-3"></div>
-                            <div id="variety-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-3"></div>
-                            <div id="points-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-3"></div>
-                            <div id="price-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-3"></div>
+                            <div id="country-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-2"></div>
+                            <div id="variety-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-2"></div>
+                            <div id="points-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-2"></div>
+                            <div id="price-selector" class="col-xs-12 col-sm-12 col-md-12 col-lg-2"></div>
+                            <a id="reset-all" href="javascript:dc.filterAll(); dc.renderAll();" class="btn ol-xs-12 col-sm-12 col-md-12 col-lg-2">Reset All</a>
                         </div>
                     </div>
                 </div>
@@ -69,18 +71,18 @@
         <section class="section">
             <div id="wine-container" class="container-fluid">
                 <div class="row">
-                    
-                        
-                    <!--Wine Cards-->   
+
+
+                    <!--Wine Cards-->
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2 border-right-added">
                         <div class="row">
                             <div id="offers-section-title" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                 <h4 class="section-paragraph text-center">Suggestions</h4>
                             </div>
                         </div>
-                        
+
                         <!--First Card-->
-                        <div id="card-1" class="row">    
+                        <div id="card-1" class="row">
                             <div class="wine-card">
                                 <a href="" target="_blank">
                                     <div id="wine-image1"></div>
@@ -100,7 +102,7 @@
                         </div>
 
                         <!--Second Card-->
-                        <div id="card-2" class="row">    
+                        <div id="card-2" class="row">
                             <div class="wine-card">
                                 <a href="" target="_blank">
                                     <div id="wine-image2"></div>
@@ -117,10 +119,10 @@
                                     <a class="btn btn-secondary" href="https://www.vivino.com/explore?e=eJzLLbI11jNVy83MszVXy02ssDU2UEuutHULUku2dQ0NUiuwNVRLT7MtSyzKTC1JzFHLTbZVy08CYtuU1OJktfKS6FhbQwDjKBXB" target="_blank"><i class="fa fa-shopping-cart cart-icon"></i></a>
                                 </div>
                             </div>
-                        </div>    
+                        </div>
 
                         <!--Third Card-->
-                        <div id="card-3" class="row">    
+                        <div id="card-3" class="row">
                             <div class="wine-card">
                                 <a href="" target="_blank">
                                     <div id="wine-image3"></div>
@@ -138,9 +140,9 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <!--Fourth Card-->
-                        <div id="card-4" class="row">    
+                        <div id="card-4" class="row">
                             <div class="wine-card">
                                 <a href="" target="_blank">
                                     <div id="wine-image4"></div>
@@ -158,9 +160,9 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                     </div>
-                    
+
                     <!--Charts-->
                     <div id="charts" class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
                         <div class="container">
@@ -219,14 +221,14 @@
 
     <footer>
         <div id="footer" class="container">
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 footer-icons">
-					<a target="_blank" href="https://www.linkedin.com/in/felipe-spoliante-litran/"><i class="fa fa-linkedin"></i></a>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 footer-icons">
+                    <a target="_blank" href="https://www.linkedin.com/in/felipe-spoliante-litran/"><i class="fa fa-linkedin"></i></a>
                     <a target="_blank" href="mailto:felipelitran@gmail.com"><i class="fa fa-envelope"></i></a>
                     <a target="_blank" href="https://github.com/Litran1990"><i class="fa fa-github"></i></a>
-				</div>
-			</div>
-		</div>
+                </div>
+            </div>
+        </div>
     </footer>
 </body>
 
