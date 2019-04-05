@@ -392,7 +392,3 @@ function show_price_to_points (ndx) {
         .colors(d3.scale.ordinal().range(['#9a3339', '#9a3339']))
         .xAxis().ticks(20);
 }
-
-function sum() {
-    return 1493;
-}
