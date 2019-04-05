@@ -507,14 +507,6 @@ svg {
 
 }
 
-svg {
-
-    @include desktop {
-        width: 228px;
-    }
-
-}
-
 #country-variety svg {
 
     @include tablet {
