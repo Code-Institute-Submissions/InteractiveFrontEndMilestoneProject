@@ -2,7 +2,7 @@
 
 ## About
 
-<img src="assets/img/desktop-view.gif" width="300">
+<img src="assets/images/desktop-view.gif" width="300">
 
 This application (app) consists of a responsive dashboard  where users can find information about the wine world.  
 
@@ -40,14 +40,14 @@ A live demo can be found [here](https://litran1990.github.io/InteractiveFrontEnd
 - Taking into account the main theme of the app, I tried to focus on the colors which could resemble to a wine bottle, a vineyard, or wine itself going from a light red of a Pinot Noir to darker shades such as Bordeaux or Cabernet Sauvignon.
 - [Adobe Color](https://color.adobe.com/create/color-wheel/) provided me with complementary, compound, analogous, and monochromatic shades of red, orange, and brown used for the charts bars, pies, and legends.
 - Color
-    - ![#9a3339](https://placehold.it/15/00db78/000000?text=+) `#9a3339` colour description: dark red.
-    - ![#A7502F](https://placehold.it/15/00db78/000000?text=+) `#A7502F` colour description: ldark orange. 
-    - ![#F6D6C9](https://placehold.it/15/00db78/000000?text=+) `#F6D6C9` colour description: light red. 
-    - ![#fafafa](https://placehold.it/15/00db78/000000?text=+) `#EBEBEB` colour description: light grey. 
-    - ![#1D465D](https://placehold.it/15/00db78/000000?text=+) `#fafafa` colour description: white. 
-    - ![#1D465D](https://placehold.it/15/00db78/000000?text=+) `#1D465D` colour description: dark blue. 
-    - ![#50af57](https://placehold.it/15/00db78/000000?text=+) `#50af57` colour description: green. 
-    - ![#3b8240](https://placehold.it/15/00db78/000000?text=+) `#3b8240` colour description: dark green.
+    - ![#9a3339](https://placehold.it/15/9a3339/000000?text=+) `#9a3339` colour description: dark red.
+    - ![#A7502F](https://placehold.it/15/A7502F/000000?text=+) `#A7502F` colour description: ldark orange. 
+    - ![#F6D6C9](https://placehold.it/15/F6D6C9/000000?text=+) `#F6D6C9` colour description: light red. 
+    - ![#fafafa](https://placehold.it/15/fafafa/000000?text=+) `#EBEBEB` colour description: light grey. 
+    - ![#1D465D](https://placehold.it/15/1D465D/000000?text=+) `#fafafa` colour description: white. 
+    - ![#1D465D](https://placehold.it/15/1D465D/000000?text=+) `#1D465D` colour description: dark blue. 
+    - ![#50af57](https://placehold.it/15/50af57/000000?text=+) `#50af57` colour description: green. 
+    - ![#3b8240](https://placehold.it/15/3b8240/000000?text=+) `#3b8240` colour description: dark green.
 
 #### Font
 
@@ -73,7 +73,6 @@ A live demo can be found [here](https://litran1990.github.io/InteractiveFrontEnd
 - [Bootwatch](https://bootswatch.com/)
 - [Adobe Color](https://color.adobe.com/create/color-wheel/)
 - [Sass](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)
-- 
 
 ## Features
 
